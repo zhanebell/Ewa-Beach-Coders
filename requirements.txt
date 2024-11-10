@@ -1,0 +1,7 @@
+scrapy
+sentence-transformers
+qdrant-client
+customtkinter
+python-dotenv
+requests
+tqdm
