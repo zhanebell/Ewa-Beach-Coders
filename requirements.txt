@@ -1,7 +1,8 @@
-scrapy
-sentence-transformers
-qdrant-client
 customtkinter
-python-dotenv
 requests
+beautifulsoup4
+PyPDF2
+python-dotenv
+faiss-cpu
 tqdm
+sentence-transformers
