@@ -43,6 +43,7 @@ Your project should have the Scraped Data folder which contains all of the scrap
 ```bash
 python src/scraper.py
 ```
+Keep in mind that this may take around 30 minutes to completely run.
 
 ### 5. Build Embeddings
 ```bash
