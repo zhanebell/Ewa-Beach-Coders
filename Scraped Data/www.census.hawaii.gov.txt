@@ -1,0 +1,248 @@
+Source URL: https://www.census.hawaii.gov
+
+TEXT CONTENT:
+Census Skip to Content Skip to Navigation Skip to Footer Hawaii.gov Text size: Smaller | Reset | Larger Government Directory Department of Business, Economic Development & Tourism Census Search this site Search X icon Home About Us Reports Data Latest Population Estimate Data American Community Survey (ACS) Decennial Census Economic Census Local Employment Dynamics (LED) U.S. Census Bureau COVID-19 Pulse Surveys Geography & Maps Hawaii Census Geography Guide (2020) 2018-2022 ACS Demographic Maps Census Geography Quick Start Census Geography Searches Maps by Subject Dashboards Workshops 2020 Census 2020 Census 2020 Census Data & Reports 2020 Census Geography Hawaii Government Complete Count Committee READ Home Latest Population Estimates American Community Survey Decennial Census Economic Census Aloha from the Hawaii State Data Center The Hawaii State Data Center (HSDC) is an officially designated source of Census Bureau data for the State of Hawaii under a joint federal-state agreement with the U.S. Census Bureau relating to the national State Data Center Program. What’s New 2023 American Community Survey 1-Year Data Released September 12, 2024. The U.S. Census Bureau released the 2023 American Community Survey (ACS) 1-year estimates today. Included in this release are data for the State, the counties, Hawaii’s 10 Public Use Microdata Sample Areas (PUMAs), and Hawaii’s two congressional districts. Additionally, there are data for select CDPs, Urbanized Areas, and Micro/Metro Areas, including: Urban […] Read More 2023 American Community Survey 1-Year Data Released 2023 State and County Population Characteristics Released The U.S. Census Bureau released its 2023 State and County population characteristics for the nation, states, and counties on June 27, 2024. They include population estimates by age, sex, race (5 major race groups) and Hispanic origin between April 1, 2020 to July 1, 2023. Hawaii’s population aged 65 and over increased from 2020 to […] Read More 2023 State and County Population Characteristics Released 2023 HOUSING AND SUBCOUNTY POPULATION ESTIMATES RELEASED The U.S. Census Bureau released its Vintage 2023 housing units estimates and subcounty population estimates today. The release contains housing unit estimates for states and counties and population estimates for cities and towns. Because Hawaii does not have incorporated places, the Urban Honolulu Census Designated Place (CDP) is the only subcounty area in Hawaii for […] Read More 2023 HOUSING AND SUBCOUNTY POPULATION ESTIMATES RELEASED Read More Entries from Whats New Releases The Hawaii State Data Center is a local source that distributes census data; assists the public in the use of census data by providing technical advice; educates the public by providing guides and sponsoring training on census data, products and tools; and maintains a network of affiliate organizations throughout the state. This website provides Hawaii specific census data which are included in various products such as profiles, data highlights, reports and maps. They are available for different geographic areas from the national level to the small areas such as census tracts and blocks, depending upon the data and product of interest. HSDC is a part of the Research and Economic Analysis Division (READ) of the Hawaii State Department of Business, Economic Development & Tourism. Other federal-state cooperative programs within READ include the Federal-State Cooperative for Population Estimates (FSCPE) and the Federal-State Cooperative for Population Projections (FSCPP). Are you in a Census Bureau survey? The Census Bureau has many ongoing surveys of households and businesses. Visit this Census Bureau webpage to verify a survey. Still have questions? Contact the Census Bureau’s LA Regional Office at 1-800-992-3530. Get to know Hawaii Census Data Hawaii Data Profiles for social, economic, housing and demographic information Census Geography for area boundaries and other geographic information Hawaii Census Geography Guide for information about census geographies ACS 2018-2022 maps for the state, census tracts, state legislative districts, and counties About Us Contact Policies Terms of Use Accessibility Privacy Policy 808 586-2480 Contact Email Powered by eHawaii.gov Copyright © 2024, State of Hawaii. All rights reserved.
+
+EXTRACTED CONTENT FROM PDFs:
+
+--- Text from PDF (https://files.hawaii.gov/dbedt/census/geo/hawaii-geo-guide_2020.pdf) ---
+Page | 1    April 2024  
+ Hawaii’s Census Geograph y 
+A guide to the  U.S. Census Bureau’s 2020 Census boundaries  
+This guide was created by the Hawaii State Data Center, Research & Economic Analysis Division, 
+DBEDT. See also U.S. Census Bureau, Geographic Programs and Products Glossary . View reference 
+maps, subject maps, and additional geographic reference material on our Geography  page.  Jump start 
+your data.census.gov  searches with this Quick Start Search guide .  
+Islands  
+The 7 populated islands are Hawaii  (Big Island) , Maui, Lanai, Molokai, Oahu, Kauai, and Niihau. Census 
+tracts must be utilized to obtain data for island areas of Maui County and Kauai County  because islands 
+are not a Census Bureau geography. Within Maui County, Lanai Island consists of census tract 316.01; 
+Molokai Island consists of census tracts 317, 318.01, and 319 (the census tract that is a part of Kalawao County , not to be confused with tract 319 Spreckelsville on Maui Island ); and Maui Island  consists of the 
+remaining census tracts in the county.  Within Kauai County, Niihau and Kaula Island is census tract 412 
+and Kauai Island consists of the remaining census tracts in the county.  Outsid e of the d ecennial 
+census, data are not available for tract 412.   (Count:   7 populated islands)  
+Counties  
+Hawaii has 5 counties . The 5 counties in the State of Hawaii are Honolulu, Hawaii, Kalawao, Kauai, and 
+Maui. Kalawao County is the part of Molokai Island known as the Kalaupapa Settlement. It is administered by the Hawaii State Department of Health.   (Count:  5 counties) 
+Census designated places (CDPs) 
+Census designated places (CDPs or Places)  are statistical geograph ies representing closely settled, 
+unincorporated communities that are locally recognized and identifiable by name.  CDPs are statistical 
+equivalents of incorporated  places and represent unincorporated communities that do not have a legally 
+defined boundary or an active functioning governmental structure . They are concentrations  of population 
+that only cover selected land areas in Hawaii. There are 163 Places in the state as of 2020; 54 are in Hawaii 
+County, 55 are in Honolulu County, 30 are in Maui County, and 24 are in Kauai County. (Count : 163 CDPs)  
+Census tracts 
+Census tracts are small statistical subdivisions o f a county or statistically equi valent entity that  will 
+generally have a population size between 1,200 and 8,000 people . The b oundaries  of census tracts  are 
+drawn with the intention of being maintained over a long period so that comparisons can be made from census to census. The size  of census tracts depends on population size . A tract can be split due to 
+population growth or merged because of population decline.   
+County planning offices in Hawaii provide the Department of Business, Economic Development & 
+Tourism with area names for each census tract
+. For example, Honolulu County’s census tract 52 is 
+named “Chinatown .” We are one of the only states in the U.S. that have names assigned to each census 
+tract. However, these are not official U.S. Census Bureau names.  
+Tract n umbers are only unique by county and can be repeated in the same state.  The only  tract number  
+that is repeated is 319 , which is used for  Spreckelsville in Maui County and Kalawao in Kalawao County 
+on the island of Molokai.  Tracts are  often used for “small area” analyses. (Count: 4 36 census tracts, 
+excluding shoreline water tracts)   
+ 
+Page | 2    April 2024  
+ Incorporated places (Cities)  
+Incorporated places are legally incorporated under state law, have a legally defined boundary, and an 
+active functioning governmental structure. Hawaii is the only state that has no incorporated places recognized by the Census Bureau.  In agreement with the state, the legal consolidation of city -county  is 
+not recognized for census purposes except for the Census of Governments . 
+Congressional districts  
+The congressional districts used for the 2020 Census were the ones in effect for the 11 6th U.S. Congress. 
+After reapportionment,  which was based on the 2020 Census, the Congressional districts for the 118th 
+congress were used by the Census Bureau. Hawaii had 2 Congressional districts for both the 116th 
+Congress and the 118th Congress. (Count: 2 Congressional Districts)  
+Hawaiian Home Lands  (HHLs) 
+HHLs are areas held in trust for Native Hawaiians by the State of Hawaii, pursuant to the Hawaiian Homes Commission Act of 1920, as amended. The Census Bureau obtains the names and boundaries for HHLs from state officials.  
+ There are data for  26 HHLs on  Hawaii  Island, 8 on Kauai, 1 on Lanai, 6 on 
+Molokai, 11 on Maui Island, and 22 on Oahu . (Count: 74 Hawaiian Home Lands  with data ) 
+Zip Code Tabulation Areas (ZCTAs)  
+Zip Code Tabulation Areas  (ZCTAs) are approximate representations of U.S. Postal Service (USPS) five-
+digit ZIP codes . Not all ZIP codes in use by the USPS may have a ZCTA delineated to represent them , as 
+ZIP codes are designed for the efficient delivery of mail and not intended to represent populations.  By 
+popular request, ZCTAs first appeared as a census geographic level in 2000.  (Count: 9 7) 
+Public Use Microdata Areas (PUMAs)  
+Public Use Microdata Areas (PUMAs) are geographic areas with populations of 100,000 people or more. They are the statistical geographic areas  used for the dissemination of decennial census and American 
+Community Survey (ACS) Public Use Microdata Sample (PUMS)  files. 
+PUMAs 306 and 307 on O ahu changed between 2010 and 2020. These c hanges were made to align the 
+PUMAs with county planning department definitions of the areas. The n ames and PUMA numbers did not 
+change . For more information on these changes , follow this link
+. 
+Kauai County  does not meet the population threshold for its own PUMA. As a result, Kauai, Maui , and 
+Kalawao Counties are combined in PUMA 100. Hawaii has a total of 10 PUMAs. Area names for each 
+PUMA are provided by the U.S. Census Bureau.  (Count: 10 P ublic Use Microdata Areas ) 
+Judicial district s 
+Judicial Districts are not a separate census geographic level. Judicial district areas may be obtained by utilizing the  Census Bureau’s county subdivision geography. See the conversion table
+ for guidance on 
+creating judicial districts . (Count: 28 judicial districts ) 
+Metropolitan Statistical Areas (MSAs)  
+MSAs contain an urban core population of at least 50,000 people . Urban Honolulu MSA covers the same 
+area as the City and County of Honolulu .  Until 2013, Kahului ‐Wailuku ‐Lahaina, which consists of Maui 
+County,  was a Micropolitan Statistical Area . In 2013, it became Hawaii’s second M etropolitan Statistical 
+Area . (Count: 2  Metropolitan Statistical Areas)   
+ 
+Page | 3    April 2024  
+ Micropolitan Statistical Area s 
+Micropolitan statistical areas contains an urban core population ranging from a minimum of 10,000 to a 
+maximum of 50,000 people.  There are 2 Micropolitan Statistical Areas. The Hilo Micropolitan Statistical 
+Area consists of Hawaii County and Kapaau Micropolitan Statistical Area consists of Kauai County . 
+(Count: 2 Micropolitan Statistical areas)  
+Urban and rural area s 
+Urban areas represent densely developed territory, and encompass residential, commercial, and other 
+non -residential urban land uses. The Census Bureau delineates urban areas after each decennial 
+census. Rural areas are all land areas that are not a part of an urban area. 
+In 2010, there were two types of urban areas -- 1) urbanized areas with populations of 50,000 or more, 
+and 2) urban clusters with at least 2,500 people, but less than 50,000.  For 2020, the Census Bureau 
+changed its criteria for urban areas to the following  ways : 1) All qualifying areas are now “urban areas.” 
+The Census Bureau no longer distinguishes between “urbanized areas” and “urban clusters.” 2) The minimum population threshold for an urban area was increased to 5,000. 3 ) Qualifications were 
+updated to include housing unit density in addition to population density. The minimum housing unit  
+threshold  is 2,000 housing units.  See this DBEDT report
+ for more information about the 2020 Urban and 
+Rural areas. (Count: 15 Urban areas) 
+School districts 
+School districts are geographic entities within which public educational services are provided by a 
+government entity for the area’s residents.  In the state of Hawaii, there is only one  school district 
+because the school system is statewide. (Count: 1 School district)  
+County subdivisions  
+County subdivisions  are the primary divisions of counties and equivalent entities that include county 
+divisions, census subareas, minor civil divisions, and unorganized territories . They  can be classified as 
+either legal or statistical  entities . 
+Legal entities , or minor civil divisions  (MCD) , are the primary governmental or administrative divisions o f 
+a county . They represent many kinds of legal entities with a variety of governmental or administrative 
+functions. There are no minor civil divisions in Hawaii. 
+Statistical entities , or census county divisions  (CCDs) , are delineated by the Census Bureau in 
+partnership with local governments. CCDs have no legal function . Their  boundaries usually coincide with 
+census tract boundaries . CCDs are in areas where there are no MCDs. (Count: 44 county subdivisions)  
+State Legislative Districts 
+State legislative districts are the areas from which members  of the state legislature  are elected. The 
+Hawaii legislature is bicameral (having two chambers)  and includes  the House  and the Senate. (Count: 
+51 State House districts, 25 State Senate districts)  
+Voting Districts 
+Voting Districts are geographic areas established by state governments for the purpose of conducting 
+elections . Prior to the 2020  Census , there were 3 44 voting districts . At the time of publication , data for 
+individual voting districts is not available for Hawaii for 2020 and beyond .
+
+--- Text from PDF (https://files.hawaii.gov/dbedt/census/geo/hawaii-geo-guide_2020.pdf) ---
+Page | 1    April 2024  
+ Hawaii’s Census Geograph y 
+A guide to the  U.S. Census Bureau’s 2020 Census boundaries  
+This guide was created by the Hawaii State Data Center, Research & Economic Analysis Division, 
+DBEDT. See also U.S. Census Bureau, Geographic Programs and Products Glossary . View reference 
+maps, subject maps, and additional geographic reference material on our Geography  page.  Jump start 
+your data.census.gov  searches with this Quick Start Search guide .  
+Islands  
+The 7 populated islands are Hawaii  (Big Island) , Maui, Lanai, Molokai, Oahu, Kauai, and Niihau. Census 
+tracts must be utilized to obtain data for island areas of Maui County and Kauai County  because islands 
+are not a Census Bureau geography. Within Maui County, Lanai Island consists of census tract 316.01; 
+Molokai Island consists of census tracts 317, 318.01, and 319 (the census tract that is a part of Kalawao County , not to be confused with tract 319 Spreckelsville on Maui Island ); and Maui Island  consists of the 
+remaining census tracts in the county.  Within Kauai County, Niihau and Kaula Island is census tract 412 
+and Kauai Island consists of the remaining census tracts in the county.  Outsid e of the d ecennial 
+census, data are not available for tract 412.   (Count:   7 populated islands)  
+Counties  
+Hawaii has 5 counties . The 5 counties in the State of Hawaii are Honolulu, Hawaii, Kalawao, Kauai, and 
+Maui. Kalawao County is the part of Molokai Island known as the Kalaupapa Settlement. It is administered by the Hawaii State Department of Health.   (Count:  5 counties) 
+Census designated places (CDPs) 
+Census designated places (CDPs or Places)  are statistical geograph ies representing closely settled, 
+unincorporated communities that are locally recognized and identifiable by name.  CDPs are statistical 
+equivalents of incorporated  places and represent unincorporated communities that do not have a legally 
+defined boundary or an active functioning governmental structure . They are concentrations  of population 
+that only cover selected land areas in Hawaii. There are 163 Places in the state as of 2020; 54 are in Hawaii 
+County, 55 are in Honolulu County, 30 are in Maui County, and 24 are in Kauai County. (Count : 163 CDPs)  
+Census tracts 
+Census tracts are small statistical subdivisions o f a county or statistically equi valent entity that  will 
+generally have a population size between 1,200 and 8,000 people . The b oundaries  of census tracts  are 
+drawn with the intention of being maintained over a long period so that comparisons can be made from census to census. The size  of census tracts depends on population size . A tract can be split due to 
+population growth or merged because of population decline.   
+County planning offices in Hawaii provide the Department of Business, Economic Development & 
+Tourism with area names for each census tract
+. For example, Honolulu County’s census tract 52 is 
+named “Chinatown .” We are one of the only states in the U.S. that have names assigned to each census 
+tract. However, these are not official U.S. Census Bureau names.  
+Tract n umbers are only unique by county and can be repeated in the same state.  The only  tract number  
+that is repeated is 319 , which is used for  Spreckelsville in Maui County and Kalawao in Kalawao County 
+on the island of Molokai.  Tracts are  often used for “small area” analyses. (Count: 4 36 census tracts, 
+excluding shoreline water tracts)   
+ 
+Page | 2    April 2024  
+ Incorporated places (Cities)  
+Incorporated places are legally incorporated under state law, have a legally defined boundary, and an 
+active functioning governmental structure. Hawaii is the only state that has no incorporated places recognized by the Census Bureau.  In agreement with the state, the legal consolidation of city -county  is 
+not recognized for census purposes except for the Census of Governments . 
+Congressional districts  
+The congressional districts used for the 2020 Census were the ones in effect for the 11 6th U.S. Congress. 
+After reapportionment,  which was based on the 2020 Census, the Congressional districts for the 118th 
+congress were used by the Census Bureau. Hawaii had 2 Congressional districts for both the 116th 
+Congress and the 118th Congress. (Count: 2 Congressional Districts)  
+Hawaiian Home Lands  (HHLs) 
+HHLs are areas held in trust for Native Hawaiians by the State of Hawaii, pursuant to the Hawaiian Homes Commission Act of 1920, as amended. The Census Bureau obtains the names and boundaries for HHLs from state officials.  
+ There are data for  26 HHLs on  Hawaii  Island, 8 on Kauai, 1 on Lanai, 6 on 
+Molokai, 11 on Maui Island, and 22 on Oahu . (Count: 74 Hawaiian Home Lands  with data ) 
+Zip Code Tabulation Areas (ZCTAs)  
+Zip Code Tabulation Areas  (ZCTAs) are approximate representations of U.S. Postal Service (USPS) five-
+digit ZIP codes . Not all ZIP codes in use by the USPS may have a ZCTA delineated to represent them , as 
+ZIP codes are designed for the efficient delivery of mail and not intended to represent populations.  By 
+popular request, ZCTAs first appeared as a census geographic level in 2000.  (Count: 9 7) 
+Public Use Microdata Areas (PUMAs)  
+Public Use Microdata Areas (PUMAs) are geographic areas with populations of 100,000 people or more. They are the statistical geographic areas  used for the dissemination of decennial census and American 
+Community Survey (ACS) Public Use Microdata Sample (PUMS)  files. 
+PUMAs 306 and 307 on O ahu changed between 2010 and 2020. These c hanges were made to align the 
+PUMAs with county planning department definitions of the areas. The n ames and PUMA numbers did not 
+change . For more information on these changes , follow this link
+. 
+Kauai County  does not meet the population threshold for its own PUMA. As a result, Kauai, Maui , and 
+Kalawao Counties are combined in PUMA 100. Hawaii has a total of 10 PUMAs. Area names for each 
+PUMA are provided by the U.S. Census Bureau.  (Count: 10 P ublic Use Microdata Areas ) 
+Judicial district s 
+Judicial Districts are not a separate census geographic level. Judicial district areas may be obtained by utilizing the  Census Bureau’s county subdivision geography. See the conversion table
+ for guidance on 
+creating judicial districts . (Count: 28 judicial districts ) 
+Metropolitan Statistical Areas (MSAs)  
+MSAs contain an urban core population of at least 50,000 people . Urban Honolulu MSA covers the same 
+area as the City and County of Honolulu .  Until 2013, Kahului ‐Wailuku ‐Lahaina, which consists of Maui 
+County,  was a Micropolitan Statistical Area . In 2013, it became Hawaii’s second M etropolitan Statistical 
+Area . (Count: 2  Metropolitan Statistical Areas)   
+ 
+Page | 3    April 2024  
+ Micropolitan Statistical Area s 
+Micropolitan statistical areas contains an urban core population ranging from a minimum of 10,000 to a 
+maximum of 50,000 people.  There are 2 Micropolitan Statistical Areas. The Hilo Micropolitan Statistical 
+Area consists of Hawaii County and Kapaau Micropolitan Statistical Area consists of Kauai County . 
+(Count: 2 Micropolitan Statistical areas)  
+Urban and rural area s 
+Urban areas represent densely developed territory, and encompass residential, commercial, and other 
+non -residential urban land uses. The Census Bureau delineates urban areas after each decennial 
+census. Rural areas are all land areas that are not a part of an urban area. 
+In 2010, there were two types of urban areas -- 1) urbanized areas with populations of 50,000 or more, 
+and 2) urban clusters with at least 2,500 people, but less than 50,000.  For 2020, the Census Bureau 
+changed its criteria for urban areas to the following  ways : 1) All qualifying areas are now “urban areas.” 
+The Census Bureau no longer distinguishes between “urbanized areas” and “urban clusters.” 2) The minimum population threshold for an urban area was increased to 5,000. 3 ) Qualifications were 
+updated to include housing unit density in addition to population density. The minimum housing unit  
+threshold  is 2,000 housing units.  See this DBEDT report
+ for more information about the 2020 Urban and 
+Rural areas. (Count: 15 Urban areas) 
+School districts 
+School districts are geographic entities within which public educational services are provided by a 
+government entity for the area’s residents.  In the state of Hawaii, there is only one  school district 
+because the school system is statewide. (Count: 1 School district)  
+County subdivisions  
+County subdivisions  are the primary divisions of counties and equivalent entities that include county 
+divisions, census subareas, minor civil divisions, and unorganized territories . They  can be classified as 
+either legal or statistical  entities . 
+Legal entities , or minor civil divisions  (MCD) , are the primary governmental or administrative divisions o f 
+a county . They represent many kinds of legal entities with a variety of governmental or administrative 
+functions. There are no minor civil divisions in Hawaii. 
+Statistical entities , or census county divisions  (CCDs) , are delineated by the Census Bureau in 
+partnership with local governments. CCDs have no legal function . Their  boundaries usually coincide with 
+census tract boundaries . CCDs are in areas where there are no MCDs. (Count: 44 county subdivisions)  
+State Legislative Districts 
+State legislative districts are the areas from which members  of the state legislature  are elected. The 
+Hawaii legislature is bicameral (having two chambers)  and includes  the House  and the Senate. (Count: 
+51 State House districts, 25 State Senate districts)  
+Voting Districts 
+Voting Districts are geographic areas established by state governments for the purpose of conducting 
+elections . Prior to the 2020  Census , there were 3 44 voting districts . At the time of publication , data for 
+individual voting districts is not available for Hawaii for 2020 and beyond .

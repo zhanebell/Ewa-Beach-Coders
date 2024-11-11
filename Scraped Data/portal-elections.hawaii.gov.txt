@@ -1,0 +1,6 @@
+Source URL: https://portal-elections.hawaii.gov
+
+TEXT CONTENT:
+Home Page Office of Elections Aloha and Welcome to Hawaii's Electronic Ballot Delivery System Enter the required information below to access your ballot. Last Name : Date of Birth : Last Four Social Security Number or Hawaii Driver’s License or State ID number :
+
+EXTRACTED CONTENT FROM PDFs:

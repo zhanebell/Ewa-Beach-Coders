@@ -1,0 +1,6 @@
+Source URL: https://viccftest.hawaii.gov
+
+TEXT CONTENT:
+Your IP address Please be aware that your local IP address that is on your PC may not be the IP that devices outside of your network see when you connect to them. Oftentimes, a network firewall will translate yours, and everyone else's IP address on your network, to some generic one for security reasons. This server is on the GPC Tier 1 network , and it sees your IP address as : 72.234.121.186
+
+EXTRACTED CONTENT FROM PDFs:

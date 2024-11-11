@@ -1,0 +1,6 @@
+Source URL: https://eportal.dhs.hawaii.gov
+
+TEXT CONTENT:
+DHS Provider Login Please note that this is the TEST region. Some values are not the same as in the PRODUCTION region. Aloha, There was an error on the server. Please try again in a few minutes. If the problem persists please contact the DHS Network Support Center at 808-586-5060 to report this problem. Aloha, The area of this site that you are currently trying to access is unavailable. Due to DHS operational considerations, some areas of this site are only available from 6:30 a.m. to 6:30 p.m., Monday through Friday, except State Holidays. If you are attempting to access an area outside these hours, please try again during these hours. Otherwise, the area may be temporarily unavailable, please try again later. Mahalo
+
+EXTRACTED CONTENT FROM PDFs:

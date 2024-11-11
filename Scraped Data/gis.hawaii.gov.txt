@@ -1,0 +1,6 @@
+Source URL: https://gis.hawaii.gov
+
+TEXT CONTENT:
+Changes to gis.hawaii.gov Changes to gis.hawaii.gov This server ( gis.hawaii.gov ) has moved. The REST services that were previously published from here have been incorporated into a redesigned database ( geodata.hawaii.gov ). To find the URL of the web service that you were previously connecting to, and the new location of that service, please refer to this table: Hawaii Statewide GIS CrossWalk Table . To view a categorized list of map services, please refer to this list: Hawaii Statewide GIS REST Service page . To download data, or to search for data by keyword or map extent, please visit our Open Data Portal at: https://geodata.hawaii.gov If you can't find the data you're looking for, or have questions about the data or URL changes, please feel free to contact us at: Phone: (808) 587-2846 Email: [email protected] Web: https://planning.hawaii.gov/gis
+
+EXTRACTED CONTENT FROM PDFs:

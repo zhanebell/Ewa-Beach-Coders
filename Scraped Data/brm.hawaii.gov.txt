@@ -1,0 +1,6 @@
+Source URL: https://brm.hawaii.gov
+
+TEXT CONTENT:
+Welcome to AASHTOWare AASHTOWare Bridge Management Login. User ID: Password: Database: BrM671_input Headlight Javascript must be enabled to use this site. Login BrM Version 6.7.1.1a03790422 6.7.1 [Build Date: Thursday October 26, 2023] © Copyright 2006-2014 by the American Association of State Highway and Transportation Officials, Inc. A Proprietary Computer Software Product https://aashtoware.org | AASHTO Publications 555 12th Street NW, Suite 1000, Washington, DC 20004 USA Phone: (202) 624-5800 Fax: (202) 624-5806
+
+EXTRACTED CONTENT FROM PDFs:

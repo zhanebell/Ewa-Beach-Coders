@@ -1,0 +1,4135 @@
+Source URL: https://www.pmce.hawaii.gov
+
+TEXT CONTENT:
+Office of Enterprise Technology Services | IT Governance Skip to Content Skip to Navigation Skip to Footer Hawaii.gov Accessibility Text size: Smaller | Reset | Larger Government Directory State of Hawaii Office of Enterprise Technology Services Keʻena Hoʻolana ʻEnehana Search this site Search button X icon RSS icon Facebook icon Flickr icon Youtube icon Instagram icon Home About Who We Are Enterprise Payroll and Time & Attendance Modernization Reports Independent Verification and Validation Reports Reports to the Legislature UIPA Requests Policies IT Steering Committee News Recent News Press Releases howz.IT Newsletter (subscribe) Contact General Inquiries Web Accessibility Resources Teleworking Jobs For Vendors Public Notices Home » IT Governance IT Governance IT Governance ETS’ IT Governance (ITG) assists the CIO with developing, implementing, and managing statewide information technology governance. ETS’ IT Governance implements and coordinates the governance process required by the Administrative Directive No. 18-03 – Program Governance and IV&V Requirements for Enterprise IT Projects . The state’s IT project portfolio governance consists of project phase review gates to ensure project execution and associated expenditures are sufficiently evaluated and receive approval by the appropriate state governing bodies. The old Form ETS-205, Computer Hardware, Software, or Services Request, was replaced with a workflow enabled by LeanIX, the statewide IT Portfolio Management Tool in September 2021. Refer to section 21.d in the Governor’s Budget Execution Policies . To eliminate duplicate data entry and to improve and unify the statewide IT portfolio management, all IT spend requests shall be initiated in LeanIX and approved using the eSign approval workflow. If a department needs additional LeanIX user accounts or further assistance, please contact your departmental IT coordinator. IT Project Phase Review Gates Roadmapping Phase – ITG reviews each department’s IT roadmap periodically together with the department and the CIO. Budgeting Phase – ITG coordinates with the Department of Budget & Finance a yearly CIO evaluation of all executive branch IT budget requests. Initiating Phase – For any IT spending costing over $100,000, departments submit IT Spend Requests to ITG. ITG coordinates a CIO review of all these IT Spend Requests. Planning Phase – For any IT spending costing over $1 million, ITG coordinates a review and approval of the spend request with the Project Advisory Council (PAC). Procurement Phase – CIO must approve all IT procurement solicitations and procurement contracts over $100,000. Contract and Operations Phase – ITG coordinates periodic reviews of active IT projects. PC Acquisition Guidelines ETS Guideline No. 306 – PC Acquisition Guidelines ETS Guideline No. 306.01 – Recommended PC Specifications GSA Schedule 70 State Procurement Office (SPO) Procurement Circular No. 2017-06 : GSA Schedule 70 Contracts for IT Services Only GSA IT Schedule 70 instructions (2017.05.17) SPO-050 : Notice of Request to Use GSA Schedule 70 for Purchases/Contracts Exceeding $1,000,000 GSA IT Schedule 70 Frequently Asked Questions (FAQs) for Buyers Telecommunications Request (TR) Form ETS Telecommunications Request form (AKA “TR” form. AKA ETS-001. Revised 2019.07.01). Recent changes to the form: 2019.03.25 Now a fillable PDF form 2019.07.01 References to “TSB” or “Telecom Services Branch” are changed to “NB” or “Network Branch”, and the new physical/mailing address is listed 2019.07.01 The form also includes a signature line for the ETS Chief Information Officer, when needed for ETS IT Governance approval ETS Telecommunications Request form instructions (Revised 2019.07.01) Clarification in the Process of Ordering Patch Cords/Patch Cables Purchases of patch cords/patch cables do not require approval from ETS. As such, do not submit a Telecom Request (TR). When ordering patch cords/patch cables, issue Purchase Orders (PO) directly to the vendor. When ordering from Hawaiian Telcom (HT), send the PO to your HT Account Manager. About Us Staff Biographies Contact Us Site Map Policies Terms of Use Accessibility Privacy Policy (808) 586-6000 [email protected] Powered by eHawaii.gov Copyright © 2024, State of Hawaii. All rights reserved.
+
+EXTRACTED CONTENT FROM PDFs:
+
+--- Text from PDF (https://budget.hawaii.gov/wp-content/uploads/2022/08/EM-22-03-Attachment-A.pdf) ---
+Attachment A 
+GOVERNOR’S BUDGET EXECUTION POLICIES 
+FISCAL YEAR 2023 
+Budget Execution Policies for FY 23 contained in this document are generally s imilar to 
+those issued for FY 22, except for substantive changes , deletions , and/or additions in 
+the following sections (does not include renumbering and updates to budget act s, dates, 
+etc.): 
+• 2. General Statement of Policies (Item 2.h.) 
+• 3. Allocatio ns 
+• 5. Allotment of Appropriations for Specific Purposes from Act 88, SLH 2021, as 
+Amended by Act 248, SLH 2022 (new) 
+• 6. Allotment of Appropriations for C apital Improvement Program in the Operating 
+Budget (new) 
+• 7. Allotment of Specific Appropriations and Appr opriations for Funds to Private 
+Agencies 
+• 9. Lapsing of Funds 
+• 11. Federal Funds 
+• 15. Gifts or Private Contributions to Programs 
+• 17. Workforce Control (Item 18.a.) 
+• 18. Transfer of Funds and/or Positions 
+• 19. Contracts 
+• 20. Travel 
+• 24. Procurement of Goods, Services, and Construction (Chapter 103D, HRS) and 
+Purchase of Health and Human Services (Chapter 103F, HRS) 
+• 25. Request for Allotment of Funds (Operating) 
+• 26. Allotment Balances/Transfer of Funds 
+• 28 Reimbursement for Vacation Payouts 
+• 29. Reimburse ment for Vacation Payouts for Exiting Cabinet Members (new) 
+• 30. C apital Improvement Program Expenditures 
+Questions on the specific policies and instructions contained in this document should be directed to the Department of Budget and Finance (B&F) through the B&F budget analyst(s) assigned to each department. 
+1. Scope and Applicability . 
+The Governor’s Budget Execution Policies and Instructions shall apply to all means 
+of financing (MOF) appropriated and authorized by Act 88, SLH 2021, as amended 
+by Act 248, SLH 2022 (the Supplemental Appropriations Act of 2022 ), and other 
+specific appropriations authorized for expenditure in FY 22 (retroactively) and FY 23 
+by the 2022 Legislature or other legislative sessions .  
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+      
+   
+ 
+ 
+    
+   
+   
+ 
+ 
+      
+  
+     
+    
+ 
+ 
+ 
+   
+ 
+  
+   
+  
+ 
+ 
+    
+ 
+   
+ 
+    
+  
+ 
+   
+    
+  
+   
+ 
+ 
+   
+     
+     
+  -2-
+2. General Statement of Policies. 
+State agencies shall implement appropriation acts, providing for State government 
+programs in conformance with the purpose of such acts, and shall carry out such purposes efficiently and with due respect for the financial condition of the State and all applicable laws and policies. 
+a. Oversight and control shall be executed in accordance with Part II of Chapter 37, 
+HRS , Allotment System ; Section 37-74, HRS , Program Execution; and other 
+applicable legislation and statutes. 
+b. Departments shall plan program operations and expenditures for the fiscal year 
+at levels necessary to accomplish program goals within the allocation ceilings approved for the departments pursuant to Part II of Chapter 37, HRS , Allotment 
+System. 
+Total expenditures and total permanent and temporary position ceilings 
+designated for each program in each fiscal year shall not exceed the sums and 
+number s appropriated or authorized and allocated as provided in Exhibit 1, 
+FY 2023 Allocation , except as otherwise provided by law. 
+c. Expenditure plans shall be developed within allocated amounts consistent with legislative req uirements and Executive priorities.  These plans shall be prepared 
+and submitted to B&F according to Attachment B. 
+d. Program reports of affected activities, attainments, and expenditures corresponding to proposed allocations by allotment periods shall be submitted according to Attachment B. 
+e. Special fund expenditure plans shall include estimates of transfers to the gener al 
+fund, as required by Sections 36-27 through 36- 30, HRS (or as otherwise 
+provided by law), for the payment of various assessments for special fund central services and departmental administrative expenses.  Such assessments 
+should be within allocated appropriations and treated as first charges against the respective funds , unless otherwise specified. Transfers shall be made to the 
+general fund on a quarterly basis . 
+f. Programs situated on ceded lands that derive revenues shall comply with Executive Order No. 06 -06.  Changes in activities on ceded lands and/or 
+changes in the status of ceded lands that result in new revenues are subject to 
+Executive Order No. 06-06.  Transfers to the Office of Hawaiian Affairs shall be 
+made on a quarterly basis . 
+g. To the extent possible, every effort shall be made to utilize authorized federal and other non- general revenue resources to provide services that meet similar 
+objectives of programs for which State funds are authorized. All such  
+ 
+ 
+  
+ 
+   
+  
+ 
+  
+     
+   
+      
+ 
+ 
+   
+    
+  
+   
+   
+   
+   
+ 
+    
+ 
+  
+  
+  
+  
+   
+ 
+ 
+ 
+   
+   
+  
+   
+ 
+ 
+    
+ 
+  
+ 
+  
+ 
+    
+     
+      
+      
+     
+  
+ 
+  -3-
+non-general fund expenditures, however, must be within amounts appropriated 
+and allocated, except where otherwise authorized by law (see section on 
+“Federal Funds” in this attachment for further guidelines ). 
+All agencies receiving federal funds for operational purposes shall re view such 
+operations for possible changes to anticipated federal grants or other federal 
+funding agreements. All departments should exercise caution in establishing, filling , and/or extending federally funded positions. The use of discretionary 
+federal f unds for positions is discouraged and should be minimized. 
+It should not be assumed that State funds will replace any reduction in federal funds, nor should it be assumed that State funds will be made available to 
+qualify for increases in available federal matching funds.  Program need and statewide priority must be demonstrated. As future reductions to federal grant 
+awards and other federal funding agreements remain possible, departments 
+should continue to work with their federal contacts to closely monitor the status 
+of the respective federal programs. 
+h. To control the growing energy demand and costs of State operations, agencies are urged to take appropriate steps to improve energy efficiency in State facilities.   Agencies shall comply with Administrative Directive (A.D.) No. 06-01, 
+Energy and Resource Efficiency and Renewable Energy and Resource Development , dated January 20, 2006 ( https://budget.hawaii.gov/wp -
+content/uploads/2012/11/FY -2006- AD-06-01-Energy -and-Resource- Efficiency -
+and-Renewable- Energy -and-Resource- Development.pdf ), and State energy 
+policies in accordance with Chapter 196, HRS , and newly enacted Act 239, 
+SLH 2022. 
+Agencies  should work with the Hawai‘i State Energy Office (HSEO), attached to 
+the Department of Business, Economic Development and Tourism (DBEDT) , to 
+ensure that they are using the most current guidance.  Coordination of A.D. No. 06-01 and future directives regarding this matter shall be under the auspices 
+of HSEO. 
+i. The implementation of program budgets shall be consistent with the overall theme, go als, objectives , and policies of the priority guidelines contained within 
+applicable approved functional plans and as contained within Chapter 226, HRS. 
+3. Allocations . 
+Exhibit 1 contains each department’s full -year allocation (net allocation), which 
+reflects each department’s FY 23 operating program appropriation (gross allocation) 
+from Act 88, SLH 2021, as amended by Act 248, SLH 2022, with applicable 
+adjustments .  “Act 88, SLH 2021, as amended by Act 248, SLH 2022,” includes 
+transfers pursuant to Act 6, SpSLH 2021 (debt service); Act 219, SLH 2022 
+(Agribusiness Development Corporation to DBEDT); and Act 220, SLH 2022 
+(Stadium Authority to DBEDT).  
+ 
+ 
+  
+  
+ 
+     
+   
+   
+ 
+  
+   
+  
+ 
+     
+   
+ 
+     
+      
+     
+   
+ 
+  
+ 
+   
+ 
+   
+         
+  
+ 
+    
+    
+  
+ 
+ 
+    
+      
+  
+   
+ 
+  
+ 
+   
+       
+    
+      
+   
+    
+ 
+  -4-
+• General funds 
+All departments excluding the Department of Education (DOE) and University of 
+Hawai‘i (UH) – 100% of non- discretionary appropriation; $4,000,000 of 
+discretionary appropriation plus 90% (adjusted by a 5% hard restriction and a 
+5% contingency restriction) of balance of discretionary appr opriation (adjusted 
+by appropriations for specific purposes, Chapter 42F grants and capital 
+improvement program (CIP) funding in the operating budget ; i.e., these 
+appropriations are not included in department allocations ). 
+DOE and U H – 100% of appropriati on (adjusted by appropriations for specific 
+purposes, Chapter 42F grants and CIP funding in the operating budget). Note:  General -funded appropriations for specific purposes from Act 88, 
+SLH 2021, as amended by Act 248, SLH 2022, and specific appropriations from 
+other acts shall be subject to a 10% restriction (5% hard restriction and 
+5% contingency restriction) upon release . 
+• Other than general funds All departments – 100% of appropriation. 
+Exhibit 1 also reflects included and excluded, as applicable, collective bargaining 
+(CB) allocations for Bargaining Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, and 14 for 
+the applicable negotiated agreements. CB appropriations for Hawai ‘i 
+Employer -Union Health Benefits Trust Fund only are allocated to B&F.  Additionally, 
+Exhibit 1 includes allocations to fund salary increases pursuant to the Commission 
+on Salaries’ 2019 report to the Legislature and Act 2, SLH 2020, as amended by 
+Act 14, SLH 2021. 
+FY 23 departmental Requests for Allotment ( Form A-19) shall reflect full- year 
+allocations by Program ID and MOF. Use Form CB to provide a summary 
+breakdown of CB allocations by fund, appropriation symbol, Act, and 
+included/excluded. Totals should be provided by fund. 
+4. Funds Subject to Allotment . 
+All MOF appropriated or authorized by the Legislature for FY 22 (retroactively) or 
+FY 23 shall be subject to the allotment process as provided by Section 37 -33, HRS. 
+Unencumbered allotment balances at the end of each allotment quarter shall revert to the related appr opriation account, except for DOE pursuant to general law; as 
+otherwi se provided by specific statute; pursuant to Section 37-40, HRS; or by 
+procedures specified in Attachment B with respect to trust , federal , and other 
+federal funds .  
+ 
+ 
+  
+     
+   
+ 
+     
+  
+  
+    
+   
+    
+  
+ 
+ 
+      
+   
+   
+   
+     
+ 
+   
+  
+  
+  
+   
+ 
+      
+    
+   
+  
+   
+  
+  
+ 
+ 
+ 
+    
+  
+   
+ 
+    
+ 
+ 
+      
+       
+     
+     
+  
+    
+  -5-
+5. Allotment of Appropriations for Specific Purposes from Act 88, SLH 2021, as 
+Amended by Act 248, SLH 2022. 
+Appropriations included in Act 88, SLH 2021, as amended by Act 248, SLH 2022, 
+that have been designated for specific purposes in Part III (operating provisos) or 
+the legislative budget worksheets require Governor’s approval through B&F to 
+expend (see Attachment 1). These appropriations have not been included in 
+departmental FY 23 budget allocations and will be subject to the 10% general fund 
+restriction (5% hard restriction and 5% contingency restriction) upon release, as 
+applicable. Selected appropriations for specific purposes have extended lapse 
+dates pursuant to the respective authorizing provisos. 
+a. If Governor’s approval and a revised FY 23 budget allocation are received and 
+the appropriation does not have an extended lapse date or has an extended 
+lapse date but is the only appropriation for that MOF for the Program ID , 
+departments should submit to B&F a Request for Allotment ( Form A-19) for the 
+appropriate Program ID appropriation account to allot the approved amount. 
+b. If Governor’s approval and a revised FY 23 budget allocation are received and the appropriation has an extended lapse date, t he allocation must be allotted 
+from a sub- account with the extended lapse date.  These sub- accounts have 
+been established by the Department of Accounting and General Services (DAGS ), Uniform Accounting and Reporting Branch (UARB) (see Attachment 2). 
+Department s should submit to B&F: 1) a Request for Allotment (Form A -19) for 
+the Program ID appropriation account that reflects the transfer out of the allocation to the sub- account ; and 2) a Request for Allotment (Form A -19) for 
+the sub- account that reflects the transfer in of the allocation from the Program ID 
+appropriation account and the allotment from the sub- account.  Also, a journal 
+voucher (JV) that reflects the transfer of the allocation from the Program ID appropriation account to the sub- account must be submitted to DAGS -UARB 
+and processed before the sub- account Request for Allotment (Form A -19) can 
+be processed. 
+c. Departments are advised that the appropriations with extended lapse dates must be transferred to the sub- accounts before the end of FY 23 due to the lapsing of 
+the Program ID appropriation accounts on June 30, 2023. 
+6. Allotment of Appropriations for Capital Improvement Program in the Operating Budget . 
+Appropriations included in the operating budget that have been designated for CIP 
+projects in Part III (operating provisos) of Act 88, SLH 2021, as amended by 
+Act 248, SLH 2022 , or the legislative budget worksheets (see Attachment 3) require 
+Governor’s approval through B&F , as applicable, to: initiate the CIP project; release 
+planning, design, construction, or equipment funds; contract for services; advertise 
+for bids; and award the construction contract . These requests may be combined.  
+ 
+ 
+  
+    
+    
+    
+  
+ 
+  
+  
+ 
+     
+ 
+     
+   
+    
+  
+ 
+ 
+      
+   
+    
+    
+ 
+   
+    
+    
+   
+ 
+  
+    
+  
+  
+    
+  
+ 
+ 
+ 
+     
+   
+    
+ 
+   
+ 
+ 
+       
+     
+  
+  -6-
+These appropriations have not been included in departmental FY 23 budget 
+allocations and will not be subject to the 10% general fund restriction upon release, 
+as applicable. Selected appropriations for CIP in the operating budget have extended lapse dates pursuant to the respective authorizing provisos. 
+a. All operating CIP project allotments will be made on a case- by-case basis. Prior 
+to the submission of any CIP request, the expending agency or user department 
+(when the user is different from the expending agency) must follow the applicable procedures for CIP implementation under Item 30. 
+b. Because these projects are not inputted into eCIP, Table R – Operating (Excel) 
+must be submitted instead of Table R from eCIP.  Also, departments should not submit an Allotment Advice (AA) (Form A -15) with their request for Governor’s 
+approval because an operating Request for Allotment ( Form A -19) will later be 
+required. 
+c. If Governor’s approval and a revised FY 23 budget allocation are received and 
+the appropriation does not have an extended lapse date, departments should 
+submit to B&F a Request for Allotment ( Form A-19) for the appropriate 
+Program ID appropriation account to allot the approved amount. 
+d. If Governor’s approval and a revised FY 23 budget allocation are received and the appropriation has an extended lapse date, the allocation must be allotted 
+from a sub-account with the extended lapse date.  These sub- accounts have 
+been established by D AGS -UARB (see Attachment 2). 
+Departments should submit to B&F: 1) a Request for Allotment ( Form A -19) for 
+the Program ID appropriation account that reflects the transfer out of the allocation to the sub- account ; and 2) a Request for Allotment ( Form A -19) for 
+the sub- account that reflects the transfer in of the allocation from the Program ID 
+appropriation account and the allotment from the sub- account.  Also, a JV that 
+reflects the tran sfer of the allocation from the Program ID appropriation account 
+to the sub -account must be submitted to DAGS -UARB and processed before the 
+sub-account Request for Allotment ( Form A -19) can be processed. 
+e. Departments are advised that the appropriations with extended lapse dates must 
+be allotted and transferred to the sub- accounts before the end of FY 23 due to 
+the lapsing of the Program ID appropriation accounts on June 30, 2023. 
+7. Allotment of Specific Appropriations and Appropriations for Funds to Private Agencies . 
+Appropriations not included in Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, are considered specific appropriations. Specific appropriations and 
+appropriations for funds to private agencies shall be subject to the allotment system.  
+ 
+ 
+  
+     
+ 
+    
+   
+    
+  
+ 
+ 
+   
+ 
+  
+   
+   
+ 
+     
+   
+ 
+ 
+     
+  
+      
+   
+  
+ 
+   
+ 
+ 
+  
+    
+ 
+ 
+ 
+   
+  
+ 
+  
+ 
+     
+      
+     
+     
+        
+      
+  
+  -7-
+a. Expenditure of operating specific appropriations shall require the Governor’s 
+approval through B&F and will be subject to the 10% general fund restriction (5% hard restriction and 5% contingency restriction) upon release, as applicable. 
+Operating Requests for Allotment ( Form A-19) for specific appropriations may 
+be submitted concurrently with the request for the Governor’s approval to 
+expend to be processed pending the Governor’s approval of the request to 
+expend. 
+b. All CIP project allotments for other specific appropriations will be made on a case- by-case basis, subject to the Governor’s approval through B&F.  Prior to 
+the submission of any CIP request for allotment, the expending agency or user department (when the user is different from the expending agency) must follow 
+the applicable procedures for CIP implementation under Item 30. 
+c. Policies regarding the release of FY 23 operating and CIP grants pursuant to 
+Chapter 42F, HRS, identified in the legislative budget worksheets are 
+forthcoming .  
+d. Funds to private agencies shall not be allotted if it has been determined that the 
+private agency has not complied with qualifying provisions and procedures of Chapters 9, 103D, or 103F, HRS, as applicable. Departments should consult 
+with the Department of the Attorney General ( AG) on the legal requirements to 
+be fulfilled by grant recipients. 
+8. Deficiency Spending Prohibited. 
+There shall be no expenditure of funds in excess of amounts appropriated and allotted, nor shall agencies establish positions in excess of the numbers authorized in the budget and allotted, unless otherwise provided by specific legislation, and as provided elsewhere in these instructions. 
+Because funding levels for authorized position ceilings may be insufficient , 
+departments must use discretion to ensure that sustainable funding is available for 
+filled positions. 
+9. Lapsing of Funds . 
+Operating funds appropriated for FY 23 that are not expended or encumbered as of 
+June 30, 20 23 shall lapse on that date, except as provided for DOE, federal funds , 
+and other feder al funds or as otherwise provided by law. Federal and other federal 
+funds appropriated for FY 23 for operating purposes that are not expended or 
+encumbered as of June 30, 20 25 shall lapse on that date unless the lapse date is 
+extended pursuant to Section 68 of Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022.  
+ 
+ 
+  
+  
+ 
+    
+  
+ 
+   
+   
+ 
+   
+      
+      
+     
+  
+   
+    
+  
+   
+   
+ 
+  
+ 
+   
+ 
+     
+    
+      
+   
+  
+     
+   
+ 
+   
+    
+   
+  
+      
+    
+     
+    
+    
+   
+ 
+     
+    
+  
+     
+ 
+  -8-
+10. Delegation by Department Heads. 
+a. As permitted by applicable general laws, department heads may delegate 
+authority to approve certain agreements and contracts (which have been 
+deemed to be within the director’s authority ) to an appropriately designated 
+deputy, officer , or manager in the di rector’s respective department.  The 
+Comptroller of DAGS must be notified of such delegation in writing. 
+b. Delegation of procurement authority shall be in accordance with Chapter 103D, 
+HRS; Chapter 3-121, Subchapter 3, Hawai‘i Administrative Rules ( HAR); and 
+Procurement Delegation Nos. 2010- 01, Amendment 1, 2010 -02, 2014 -01, and 
+2014- 02, or as amended. Procurement Delegation Memoranda are available on 
+DAGS’ State Procurement Office (SPO) website:  https://spo.hawaii.gov/ (click 
+For State & County Personnel , then Programs for State & County Personnel , 
+then Delegatio n).  Department heads shall ensure that procurement delegations 
+of authority are current as submitted (Transmittal and SPO -036) to the 
+Administrator, SPO.  Forms are available on DAGS’ SPO website: https://spo.hawai i.gov/ (click on Forms ). 
+11. Federal Funds . 
+The American Rescue Plan (ARP) Act of 2021 established the $219.8 billion 
+Coronavirus State Fiscal Recovery Fund (CSFRF) of which the State of Hawai‘i has received $1,641,602,610. Prior to enactment of Act 248, SLH 2022, which amends 
+Act 88, SLH 2021, the CSFRF appropriations made in H ouse Bill (H.B.) No. 1600 , 
+H.D. 1, S.D. 2, C.D. 1, were vetoed because the CSFRF appropriations made in the 
+bill and in Senate Bill No. 2076 during the 2022 R egular Session plus the ARP fund 
+appropriations made in various acts during the 2021 R egular Session, and ARP 
+fund allocations made pursuant to Chapter 29, H RS, totaled $1,746,037,985, an 
+amount that exceeded the State’s A RP fund allocation by $104,435,375. 
+Due to the over appropriation of CSFRF , as well as additional funding needed by 
+DOE and UH to meet the federal Elementary and Secondary School Emergency Relief (ESSER) Fund maintenance of effort (MOE) proportional funding 
+requirements and the need to replace funding for the appropriations impacted by 
+the veto of H.B. No. 1147, it was necessary to reprioritize the use of CSFRF funds . 
+Under the federal ESSER Fund’s MOE requirements pursuant to the ARP Act, the 
+State must maintain a proportional level of funding for DOE and UH for FY 22 and 
+FY 23 relative to the State’s overall spending level for the same fiscal years that is 
+greater than or equal to the average of the State’s proportional level of funding for DOE and UH relative to the State’s overall spending for the three prior fiscal years. 
+While DOE received additional general fund appropriations in FY 23, DOE may not 
+be able to fully expend these moneys in FY 23 to me et its proportional percentage. 
+In addition, insufficient general funds were provided to UH to meet its proportional 
+percentage for FY 23. As such, we will continue to monitor the State’s expenditures 
+in regard to ESSER MOE requirements.  
+ 
+ 
+  
+    
+  
+ 
+ 
+  
+    
+ 
+    
+   
+    
+  
+    
+  
+ 
+ 
+      
+     
+ 
+   
+   
+ 
+    
+ 
+   
+ 
+   
+   
+   
+ 
+ 
+ 
+ 
+     
+   
+ 
+     
+     
+   
+   
+ 
+    
+   
+ 
+        
+   
+ 
+  -9-
+The ARP Act also established the $10 billion Capital Projects Fund (CPF) to provide 
+funding to carry out critical capital projects directly enabling work, education, and health monitoring, including remote options, in response to the COVID -19 public 
+health emergency.  The focus of the CPF on the continuing need for connectivity in response to the COVID -19 pandemic complements the broader range of uses, 
+including broadband infrastructure, of the ARP Act. 
+Departments are reminded to continually review the use of CSFRF and CPF funds 
+to ensure that the use of these funds complies with the federal guidance. 
+Departments shall also comply with Executive Memorandum (E.M.) No. 22-02, 
+Management of Appropriated and Non- Appropriated Coronavirus State Fiscal 
+Recovery Funds for FY 23, dated July 19, 2022 (https://budget.hawaii.gov/wp-
+content/uploads/2022/07/EM -22-02-Mgmt -of-Appropriated- and-Non-Appropriated-
+CSFRF -for-FY-23.pdf ), which provides the framework for expenditure of these 
+funds. 
+In addition to complying with ARP Act requirements, departments receiving federal 
+funds for operations and CIP should adhere to the following: 
+a. It should not be assumed that State funds will replace the loss of any federal -aid 
+money, nor should it be assumed that State funding will be increased to qualify 
+for increases in available federal matching funds.  Future reductions to federal grant awards and other federal funding agreements remain possible , and 
+departments should continue to work with their federal contacts to closely monitor the status of the appropriate federal programs. 
+b. All agencies receiving federal funds for operational purposes shall continue to review the impact of possible changes to anticipated federal grants or other federal funding agreements to operations. All departments should exercise caution in establishing, filling, and/or extending federally funded positions.  The use of discretionary federal funds for positions is discouraged and should be minimized. 
+c. Departments shall use the Sharepoint electronic workflow called the “Federal 
+Awards Forms Workflow” to request the Governor’s approval through B&F to: 
+c.1 Expend federal funds in excess of levels authorized by the Legislature 
+pursuant to Section 67 of Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, to increase the current appropriated or non- appropriated ceiling 
+for federal funds or other federal funds for FB 2021- 23. 
+c.2 Exten d the lap se date of federal or other federal fund appropriations and 
+appropriations of other MOF (except general funds ) deemed necessary to 
+qualify for federal -aid financing and/or reimbursement pursuant to 
+Section 68 of Act 88, SLH 2021, as amended by Act 248, SLH 2022, for 
+FB 2021- 23 appropriations , or pursuant to the respective budget act 
+provisions for prior biennium appropriations .  
+ 
+ 
+  
+     
+   
+ 
+    
+  
+  
+ 
+   
+ 
+     
+  
+    
+  
+ 
+    
+  
+ 
+ 
+   
+   
+  
+ 
+     
+   
+ 
+     
+           
+   
+     
+      
+     
+      
+ 
+   
+   
+  
+  
+ 
+  
+     
+   
+  
+ 
+ 
+    
+ 
+  -10-
+Effective May 3, 202 2, the Director of Finance (DOF) has been delegated the 
+authority to approve these requests on the Governor’s behalf. 
+Departments should refer to Finance M emorandum (F.M.) No. 17-11, “Federal 
+Awards Forms Wo rkflow” for Federal Funds Forms E-1, E-2, E-4, dated 
+August 11,  2017 (https://budget.hawaii.gov/wp- content/uploads/2017/02/FM -17-
+11-Federal -Awards -Form -Work flow- for-Federal -Fund- Forms -E-1-E-2-E- 4.pdf ), 
+for more information. 
+d. All departments are required to notify B&F when a federal award is received within 14 calendar days of receipt.  To notify B&F, awardees must enter information about the award into the Federal Awards Management System (FAMS), a feature of Datamart, and upload a PDF copy of the Federal Award Notice to create a FAMS Award Record.  The notification requirement will be met after the Award Record is received and approved by B&F. Questions 
+regarding FAMS should be directed to B&F’s Office of Federal Awards 
+Management. 
+UH is exempt from this notification requirement. All other exemption requests 
+must be made in writing to the DOF .  All approved exemption requests will be 
+posted on federalawards.hawaii.gov . 
+e. A FAMS Award Record ID number shall be noted on the Request for Allotment 
+(Form A-19) for operating and referenced in the CIP allotment request . 
+f. Federal Fund Lapsing. Departments with federal or other federal fund operating 
+appropriations that lapse on June 30, 2023 or later may request the Governor’s 
+approval to extend the lapse date of the federal, other federal and matching 
+non-general funds , as necessary , to meet the intent of federal grant awards 
+pursuant to Section 68 of Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, for FB 2021 -23 appropriations, or pursuant to the respective budget 
+act provisions for prior biennium appropriations (Form E-4 on Sharepoint ). 
+g. Federal Fund Deposits.  All federal funds received by departments shall be 
+deposited into the State Treasury , unless otherwise provided by federal funding 
+conditions or specifically exempted from this provision by competent authority acknowledged by the DOF . 
+h. Recovery of Indirect Costs and Fringe Benefits from Federal Grants and Contracts. State agencies adminis tering federal grants and contracts shall 
+pursue the recovery of indirect costs and fringe benefits.  Federal payments shall be deposited into the general fund (use source code 0579 and the 
+department’s alpha code). 
+i. Policies and procedures regarding the management of federal funds are posted on federalawards.hawaii.gov .  
+ 
+ 
+  
+   
+ 
+   
+  
+ 
+ 
+ 
+ 
+      
+      
+  
+ 
+     
+   
+  
+    
+ 
+  
+ 
+     
+     
+ 
+ 
+     
+  
+ 
+ 
+         
+      
+   
+    
+ 
+  
+ 
+  
+   
+  
+   
+ 
+  
+ 
+ 
+ 
+  
+  -11-
+12. Special and Revolving Fund Receipts and Expenditures . 
+a. All special and revolving funds must have been authorized and appropriated by law to be expended. 
+b. Authorized and appropriated special and revolving funds can only be expended up to the level of receipts available in such funds. 
+c. Special and revolving fund expenditures authorized in Act 88, SLH 2021, as 
+amended by Act 248, SLH 2022, and other specific appropriations are limited to 
+the amounts appropriated and allocated , except as otherwise provided by law. 
+d. Appropriated special and revolving funds authorized by law to be expended in 
+excess of appropriated amounts shall require the Governor’s prior approval before such expenditures are made.  All requests for such expenditures shall be 
+submitted to the Governor through B&F. 
+13. Trust Funds . 
+a. Pursuant to Section 37-40, HRS, expenditures of trust funds are permitted up to 
+levels of available receipts, except as otherwise provided by law or as limited by 
+the conditions of the trust agreement or fund. 
+Section 37- 33, HRS, allows the DOF , as required, to prescribe regulations for 
+controlling expenditures and encumbrances of funds that have not been 
+appropriated on a regular basis. 
+b. Trust funds appropriated in Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, that an agency seeks to expend in excess of appropriation levels 
+shall require the Governor’s prior approval before making such expenditures.  All requests for such expenditures shall be submitted to the Governor through B&F. 
+14. Reimbursements from Federal or Other Funds . 
+All federal or other fund reimbursements shall be deposited into the general fund or the appropriate fund account that provided the original advance funding, except as otherwise provided by law.  Programs shall ensure that appropriate and correct 
+reimbursements from federal and other funds are made for pension accumulation, Social Security, health insurance, other post -employment benefits , and other fringe 
+benefits.  Documentation shall be submitted to B&F as reimbursements are 
+processed. 
+Expenditure of reimbursements without legislative or statutory authorization or 
+appropriation may be in violation of Sections 37-31 and 37- 42, HRS.  
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+     
+    
+ 
+ 
+   
+ 
+   
+  
+    
+   
+ 
+ 
+  
+ 
+  
+ 
+      
+  
+   
+     
+     
+ 
+  
+ 
+   
+  
+   
+  
+  
+ 
+ 
+ 
+   
+  
+  
+ 
+ 
+  -12-
+15. Gifts or Private Contributions to Programs . 
+Where specific special, trust, revolving, or private funds have not been established 
+for such purposes, agencies shall be responsible for demonstrating that such authority is consistent with applicable statutes and appropriate expenditure provisions of the State Constitution.  The Governor’s approval through B&F is 
+required prior to the receipt and expenditure of such a contribution or gift , unless 
+otherwise provided by law. 
+16. Administratively Established Accounts or Funds . 
+Departments are reminded that pursuant to Section 37- 52.5, HRS, a report listing all 
+administratively established accounts or funds and their respective revenues, expenditures, encumbrances , and ending balances is due to the Legislature at least 
+20 days prior to the convening of each regular session. A copy of this report shal l 
+be sent to B&F. 
+17. Workforce Control . 
+a. Position Allocation Ceilings . 
+The number of permanent and temporary full-time equivalent positions, which 
+may be established and filled by each department, shall not exceed the total permanent and temporary position ceilings allocated in Exhibit 1 to each 
+respective department, by MOF , and the position ceilings provided for 
+project -funded posi tions in Item 30.f. (CIP Staff Services Cost). 
+b. Establishment and Filling of Positions/Vacancies . 
+All departments should thoroughly assess and evaluate the need to establish and/or fill a position.  All department heads are advised to seriously examine and 
+weigh each request to establish and/or fill positions against their departmental budget, the overall fiscal condition of the State, and the value of the services that the position provides to the public along with the need to sustain government services in the long term. 
+Additionally, departments should exercise caution regarding establishing, filling, 
+and/or extending federally funded positions. The use of discretionary federal 
+funds for positions is discouraged and should be minimized. As f uture 
+reductions to federal grant awards and other federal funding agreements remain highly possible, departments should not assume that State funds will be available to support program costs that were previously federally funded.  
+ 
+ 
+  
+   
+ 
+   
+   
+  
+        
+ 
+   
+  
+ 
+      
+ 
+ 
+   
+  
+ 
+ 
+    
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+     
+   
+ 
+ 
+   
+   
+   
+      
+  
+ 
+ 
+      
+       
+  -13-
+b.1 Department heads ar e delegated the authority to approve the following: 
+• Establishment and/or filling of authorized (permanent or temporary) and funded civil service positions as indicated in the department’s FY 23 
+operating budget (BJ) details or CIP Staff Services Cost appr opriation 
+of Act 88, SLH 2021, as amended by Act 248, SLH 2022 . 
+• Establishment, filling and/or extension of positions that are 100% federally funded or 100% funded by non- appropriated trust funds. 
+• Filling of exempt positions directly supporting the State’ s response to 
+COVID -19 in the Departments of Defense (DOD), Health (DOH), and 
+Labor and Industrial Relations. 
+• Establishment and/or filling of authorized positions in DOE, Charter Schools, Hawai‘i State Public Library System (HSPLS), Hawai‘i Health Systems Corporation (HHSC) and UH. 
+• Establishment and/or filling of authorized exempt DOD positions 
+necessary to operate the Hawai‘i National Guard Youth Challenge Academy program. 
+• Establishment and/or filling of authorized exempt Hawai‘i State Hospital staff positions currently necessary to ensure Department of Justice compliance. 
+• Establishment and/or filling of authorized exempt DOH psychiatrist and epidemiologist positions. 
+• Establishment and/or filling of authorized exempt Hawai‘i Youth 
+Correctional Facility staff positions. 
+• Establishment and/or filling of authorized exempt DOH positions 
+previously mandated by the Felix or Makin Consent Decrees and are currently necessary to ensure compliance. 
+• Establishment, filling and/or extension of exempt positions, which are exempt pursuant to Section 76 -16(b),  subsection (10), HRS, provided 
+positions are authorized and funded in the BJ details of Act 88, 
+SLH 2021, as amended by Act 248, SLH 2022, and sufficient funding is 
+available in FY 23. 
+• Extension of exempt positions with incumbents, provided positions are authorized and funded in the BJ details of Act 88, SLH 2021, as 
+amended by Act 248, SLH 2022, in FY 23.  
+ 
+ 
+  
+    
+ 
+       
+ 
+    
+ 
+ 
+  
+  
+ 
+ 
+  
+   
+ 
+   
+ 
+   
+  
+ 
+   
+   
+ 
+  
+ 
+    
+  
+ 
+   
+ 
+   
+ 
+   
+ 
+  
+ 
+ 
+   
+ 
+ 
+    
+    
+ 
+ 
+   
+ 
+  
+  -14-
+• Establishment, filling and/or extension of student helper or student intern positions that are budgeted and funded in the BJ details of Act 88, SLH 2021, as amended by Act 248, SLH 2022. 
+• Granting of temporary assignment for authorized positions to existin g 
+employees. 
+• Filling of authorized civil service positions identified for Reduction- in-Force placements, and/or for placements of disabled 
+employees. 
+b.2 Governor’s approval, through B&F, is required for the following, unless specifically allowed under Item b.1. 
+• Establishment, filling and/or extension of exempt positions. 
+• Establishment, filling and/or extension of positions authorized by general law or specific legislation which are not included in the budget. 
+• Establishment, filling and/or extension of unauthorized positions that 
+are allowed pursuant to Section 37- 74(f), HRS (see Item 1 7.b.3 below ). 
+b.3 Positions not Authorized by the Legislature.  Section 37- 74(f), HRS, 
+prohibits the expenditure of funds, including federal funds, to fill any permanent or temporary position not authorized by the Legislature. This prohibition does not apply to: 
+• Positions at UH and HHSC . 
+• Positions entirely federally funded. 
+• Positions necessary for compliance, without undue delay, with a court 
+order or decree if the Director of Human Resources Development determines that the recruitment through normal civil service procedures would result in delay or noncompliance. 
+• Positions for special, research, or demonstration projects approved by the Governor . 
+• Positions approved by the Governor to perform an emergency 
+management function under DOD pursuant to Section 127A -12(b)(9), 
+HRS . 
+• Casual hire positions . 
+• Vicing positions .  
+ 
+ 
+  
+    
+ 
+ 
+     
+     
+ 
+ 
+  
+     
+ 
+ 
+  
+ 
+   
+ 
+  
+ 
+     
+ 
+  
+ 
+     
+ 
+    
+       
+      
+ 
+ 
+   
+ 
+     
+    
+ 
+    
+ 
+ 
+     
+   
+     
+    
+  
+ 
+ 
+  
+ 
+    
+      
+  -15-
+• Positions established by an agency or department pursuant to explicit statutory authorization to establish such positions . 
+• Positions established by an agency or department for a program or project funded by an appropriation in an act other than the general or supplemental appropriations act. 
+The respective agency or department shall subm it a quarterly report to 
+B&F within 14 days after the end of each quarter detailing each use of this 
+section that shall include: 
+• Authority used to establish the position. 
+• Date the position was established. 
+• Projected date the position will be filled. 
+• Amounts projected to be expended in FY 23 and in FY 24. 
+• Source of funds used to pay for the position. 
+• Functions to be performed by the position. 
+Departments are also expected to comply with the Department of Human 
+Resources Development’s (DHRD) July 14, 2015, memorandum, Criteria, 
+Instructions and Procedures for Special, Research and Demonstration 
+Projects and Positions , and DHRD’s September 29, 2016, memorandum, 
+Revised Form for Requesting Governor’s Approval for Special, Research or Demonstration Projects/Positions , in establishing such projects and 
+positions pursuant to Act 160, SLH 2015. 
+b.4 All vacancies permitted to be filled must be funded within currently approved departmental allocations. Funding levels for authorized position 
+ceilings may be insufficient; thus, departments must ensure that funding is sustainable for all filled positions. In addition, funding for positions shall conform to the MOF indicated in the BJ details. 
+b.5 Proposed actions to establish or extend positions that are exempt from civil service pursuant to Section 76-16(b),  subsections (2), (12), and (15) , HRS, 
+shall require the prior review and approval of DHRD be fore submission to 
+the Governor through B&F for approval to fill or extend exempt positions 
+and appointments beyond their not -to-exceed (NTE) dates unless 
+previously delegated to the department . 
+b.6 DHRD has provided the departments with delegated authority to review and approve civil service exemption for positions established under Section 76- 16(b), subsections (3), (10), and (17), HRS.  The Governor’s 
+approval is not required for extending these ex empt positions and  
+ 
+ 
+  
+    
+ 
+    
+ 
+   
+   
+ 
+    
+ 
+    
+     
+   
+ 
+ 
+   
+   
+     
+ 
+    
+     
+   
+  
+    
+ 
+ 
+   
+  
+ 
+  
+ 
+ 
+ 
+   
+       
+   
+ 
+  
+ 
+    
+      
+ 
+  
+ 
+    
+ 
+  -16-
+appointments beyond their NTE dates. The delegated authority to approve 
+and ex tend positions under subsection (3) is applicable as long as the 
+court order or decree is in effect and the positions cannot be filled through normal civil service recruitment procedures. For exempt positions 
+established under subsection (17)(A), departments are reminded that exemptions created after July 1, 2014, shall expire three years after its enactment unless affirmatively extended by an act of the Le gislature. 
+b.7 Recruitment Above the Minimum Pay Rate (RAM) and Hire Above the 
+Minimum Pay Rate (HAM).  Prior approval from DHRD is required for RAM .  
+The authority to HAM has been delegated to the departments pursuant to 
+DHRD’s September 14, 2011, memorandum, Delegation of Authority for 
+Hiring Above the Minimum Pay Rate for Civil Service Positions . The 
+Governor’s approval is not required. 
+b.8 Procedures for Approval .  Position requests requiring the Governor ’s 
+approval through B&F for establishing and/or filling shall be submitted in 
+the attached formats (Form B-2 for unauthorized or exempt positions) . 
+c. Position Variances . Program positions should be of the same position 
+classification described in the BJ details of Act 88, SLH 2021, as amended by 
+Act 248, SLH 2022 .  Any variance from such authorization must be support ed by 
+appropriate justification or legislative authorization and must be consistent with policies in A.D. No. 90-13, dated February 5, 1990, and as further provided 
+herein. 
+c.1 Department heads are delegated the authority to change a position’s 
+classification series (position variance) where the cost difference is no more than 20% above the authorized budgeted amount . 
+c.2 Changes to a position’s classification series where the cost difference exceeds 20% of the authorized budgeted amount require t he Governor’s 
+prior approval through B& F. 
+c.3 Other requests to implement position variances from authorizations in Act 88, SLH 2021, as amended by Act 248, SLH 2022, or as authorized in 
+general law or in any other act of the Legislature shall also be submitted to 
+the Governor for review in the manner prescribed above to ensure consistency with program and legislative intent. 
+c.4 UH, DOE, Charter Schools, HSPLS , and HHSC are exempt from the 
+provisions of Item 17.c. 
+d. Other General Provisions . 
+d.1 Each department shall provide the most efficient and economical use of its 
+workforce.  
+ 
+ 
+  
+    
+  
+ 
+    
+   
+   
+ 
+   
+ 
+ 
+     
+ 
+     
+   
+     
+ 
+ 
+ 
+      
+  
+ 
+ 
+  
+ 
+ 
+     
+   
+ 
+ 
+ 
+   
+ 
+  
+ 
+      
+     
+    
+ 
+        
+    
+   
+  
+ 
+   
+    
+     
+ 
+  -17-
+d.2 Departments shall limit and monitor the use of overtime for each month. Monthly program reports shall be made available to B&F, upon request. 
+d.3 Reporting Requirement .  Quarterly updates of department vacancies and 
+positions filled shall be submitted to B&F as provided in the Quarterly 
+Staffing Report, Form V (with instructions). 
+UH, DOE, Charter Schools, HSPLS, and HHSC are exempt from this requirement. 
+18. Transfer of Funds and/or Positions . 
+a. The following provisions from Act 88, SLH 2021 , that authorized the Governor to 
+approve the transfer of appropriations between programs under certain 
+circumstances have been repealed as amended by Act 248, SLH 2022.  As 
+such, please be aware that potential funding shortfalls will need to be alternatively addressed. 
+a.1 Section 61 – Allowed the Governor to authorize the transfer of savings or 
+unrequired balances to cope with the effects of natural disasters or other 
+unforeseen emergencies. 
+If necessary, transfer provisions can be invoked under Governor’s 
+Emergency Proclamation. 
+a.2 Section 72 – Allowed the Governor to authorize the transfer of operating 
+funds between appropriations of the same fund , within an expending 
+agency , for operating purposes . 
+As operational funding requirements may fluctuate as the fiscal year progresses, B&F will work with departments to monitor the need for 
+potential cost neutral (trade- off and transfer) emergency appropriations in 
+the third and fourth quarters of FY 23. 
+a.3 Section 87 – Allowed the Governor to transfer savings or unrequired 
+balances of general funds from any program to the Department of Land 
+and Natural Resources’ (DLNR) fire fighter’s contingency fund. 
+b. Other provisos in Act 88, SLH 2021, as amended by Act 248, SLH 2022, 
+authorize transfers under certain conditions. To the extent possible, anticipated transfers should be identified in operational expenditure plans (OEP) and 
+Form A-19s. 
+c. All requests for transfer authorization shall require the Governor’s prior approval through B&F . All requests for transfer shall include appropriate references to 
+authorizing sections or statutes. In addition, requests for the transfer of 
+operating appropriations shall include the following:  
+ 
+ 
+  
+    
+ 
+    
+ 
+    
+ 
+   
+ 
+  
+ 
+ 
+    
+ 
+ 
+     
+   
+ 
+ 
+          
+     
+  
+    
+    
+ 
+ 
+   
+   
+      
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+     
+ 
+   
+ 
+     
+ 
+ 
+  
+   
+  -18-
+• Amount of the transfer. 
+• Program ID from which funds will be transferred. 
+• Program ID to which funds will be transferred. 
+• Impact to the P rogram ID from which funds are being transferred . 
+• Detailed explanation of the public purposes served by the transfer of 
+resources . 
+d. See Item 26, “Allotment Balances/Transfer of Funds,” for other allotment 
+limitations. 
+e. Pursuant to Section 37-74(d)(2) and (3), HRS, specific transfer authority and 
+responsibilities have been delegated to UH, DOE, Charter Schools, and HHSC (special funds). 
+f. Section 73 of Act 88, SLH 2021, as amended by Act 248, SLH 2022, allows the 
+transfer of position ceilings within a department or agency , provided :  total 
+position ceiling allocations are not exceeded; there is no change in the authorized MOF of the position count; and such transfers do not conflict with or circumvent other related laws. No funding may be transferred under this sectio n. 
+g. All requests for transfer authorization shall require the Governor’s prior approval through B&F . Transfer requests shall include appropriate references to 
+authorizing sections or statutes. In addition, requests to transfer positions shall 
+include: 
+• Position to be transferred. 
+• Program from which the position would be transferred. 
+• Program to which the position would be transferred. 
+• Responsibilities of the position prior to transfer . 
+• Responsibilities of the position after the transfer . 
+• How the transfer will maximize the utilization of personnel resources and staff 
+productivity . 
+h. Proposed and actual transfers of vacant positions should be identified in the 
+quarterly staffing report.  
+ 
+ 
+  
+   
+  
+   
+ 
+  
+ 
+    
+ 
+  
+ 
+   
+   
+  
+       
+   
+      
+  
+ 
+  
+ 
+   
+      
+   
+    
+  
+     
+ 
+      
+   
+  
+ 
+   
+       
+ 
+  
+ 
+  
+  
+   
+ 
+   
+ 
+     
+ 
+ 
+ 
+   
+ 
+  -19-
+i. HHSC (s pecial -funded positions), UH, DOE, and Charter Schools are exempt 
+from these provisions where specific transfer authority and responsibilities have been delegated to those agencies by general law. 
+19. Contracts . 
+a. All contractual funding agreements are contingent on the availability of funds. Departments should exercise caution in entering into contracts with funding obligations that extend beyond the fiscal year. 
+b. Unless otherwise provided by law, procurement of all approved goods, services, and construction, including the purchase of health and h uman services (HHS) , 
+shall comply with applicable provisions of Chapter 103D , HRS, and 
+Chapters 3-120 to 3 -132, HAR, or Chapter 103F , HRS, and Chapters 3-140 to 
+3-149, HAR; SPO procurement circulars and directives; guidelines and 
+directives issued by the AG and DAGS, as applicable; and any other pertinent 
+requirements of statute, regulation, rule, order, or other directive. 
+c. Financing Agreements . 
+All financing agreements must be budgeted in the BK Tables for Act 88, 
+SLH 2021, as amended by Act 248, SLH 2022, as there is no budget provision 
+to allow general fund, special fund, or revolving fund savings or balances determined to be available from authorized program appropriations to be used for municipal lease payments under financing agreements entered into pursuant to Chapter 37D, HRS, to finance the acquisition of depreciable assets. 
+c.1 Approval of the DOF and AG must be obtained prior to implementation of 
+financing agreements subject to Chapter 37D, HRS, for either CIP or 
+operating costs, regardless of amount or MOF. 
+c.2 The applicability, scope, and guidelines governing financing agreements 
+may be found in E.M. No. 96-17, Implementation of Ac t 119, SLH 1996, 
+Relating to Municipal Leases , dated November 15, 1996, and 
+Chapter 37D, HRS. 
+c.3 Departments considering f inancing agreements f or any undertaking that 
+also involves the use of general obligation ( G.O.) bond funds should also 
+refer to F.M. No. 19- 09, General Obligation Tax -Exempt Bonds, Private 
+Use of Bond Proceeds and Bond Financed Facilities, Public -Private 
+Partnership Arrangements and Other Transactions , dated July 24, 2019. 
+c.4 The sale, assignment, refinancing, or other disposition of any lease subject 
+to Chapter 37D, HRS (including certificates of participation), shall require the prior approval of the DOF . 
+c.5 UH and HHSC shall comply with the provisions of Section 37D-2, HRS , as 
+applicable.  
+ 
+ 
+  
+   
+ 
+  
+ 
+  
+    
+ 
+   
+  
+ 
+    
+ 
+ 
+  
+     
+   
+  
+ 
+  
+   
+  
+   
+     
+ 
+ 
+ 
+     
+ 
+      
+ 
+      
+   
+ 
+ 
+    
+  
+    
+     
+   
+ 
+  
+ 
+       
+    
+ 
+  
+  -20-
+d. Staffing by Contracts (all MOF) 
+These personal services contracts provide: 
+• Services of an advisory nature relating to the functions of agency administration and management or program management; or 
+• Persons and/or organizations that are considered to have knowledge and 
+special abilities not generally available within the agency; or 
+• Delivery of completed work, product, or services by or during a specified time. 
+Requests for these types of contracts require the Governor’s approval through 
+B&F and compliance with DHRD’s and DAGS ’ requirements for contractual 
+services. Departments are advised to contact DHRD and DAGS to obtain the 
+latest applicable procedures relating to the approval process . 
+Exceptions .  Authority is delegated to department heads to approve the 
+expenditures listed below (unless applicable to “financing agreements”). Departments shall submit listings of all budgeted recurring routine expenditur es to be authorized under Items d.11 through d.13 by 
+September 30, 2022 (Form BRR) .  Compliance with DHRD’s and DAGS’ 
+requirements for contractual services must still be fulfilled.  Departments should also consult with the AG and SPO on other applicable requirements concerning 
+contract amendments. 
+d.1 Contracts that are 100% federally funded. 
+d.2 Initial requests where total estimated costs will be less than $150,000. 
+d.3 Amendment to an existing contract where the original cost was less than 
+$150,000 if the amendment results in the total cost (original contract plus 
+all amendments) remaining less than $150,000 . 
+d.4 Amendment to an existing contract where the original cost was $150,000 
+or more if the existing contract was approved by the Gover nor and the 
+amendment does not exceed 10% of the cost of the original contract and 
+$150,000. Multiple contract amendments shall not exceed 10% of the cost 
+of the original contract and $150,000 in total. 
+d.5 Non-cost amendment to an existing contract. 
+d.6 Training contracts that are budgeted in BJ details for Act 88, SLH 2021, as 
+amended by Act 248, SLH 2022. 
+d.7 Medical services contracts.  
+ 
+ 
+  
+  
+ 
+    
+ 
+  
+ 
+ 
+   
+  
+ 
+ 
+    
+   
+    
+ 
+  
+  
+ 
+   
+      
+  
+ 
+      
+   
+ 
+   
+        
+       
+ 
+ 
+    
+     
+        
+       
+ 
+   
+    
+    
+ 
+ 
+  
+   
+   
+ 
+    
+    
+  
+  -21-
+d.8 Legal services contracts approved by the AG. 
+d.9 Services contracts for expert witnesses for the AG. 
+d.10 Engineering and architectural services for Repair and Maintenance 
+projects funded as operating costs. 
+d.11 Budgeted recurring routine facility -related maintenance services necessary 
+for ongoing operations.  Examples include: maintenance of 
+elevators/escalat ors, landscaping services, and janitorial services. 
+d.12 Budgeted recurring routine information systems technology (IT) 
+maintenance services and licenses subject to the Office of Enterprise 
+Technology Services ’ (ETS) approval , as necessary. 
+d.13 Budgeted recurring routine operational services.  Examples include: security services, freeway service patrol, and helicopter services. 
+d.14 Special repair and maintenance services to extend the life of facilities and 
+other assets.  Examples include: repainting,  repaving, major repairs , and 
+rehabilitation of facilities. 
+e. Audit contracts under DAGS ’ jurisdiction shall be subject to DAGS ’ procedures 
+under Comptroller’s Circular No. 1994- 02 and do not require the Governor’s 
+prior approval (https://ags.hawaii.gov/wp- content/uploads/2012/09/cir_1994-
+2_apprv_to_use_CPA.pdf ). Exception :  when departments elect to delegate 
+such functions to DAGS under conditions of Section 75 of Act 88, SLH 2021, as 
+amended by Act 248, SLH 2022, the Governor’s approval through B&F to 
+transfer funding for such audits is required. 
+f. When procuring for design professionals as defined under Chapter 103D, HRS, 
+such professions shall only be procured pursuant to Section 103D -304, HRS, 
+and Chapter 3-122, Subchapter 7, HAR, or Section 103D -307, HRS (Emergency 
+Procurement) , and Chapter 3-122, Subchapter 10, HAR . 
+Engineering, architectural , and other contracts with independent or personal 
+services contractors related to CIP project implementation shall be subject to 
+the Governor’s review via the allo tment approval process unless the project is 
+funded by operating funds, then Governor’s approval through B&F is required . 
+g. Hawaiian Home Lands ’ employee contracts exceeding six years pursuant to 
+Section 202(b) of the Hawaiian Homes Commission Act shall be submitted to the 
+Governor for approval through B&F . 
+h. New contracts with the Research Corporation of UH that equal or exceed 
+$150,000 or amendm ents to existing contracts that cause the total to equal or 
+exceed $150,000 require the Governor’s approval through B&F.  
+ 
+ 
+  
+     
+   
+ 
+ 
+   
+ 
+    
+     
+   
+   
+      
+     
+      
+   
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+    
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+ 
+ 
+     
+ 
+  
+   
+   
+  
+  
+ 
+     
+   
+ 
+ 
+  
+  -22-
+i. Extension of contracts that have expired is not permitted.  If a contract expires 
+before an extension has been approved, departments s hall initiate a new 
+procurement process to enter into a new contract. 
+j. Reports shall be made available to B&F, upon request. 
+k. Preapproved exemptions from requirements of Chapter s 103D and 103F, HRS, 
+are identified on DAGS’ SPO website: https://spo.hawaii.gov/ (click References 
+then Hawaii Revised Statutes and Hawaii Administrative Rules ).  For 
+Chapter 103D, HRS, see Section 103D -102, Application of this chapter , and 
+Chapter 3-120, HAR, for “Exhibit A” listing of exemptions.  For Chapter 103F, 
+HRS, see Section 103F -101, Application of this chapter , and Chapter 3- 141, 
+Subchapter 5, HAR, Waivers and Exemptions . Any purchase made under an 
+exemption shall not exceed the scope of the exemption. Exceeding the scope of the exemption is a procurement violation. 
+20. Travel .  The following procedures and guidelines shall apply: 
+a. Out-of-State 
+a.1 Approval for out -of-state travel for departmental personnel is delegated to 
+department heads, subject to available funding, program necessity, and other applicable statewide travel policies. 
+a.2 Out-of-state travel for department heads must be approved by the 
+Governor. 
+b. Intra-State 
+Approval for all intra- state travel is delegated to department heads, subject to 
+available funding, program necessity, and other applicable statewide travel policies. As permitted by applicable general laws, department heads may 
+delegate authorit y to approve intra- state travel to appropriately designated 
+program administrators in the department. 
+c. Departments shall comply with DAGS’ travel rules, Chapter 3-10, Administrative 
+Rules, Comptroller’s Memoranda, and Procurement Circular 2007- 03, 
+Intra-State and Out -of-State Travel Procedures , Amendments 1 -4 and any 
+subsequent amendments , and Procurement Circular 2021- 03, Intra-State Travel 
+Procedures – Bargaining Uni t 13/35. Travel information is available at 
+https://spo.hawaii.gov/ (click For State & County Personnel , then Programs for 
+State & County Personnel , then Travel Procedures ). 
+d. Departments shall also comply with Section 196-9(c)(10), HRS, Energy 
+Efficiency and Environmental Standards for State Facilities, Motor Vehicles, and Transportation Fuel. 
+e. Reports of all travel shall be made available to B&F, upon request.  
+ 
+ 
+  
+    
+   
+  
+ 
+ 
+    
+  
+   
+   
+ 
+   
+   
+ 
+    
+   
+ 
+ 
+   
+ 
+ 
+  
+  
+    
+   
+    
+  
+     
+ 
+ 
+ 
+  
+  
+  
+ 
+    
+   
+  
+ 
+  
+ 
+      
+  
+ 
+  
+      
+    
+  
+  -23-
+21. Information Systems Technology and Telecommunica tion Services, Facilities , 
+and Resources .  All IT and telecommunication ( TC) services, facilities, and 
+resources are functions of ETS under the authority of the State Chief Information Officer (CIO). 
+a. ETS shall have general supervision, oversight , and control over the 
+acquisition and utilization of IT and TC facilities and resources within the Executive Branch. All departments within the Executive Branch must follow 
+the provisions of this section, with the exception of UH and HHSC. 
+b. Applicable statuto ry provisions, such as Chapters 76 and 103D, HRS, shall be 
+observed by departments and agencies, as applicable. 
+c. All Telecom Requests (Form ETS-001),  regardless of estimated costs, shall 
+be submitted to the Network Branch of ETS for technical review and approval before work can commence. 
+Telecom Requests may be transmitted electronically to ETS at 
+ETS.NB.TRS@hawaii.gov . 
+d. All IT and TC acquisition requests (hardware, software, projects, maintenance contrac ts, renewals, consultant services, TC services, IT facilities, other IT 
+products or services, etc.) with estimated costs of $100,000 or more require 
+the approval of the CIO or the CIO’s designee .  All requests must be part of 
+or in support of the requesting d epartment’s IT Applications and Projects 
+Roadmaps and Plans information maintained on the ETS application portfolio 
+management system . ETS requires at least two work weeks advance time to 
+complete its review and recommendation. 
+Departments must submit the following forms and documentation regarding the 
+proposed IT or TC expenditure to ETS, as appropriate, regardless of procurement method, MOF, type of cost (operating or CIP), budgeted, or 
+unbudgeted: 
+• IT acquisition requests – IT Spend Request form (portfolio management 
+system project printout) plus supporting documentation as required. Documents may be transmitted electronically to ETS using either the State’s eSign workflow (with all the necessary signature blocks included) or through email at 
+ETS.ITG@hawaii.gov . 
+• TC requests – Form ETS-001 (Telecom Request) plus supporting 
+documentation as required. 
+e. IT and TC acquisition requests that meet the following criteria require additional review and approval by the Project Advisory Council , which meets 
+once a month (A.D. No. 18-03, Program Governance and Independent 
+Verification and Validation Requirements for Enterprise Information  
+ 
+ 
+  
+   
+ 
+ 
+ 
+  
+ 
+    
+ 
+ 
+   
+  
+ 
+ 
+  
+   
+ 
+ 
+   
+      
+  
+    
+    
+       
+     
+  
+ 
+    
+ 
+      
+  
+  
+  
+   
+ 
+ 
+  
+  
+        
+   
+  
+  -24-
+Technology Projects , dated September 25, 2018 
+(https://budget.hawaii.gov/wp- content/uploads/2018/10/AD -18-03-Program -
+Governance- and-Independent -Verification -and-Validation -Requirements -for-
+Enterprise- IT-Projects.pdf )): 
+• All development and modernization projects specifically identified in 
+legislation or budget bills that require additional oversight; or 
+• All projects that require technology resources estimated at $1,000,000 or greater; or 
+• Enterprise projects identified by the CIO, typically those that will leverage 
+business and operational efficiencies and benefits for multiple departments or agencies. 
+f. Authority to approve all IT or TC acquisitions with estimated costs that are less than $100,000 is delegated to department heads and will not require CIO approval. 
+22. Lease of Office Space . Section 171-30, HRS, provides DAGS with the 
+responsibility for the acquisitions of any office space in non- State owned buildings 
+for use by State departments or agencies.  Departments shall submit all requests for new leases and lease renewals through the Comptroller under procedures 
+established by DAGS. All requests shall include current organizational charts 
+approved by B&F (if an approved organizational chart is not available or if positions 
+are not included on a B&F approved organizational chart, provide appropriate BJ details and/or an approved Form HRD-1 ) and completed DAGS ’ forms 
+(including staff space computations and leasing information sheets). 
+23. Risk Management and Insurance Administration. 
+a. Comptroller ’s Memo randum (C.M.) No. 2021- 10, Risk Management and 
+Insurance Program for State Government , dated July 22, 2021 
+(http://ags.hawaii.gov/wp- content/uploads/2021/07/ CM2021- 10.pdf ), provides 
+guidelines for and shall govern departmental procedures with respect to the operations and implementation of a comprehensive State risk management and insurance program. 
+b. Most appropriations for general fund agencies for risk management benefits have been centralized within AGS 203 (State Risk Management and Insurance 
+Administration).  Pursuant to Section 77 of Act 88, SLH 2021, as amended by 
+Act 248, SLH 2022, agencies with appropriations for risk management costs are 
+reminded to transfer funds to AGS 203 for administration and implementation.  
+ 
+ 
+  
+  
+  
+ 
+     
+   
+      
+ 
+ 
+     
+    
+    
+  
+  
+  
+ 
+    
+ 
+   
+ 
+   
+ 
+ 
+      
+ 
+ 
+   
+  
+   
+   
+ 
+     
+   
+  
+      
+  
+  
+    
+    
+ 
+  
+    
+ 
+  
+   
+   
+    
+ 
+  -25-
+24. Procurement of Goods, Services, and Construction (Chapter 103D , HRS ) and 
+Purchase of Health and Human Services (Chapter 103F , HRS ). 
+a. All department heads that are delegated procurement authority by the Chief Procurement Officer shall be in compliance with Chapter 103D, HRS, and i ts 
+applicable Chapters 3-120 to 3- 132, HAR, as issued by the Procurement Policy 
+Board. 
+b. As required by Section 103D -310(c), HRS, the procuring officer shall verify 
+vendor compliance u pon award of a contract that results from a procurement 
+conducted pursuant to Chapter 103D, HRS, S ections 302 (Invitation for Bids), 
+303 (Request for Proposals), 304 (Professional Services), and 306 (Sole 
+Source) and for contracts and procurements of $2,500 or more awarded 
+pursuant to Section 103D -305 (Small Purchases) . 
+c. All departments and agencies shall be in compliance with Chapter 103F, HRS, and its applicable rules in Chapters 3-140 to 3 -149, HAR, as issued by the 
+Procurement Policy Board, for the purchase of HHS. 
+c.1 Department heads are delegated the authority to a pprove budgeted HHS 
+contracts. 
+c.2 The Governor’s approval through B&F is required for unbudgeted HHS 
+contracts. 
+d. Price and Vendor List Contracts issued by SPO .  All Executive departments and 
+agencies may purchase their requirements for goods and services from 
+SPO-issued price and vendor list contracts, unless otherwise noted. HHSC, UH, 
+and DOE may utilize price and vendor lists as indicated on the applicable lists. 
+e. Parceling is strictly proh ibited.  Section 103D -305, HRS, Small purchases; 
+prohibition against parceling, states in part “. . . procurement requirements shall 
+not be artificially divided or parceled so as to constitute a small purchase under this section.” Section 3- 131-1, HAR, defines parceling as “the artificial division 
+or intentional division of a purchase of same, like, or related items of goods, 
+services, or construction into several purchases of smaller quantities, in order to evade the statutory competitive requirements.” Further, Sectio n 3-149-304, 
+HAR, states , “The practice of parceling a large single purchase of health and 
+human services into multiple smaller purchases in order to avoid conducting a competitive purchase of services, or to otherwise frustrate the purposes of chapter 103F, HRS, and these rules is forbidden.” 
+f. Except as otherwise provided, all purchases shall be governed by DAGS’ and SPO ’s guidelines and procedures . All State assets/inventories shall be reported 
+pursuant to Chapter 103D , Part XII, Sections 1201 to 1214, HRS, and 
+Chapter 3-130, HAR, Inventory Management , and the SPO Inventory System 
+User Manual .  
+ 
+ 
+  
+    
+   
+   
+  
+    
+  
+ 
+       
+       
+   
+ 
+   
+   
+ 
+    
+ 
+      
+ 
+    
+ 
+ 
+   
+   
+  
+ 
+    
+       
+ 
+ 
+    
+        
+  
+ 
+     
+   
+ 
+    
+ 
+  
+ 
+ 
+   
+   
+ 
+   
+ 
+      
+  -26-
+g. Equipment .  “Equipment ” is tangible property of a more permanent nature (other 
+than land or buildings and improvements thereon) that is used in an operation or activity.   Examples are machinery; tools; furniture and furnishing; and certain 
+vehicles such as farm tractors, mowing machines, and plows required for the 
+performance of program tasks.  For budget purposes, “equipment ” excludes 
+general -use motor vehicles such as trucks, cars, and buses, which are covered 
+under “motor vehicles .” 
+g.1 Departments requesting the pu rchase of IT or TC equipment shall: 
+1) follow the guidelines for approval described in Item 21; then 2) submit 
+such request to the Governor for approval through B&F, as applicable. 
+g.2 Department heads are delegated the authority to approve the purchase of equipment items that are: 
+• 100% federally funded; or 
+• budgeted in the equipment cost element (all other MOF ); or 
+• unbudgeted (all other MOF ) single purchase orders totaling less than 
+$150,000. 
+g.3 The following documentation sh all be provided to DAGS for the processing 
+of purchase orders and contracts for budgeted equipment purchases of 
+$150,000 or more: 
+• Purchase orders – Include notation, signed by your department head, 
+which indicates : 1) that equipme nt is budgeted for FY 23; and 2) the 
+Program ID in which the equipment is budgeted. 
+• Contracts – Include memorandum from your department head, which 
+indicates : 1) that equipme nt is budgeted for FY 23; and 2) the Program 
+ID in which the equipment is budgeted. 
+g.4 The Governor’s approval through B&F is required for unbudgeted single 
+purchase orders of equipment totaling $ 150,000 or more . 
+h. Motor Vehicles.  For budget purposes, “motor vehicles” include “passenger 
+cars,” “pickup trucks,” “sports wagons,” “vans,” “buses ,” or any self -propelled 
+vehicles designed for carrying or transpor ting passengers and/or property and 
+generally drawn upon a road or highway. 
+h.1 Department heads are delegated the authority to approve the purchase of 
+motor vehicles that are: 
+• 100% feder ally funded; or 
+• budgeted in the motor vehicle cost element (all other MOF ); or  
+ 
+ 
+  
+   
+ 
+ 
+     
+    
+ 
+    
+ 
+ 
+     
+ 
+ 
+   
+ 
+   
+  
+  
+  
+ 
+   
+   
+ 
+ 
+   
+  
+ 
+ 
+   
+      
+ 
+ 
+      
+   
+  
+ 
+   
+    
+    
+ 
+  
+    
+ 
+   
+    
+ 
+  -27-
+• unbudgeted (all other MOF) single purchase orders totaling less than 
+$150,000. 
+h.2 The Governor’s approval through B&F is required for unbudgeted single 
+purchase orders of motor vehicles totaling $150,000 or more. 
+h.3 Motor vehicle purchases are subject to Chapter 103D, HRS, and the 
+following: 
+i. O‘ahu and Maui :  All passenger cars, leased or purchased, new or 
+used, shall require the Comptroller’s approval.  Review for approval 
+shall consider vehicle type, size, and availability from DAGS ’ 
+Automotive Management Division’s (DAGS -AMD ) motor pools. 
+Hawai‘i, Kaua‘i , Lāna‘i, and Moloka‘i :  For passenger cars purchased for 
+these islands, agencies shall submit an annual listing of vehicles 
+purchased during the fiscal year for review by the Comptroller for compliance with paragraph “iv” below. 
+ii. Passenger vehicles shall conform to the standard specifications and criteria issued by DAGS -AMD .  Exceptions to the standards shall 
+require the Comptroller’s review and approval. 
+iii. Specifications  for other than passenger vehicles , including exceptions 
+to the DAGS -AMD standards, shall be the responsibility of the individual 
+purchasing agency. 
+iv. Used motor vehicles require the approval of the head of the purchasing agency and, for passenger vehicles only, the approval of the 
+Comptroller as provided above. 
+v. Used motor vehicles acquired from the SPO Surplus Property program 
+are not subject to Chapter 103D, HRS, but shall comply with paragraph 
+“iv” above. 
+i. Agencies shall ensure compliance with the following statutory requirements, as amended by Act 74, SLH 2021: Chapter 225 -P, HRS, Hawai‘i Climate Change 
+Mitigation and Adaptation Initiative; and Sections 26-6(b)(12), HRS, Department 
+of Accounting and General Services ; 103D -412, HRS, Motor Vehicle 
+Requirements ; 196 -9, HRS, Energy Efficiency and Environmental Standards for 
+State Facilitie s, Motor Vehicles, and Transportation Fuel ; and 196 -42, HRS, 
+State Support for Achieving Alternate Fuels Standard and Clean Ground Transportation Goals . Agencies are encouraged to use the Department of 
+Transportation’s (DOT) Contract No. 2020 -044, Electric Vehicle and Charging 
+Infrastructure Services.  
+ 
+ 
+  
+   
+ 
+ 
+  
+   
+   
+    
+    
+ 
+  
+ 
+  
+ 
+    
+      
+  
+      
+ 
+    
+ 
+       
+    
+   
+  
+  
+     
+ 
+ 
+     
+     
+    
+   
+ 
+    
+ 
+       
+ 
+          
+    
+ 
+ 
+  
+ 
+     
+   
+      
+  -28-
+j. Agencies shall ensure applicable contracts are reported, in compliance with 
+Procurement Circular 2019- 05 (https://spo.hawaii.gov/wp-
+content/uploads/2018/10/PC2019- 05-and-Quick -Reference- Guide- rev-10-
+2018.pdf ). 
+k. Procurement During Disasters.  To be approved for Federal Emergency 
+Management Agency ( FEMA ) reimbursement, states and c ounties must procure 
+in compliance with the specific requirements of Federal Code: 2CFR200, which became effective December 26, 2014. For information about requirements for 
+FEMA reimbursements, go to DAGS’ SPO website: https://spo.hawaii.gov/ (click 
+on the News and Events Banner for the Disaster Preparedness and Response Procurement link, then FEMA Reimbursement ). 
+25. Request for Allotment of Funds (Operating) . 
+a. Department heads may implement legislatively authorized programs in Act 88, 
+SLH 2021, as amended by Act 248, SLH 2022, within departmental fund 
+allocations, or in other specific appropriation acts that are consistent with 
+program budgeting guidelines and objectives pursuant to Section 37-74, HRS. 
+b. All ap propriations are subject to the provisions of the respective act s. 
+c. Appropriations to be used for the initiation of authorized new programs or for 
+the improvement of existing services , which are consistent with Section 37 -74, 
+HRS, shall be reflected in the OEP where these items shall be separately 
+identified in the narrative portion of the expenditure plan.  All authorized new programs or improvements to existing programs that are planned for implementation by the agency must be within allocation ceilings and supported 
+by appropriate evaluations or justifications. 
+d. Program appropriations authorized in Act 88, SLH 2021, as amended by 
+Act 248, SLH 2022, or in other specific appropriation measures that are not 
+planned for implementation in FY 23 (including balances of appropriations with 
+extended lapse dates) or have not yet been approved for expenditure shall be reflected in the “Estimated Balance” column on the Request for Allotment (Form A-19) (see Attachment B for guidelines and procedures). 
+e. Full-year program OEPs and Request s for Allotment ( Form A-19) shall reflect 
+accounts by “10” (payroll) and “20” (others) and must be consistent with the 
+BJ details and related provisions of Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, or the provisions of the authorizing specific appropriation, as 
+applicable. 
+26. Allotment Balances/Transfer of Funds . 
+a. Requests for Allotment ( Form A-19) and Requests for Transfer of Funds 
+(Form A-21) shall be used , as appropriate, for adjustments of program 
+allotment s.  Unless otherwise provided by other transfer provisos in Act 88,  
+ 
+ 
+  
+      
+       
+  
+   
+          
+        
+     
+ 
+ 
+   
+    
+  
+ 
+ 
+   
+ 
+  
+ 
+  
+ 
+    
+ 
+  
+ 
+ 
+        
+    
+ 
+    
+      
+   
+   
+ 
+   
+ 
+ 
+  
+     
+   
+     
+ 
+   
+    
+ 
+  -29-
+SLH 2021, as amended by Act 248, SLH 2022, be aware that transfers that 
+could previously be authorized pursuant to Section 72 of Act 88, SLH 2021, 
+which allowed the Governor to approve transfers of operating funds between 
+appropriations within the same fund, within an expending agency, are no longer 
+allowable due to the repeal of Section 72 by Act 248, SLH 2022 . In addition, 
+Act 248, SLH 2022, also repealed Section 61 and Section 87 of Act 88, 
+SLH 2021, which allowed transfers for disasters and DLNR’s fire fighter’s 
+contingency fund, respectively . 
+b. As applicable, agency requests for the transfer of funds shall be submitted to the Governor for approval through B&F.  All such requests must be accompanied by 
+a written justification stating the nature and reasons for the transfer, including its legal bas is, and shall include the following: 
+• Amount of the transfer. 
+• Program ID from which funds will be transferred. 
+• Program ID to which funds will be transferred. 
+• Impact to the Program ID funds are transferred from. 
+• Detailed explanation of the public purposes served by the transfer of resources. 
+c. Except for transfers of funds pursuant to other acts, Requests for Transfer of 
+Funds ( Form A-21) do not need be identified in the full -year expenditure plan s. 
+d. Provisions of this section shall apply to any transfer of funding between any agency or program authorized in Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, regardless of MOF, except for:  UH, DOE , Charter Schools, and 
+special fund appropriation transf ers in HHSC, as authorized by general law . 
+27. Transfer of Vacation Credits. 
+Pursuant to Section 78-23(b), HRS, transfer of funds representing accumulated 
+vacation credits shall be made only when an employee is transferred between 
+government jurisdictions as defined by Sections 78-1.5 and 76 -11, HRS, or between 
+positions within the same jurisdiction that are financed by different funds.  Transfer 
+of vacation funds shall not be made when the employee transfers between positions within the same jurisdiction and if the transferred employee’s salary is to be paid from the same fund.  The transfer of vacation funds can be reversed if the employee returns to his or her original position within the same fiscal year.  Vacation transfer 
+funds are considered to be realizations to the general fund or the respective non-general fund.  
+ 
+ 
+  
+   
+ 
+       
+        
+   
+      
+  
+   
+  
+ 
+ 
+ 
+ 
+  
+ 
+   
+    
+  
+  
+  
+ 
+  
+ 
+        
+  
+   
+ 
+         
+   
+    
+  
+ 
+   
+    
+ 
+ 
+   
+ 
+ 
+  
+ 
+     
+      
+   
+  
+  -30-
+28. Reimbursement for Vacation Payouts. 
+Pursuant to Section 21 of Act 88, SLH 2021, as amended by Act 248, SLH 2022, 
+the Legislature appropriated $9,700,000 in general funds for FY 23 to B&F to 
+reimburse departments for vacation payouts made for general -funded employees 
+who have left the Executive B ranch of the State of Hawai‘i. B&F appropriation 
+account G -23-013-O has been established for the purposes of vacation payout 
+reimbursements for vacation paid to employees in general -funded budgeted 
+positions (reimbursements for s plit-funded positions should be made for only the 
+general -funded portion). 
+Reimbursements will be made on a first come, first served basis.  Any additional expenses incurred above $9,700,000 will be the responsibility of the individual departments and agencies. 
+A monthly report indicating the use of this appropriation shall be submitted to the 
+B&F budget analyst assigned to your department within 10 days of the end of the preceding month.  Departments should refer to F.M. No. 19-10, Vacation Payout 
+Reimbu rsements for General Fund Employees , dated August 12, 2019 
+(https://budget.hawaii.gov/wp- content/uploads/2019/08/FM -19-10-Vacation- Payout -
+Reimbursements -for-General -Fund -Employees.pdf ), which is no longer suspended, 
+for the report format and other specific instructions. 
+29. Reimbursement for Vacation Payouts for Exiting Cabinet Members. 
+Section 21.2 of Act 88, SLH 2021, as amended by Act 248, SLH 2022, provides that 
+$2,650,315 in general funds and $491,442 in special funds appropriated to B&F be 
+expended for the purposes of reimbursing all Executive departments and agencies 
+for vacation payouts for exiting cabinet members and private secretaries and staff of the Office of the Governor and Office of the Lieutenant G overnor for FY 23. B&F 
+appropriation account G -23-013-O (general funds) or S-23-317-O (special funds) 
+should be used for the purposes of vacation payout reimbursements pursuant to Section 21.2. 
+Departments should generally follow the reimbursement procedures outlined in F.M. 
+No. 19-10, Vacation Payout Reimbursements for General Fund Employees , dated 
+August 12,  2019 ( https://budget.hawaii.gov/wp- content/uploads/2019/08/FM -19-10-
+Vacation- Payout -Reimbursements -for-General -Fund- Employees.pdf ), but should 
+prepare and submit separate JVs for reimbursements pursuant to Section 21.2.  
+Such JVs should indicate Section 21.2 as the authorizing proviso in the explanation 
+section. 
+Special -funded programs are advised that the reimbursement using the special fund 
+appropriation will only replace the expenditure ceiling already used to pay vacation 
+payouts and that t he respective programs must provide the cash to support such 
+expenditures. Additionally, departments shall make the appropriate changes for 
+special fund JVs (e.g., fund type, transaction codes (TC), B&F appropriation 
+account), as needed.  
+ 
+ 
+  
+    
+  
+   
+      
+   
+   
+ 
+   
+ 
+ 
+   
+       
+    
+   
+  
+ 
+ 
+ 
+         
+   
+  
+ 
+   
+        
+    
+ 
+      
+ 
+    
+      
+     
+    
+ 
+ 
+      
+       
+  
+    
+      
+    
+         
+   
+  
+      
+   
+  -31-
+Departments shall prepare a separate monthly report for each MOF for 
+reimbursements done pursuant to Section 21.2 using the reporting format found in 
+F.M. No. 19 -10 and should label the report s “Section 21.2 General Funds” or 
+“Section 21.2 Special Funds ,” as appropriate, in the upper right corner of the form . 
+These reports shall be submitted to the B&F budget analyst assigned to your department within 10 days of the end of the preceding month. 
+30. Capital Improvement Program E xpenditures . 
+In general, departments are directed to consult guidelines and instructions in E.M. No. 97-07, Procedures for Requesting the Implementation of Capital Improvement 
+Projects , dated June 19, 1997 ; F.M. No. 19-03, General Obligation Tax -Exempt 
+Bonds, Use of Bond Proceeds , dated March 12, 2019; and F.M. No. 19-09, General 
+Obligation Tax -Exempt Bonds, Private Use of Bond Proceeds and Bond- Financed 
+Facilities, Public -Private Partnership Arrangements and Other Transactions , dated 
+July 24, 2019. 
+In addition, the following updated and/or amended guidelines shall also apply: 
+a. CIP projects described in Part IV of Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, have been inputted into eCIP.  Project information should have 
+already been completed by your department. 
+CIP projects appropriated in the operating budget and described in Part III 
+(operating provisos) of Act 88, SLH 2021, as amended by Act 248, SLH 2022, or 
+the legislative budget worksheets (see Attachment 3) have not been inputted 
+into eCIP ; as such, depart ments shall provide project information using 
+Table R – Operating (Excel format). 
+b. Except as specifically authorized by legislative proviso, MOF authorized for CIP 
+projects described in Part III or Part IV of Act 88, SLH 2021, as amended by 
+Act 248, SLH 2022, or the legislative budget worksheets may not be changed or 
+substituted by other MOF or by funding appropriated for other cost categories without legislative amendment or as otherwise provided by law. 
+c. G.O. bond -funded CIP projects described in Part IV of Act 88, SLH 2021, as 
+amended by Act 248, SLH 2022, that require supplemental funding should first 
+consider transfers from appropriations from the same project in prior or future acts which have not yet lapsed pursuant to Section 52 of Act 88, SLH 2021, as 
+amended by Act 248, SLH 2022, before r equest ing supplemental allotments 
+from the Governor ’s project adjustment fund (PAF) as provided by Sections 59 
+and 60, as applicable, of Act 88, SLH 2021, as amended by Act 248, SLH 2022 .  
+Departments are advised that Section 59 requires that unrequired balances 
+from G.O. bond fund appropriations be transferred to the PAF after the objectives and purposes of Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, have been met.  
+ 
+ 
+  
+  
+ 
+       
+          
+     
+ 
+ 
+ 
+    
+ 
+ 
+  
+  
+ 
+   
+  
+  
+   
+   
+ 
+  
+ 
+ 
+  
+ 
+    
+  
+     
+   
+   
+   
+ 
+     
+   
+ 
+  
+   
+ 
+ 
+      
+ 
+ 
+     
+    
+        
+    
+   
+  -32-
+d. Expenditure Plans . 
+Departments with CIP appropriations in Act 88, SLH 2021, as amended by 
+Act 248, SLH 2022, shall submit CIP expenditure plans for FY 23 (Form CEP) 
+for those appropriations by September 30, 202 2. Separate expenditure plans 
+shall be prepared for CIP appropriations in the operating budget and the CIP budget . 
+d.1 The expenditure plans will serve as guidance for reviewing requests for 
+allotments, CIP -related contracts, etc. 
+d.2 Requests for the allotment of critical projects may be submitted before the due date for expenditure plans. 
+d.3 Departments with CIP projects funded by special funds, G.O. bond funds with debt service costs to be paid from special funds , revenue bond funds , 
+or revolving funds shall submit projected six -year financial plans for the 
+respective fund responsible for cash or debt payments to B&F with their 
+CIP expenditure plans. 
+d.4 Departments may substitute any internally used expenditure plans in lieu of Form CEP. 
+e. Release of CIP Funds . 
+The following shall be observed for requests to allot CIP funds in the CIP or 
+operating budget .  For CIP projects designated in the operating budget, 
+departments must request Governor’s approval through B &F, as applicable, to 
+initiate the CIP project; release planning, design, construction, or equipment 
+funds ; contract for services ; advertise for bids; and award the construction 
+contract. These requests may be combined. 
+e.1 All allotment or other requests must be consistent with the departmental 
+CIP expenditure and appropriate financial plans. 
+e.2 Allotment requests may include more than one phase if supported with adequate justification and may be combined with other requests for the 
+same project . 
+e.3 Allotment and other requests shall be submitted for the Governor’s 
+approval through B&F . 
+e.4 Allotment request s for project s which require the use of budget provisos 
+should include appropriate references to the proviso sections to be used in the “Subject” line of the request (e.g., “ . . . as authoriz ed by Act 88, 
+SLH 2021, as amended by Act 248, SLH 2022, Item X.01, and 
+Section XXX,” where “ Section XXX” refers to the proviso section) and 
+should indicate the intended use of the provisos in the body of the request.  
+ 
+ 
+  
+    
+  
+ 
+ 
+      
+     
+     
+  
+   
+ 
+ 
+  
+    
+   
+    
+     
+ 
+       
+    
+  
+  
+ 
+   
+   
+  
+ 
+  
+ 
+    
+ 
+  
+  
+ 
+      
+ 
+ 
+    
+    
+ 
+ 
+   
+ 
+ 
+    
+ 
+   
+  
+  -33-
+e.5 Allotment requests for tax -exempt revenue bond funds shall indicate if the 
+proposed expenditure of the tax -exempt bond proceeds is compliant with 
+the Internal Revenue Code (IRC). 
+e.6 CIP appropriations in Part IV of Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, have been appropriated as lump sum appropriations and do not 
+have cost element (e.g., plans, design, construction, etc.) appropriations. 
+Thus, each lump sum appropriation must be transferred to the respective cost element accounts before it can be allotted. 
+The amount to be allotted for a specific cost element must be transferred 
+out (TC 473) from the lump sum account and transferred in ( TC 474) to the 
+cost element account before it can be allotted ( TC 531) from the cost 
+element account. Appropriation symbols for cost elements indicated in the 
+project description for projects in Act 88, SLH 2021, as amended by 
+Act 248, SLH 2022, have been assigned by DAGS -UARB. 
+e.7 CIP appropriations in Part III of Act 88, SLH 2021, as amended by Act 248, 
+SLH 2022, have been appropriated as designated portions of program 
+operating appropriations and do not have cost element (e.g., plans, design, construction, etc.) breakdowns. 
+Subject to Governor’s approval, all CIP allotments from operating 
+appropriations shall be made from the Program ID ope rating appropriation 
+account for the respective MOF for FY 23.  For CIP ope rating 
+appropriations with extended lapse dates, the respective amount must be transferred via JV then allotted from the appropriate sub- account . 
+e.8 New appropriation symbols, such as the symbol s for delegation requests , 
+shall be requested from DAGS -UARB in writing .  The appropriation 
+symbols shall be typed on the AA (Form A-15) or Request for Allotment 
+(Form A -19), as applicable, prior to submitting the request. 
+e.9 AA numbers , as applicable, will be assigned by B&F upon receipt of the 
+request.  Do not fill the anticipated date of the Governor’s approval. 
+e.10 Requests for advance draw -downs of CIP funds by third -party project 
+managers are prohibited.  Disbursement of funds shall be made only upon 
+actual completion of work. 
+e.11 Clarification on awarding a construction contract when the low bid is higher than the basic bid estimate and available appropriation : 
+• If the low bid is higher than the basic bid estimate but funds are available within the construction allotment (e.g. , contingency) with no 
+intent to request the release of additional construction funds, 
+departments are allowed to award the construction contract.  
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+    
+ 
+  
+     
+    
+  
+ 
+  
+  
+ 
+  
+   
+  
+   
+ 
+    
+    
+ 
+       
+    
+ 
+   
+   
+  
+ 
+ 
+ 
+   
+    
+ 
+  
+ 
+ 
+         
+       
+      
+    
+   
+    
+    
+  -34-
+• If the low bid is higher than the basic bid estimate and available appropriation, departments are not to award the construction contract and must notify the Governor to recommend suitable funding alternatives. 
+e.12 Works of Art Special Fund. 
+Section 103- 8.5, HRS, requires 1% of the construction cost element of CIP 
+appropr iations for the construction or renovation of State buildings to be 
+transferred to the State Foundation on Culture and the Arts’ (SFCA) Works 
+of Art (WOA) Special Fund.  However, Act 88, SLH 2021, as amended by 
+Act 248, SLH 2022, CIP appropriations do not have construction cost 
+element amounts designated. 
+Therefore, to implement the legislative intent of Section 103- 8.5, HRS, the 
+1% amount to be transferred to the WOA Special Fund will be based on 
+the amount to be allotted for construction.  The expending agency shall include, as part of each CIP allotment request that includes the release of construction funds for a qualify ing project, the transfer of 1% of the 
+construction amount requested for allotment from the construction account 
+to the appropriation account S-XX-319-M. 
+Departments should refer to C .M. N o. 2021 -09 – Amended, Assessment 
+for Works of Art, HRS Section 103- 8.5, dated June 17 , 2022 
+(https://ags.hawaii.gov/wp- content/uploads/2021/06/CM2021- 09.pdf ), for 
+additional guidance. C.M. No. 2021- 09 – Amended also requires 
+departments to provide a copy of their CIP Expenditure Plan to SFCA. 
+f. CIP Staff Services Cost.  All agencies with an authorized project -funded staff 
+ceiling shall be funded via a separate appropriation in the budget identified for staff services only.  The separate appropriation will be used only for staff salary and salary -related costs (e.g., overtime and fri nge benefits ).  Approved 
+project-funded staff ceilings are as follows: 
+DOT, Harbors Division 18 positions 
+DOT , Airpor ts Division 35 positions 
+g. CIP Lapsing. 
+Unless otherwise provided, all CIP appropriations for projects described in 
+Part IV are subject to the lapsing provisions of Section 53 of Act 88, SLH 2021, 
+as amended by Act 248, SLH 2022, which requires appropriations that are 
+unencumbered as of June 30, 20 24 to lapse as of that date.  However, this 
+lapsing date does not apply to non-gener al fund authorizations that are denoted 
+as necessary to qualify for federal -aid financing and reimbursement; those that 
+have been so designated by the Legislature and are unencumbered as of 
+June 30, 2028 shall lapse as of that date.  
+ 
+ 
+  
+     
+   
+ 
+ 
+ 
+   
+   
+     
+      
+  
+   
+ 
+  
+ 
+    
+     
+   
+  
+    
+  
+   
+    
+   
+  
+ 
+ 
+     
+ 
+ 
+     
+ 
+ 
+     
+     
+ 
+  
+ 
+    
+   
+ 
+     
+    
+   
+       
+    
+ 
+   
+  -35-
+Operating CIP appropriations for FY 23 described in Part I II are subject to lapse 
+on June 30, 2023, unless provided an extended lapse date by the respective 
+authorizing proviso. 
+Departments with federal or other federal fun d CIP appropriations that lapse on 
+June 30, 2023 or later may request the Governor’s approval to extend the lapse 
+date of the federal, other federal and matching non- general funds, as necessary, 
+to meet the intent of federal grant awards pursuant to Sectio n 68 of Act 88, 
+SLH 2021, as amended by Act 248, SLH 2022, for FB 2021- 23 appropriations or 
+pursuant to the respective budget act provisions for prior biennium CIP 
+appropriations (Form E-4 on Sharepoint) . 
+h. Private Activity Uses of Bonds (PAB) . 
+In order for G.O. and/or G.O. Reimbursable (G.O.R.) b onds to qualify for federal 
+tax exemptions, the IRC requires that bond proceeds be used only for 
+governmental purposes. Non-governmental (i.e., private activit y uses ) purposes 
+do not meet IRC requirements in most situations .  To better track the use 
+(governmental versus non- governmental) of project s financed by G.O. and 
+G.O.R.  bond proceeds , expending agencies undertaking G.O. and G.O.R. 
+bond- funded projects are responsible for monitoring project use and reporting to 
+B&F at certain stages of the project . Departments should refer to F.M. 
+No. 19-09, General Obligation Tax -Exempt Bonds, Private Use of Bond 
+Proceeds and Bond- Financed Facilities, Public -Private Partnership 
+Arrangements and Other Trans actions , dated July 24, 2019, for further 
+guidance. 
+Form PAB must be completed for every project funded by G.O. or G.O.R. bonds 
+and must be submitted as follows: 1. At initial request for allotment /release of G.O. or G.O.R. bond funding for 
+project planning and/or design; 
+2. At subsequent request (s) for allotment/release of G.O. or G.O.R. bond 
+funding for project land acquisition, construction, and/or equipment ; and 
+3. Upon completion and acceptance of the project . 
+For each submittal, Form PAB shall be reviewed and updated with proposed 
+changes , if necessary, and shall reflect a current date and signature. 
+If the use of a project is proposed to be changed at any time to include 
+non-governmental purposes , departments are required to report the proposed 
+changes by updating the Form PAB for the project and submitting the updated 
+form to B&F.  Th e updated Form PAB must include proposed changes in use of 
+the project that have occurred subsequent to its completion for the life of the 
+bond.   Any proposed changes that could affect the tax -exempt status of bonds 
+used to finance the project are subject to the approval of the DOF .  
+ 
+ 
+  
+      
+    
+ 
+  
+ 
+     
+     
+ 
+   
+    
+ 
+  
+ 
+ 
+   
+ 
+    
+   
+ 
+    
+      
+  
+   
+    
+ 
+    
+   
+  
+      
+  
+ 
+ 
+  
+ 
+     
+  
+   
+ 
+ 
+    
+ 
+ 
+    
+ 
+    
+ 
+  
+  -36-
+Projects funded with G.O. or G.O.R. bonds that do not have the Form PAB 
+submitted along with the request will be returned without action. 
+31. Operating Program Reports . 
+a. Quarterly staffing reports (Form V) shall be submitted to B&F no later than 
+14 days after the end of each quarter. 
+b. Reports pursuant to Section 37- 74(f), HRS, shall be submitted to B&F no later 
+than 14 days after the end of each quarter. 
+c. Quarterly reports for DOE and UH shall be submitted as provided by general law or as provided herein. 
+32. Other Administrative Reporting Requirements . 
+a. Programs that have changes in revenues shall report such changes in the quarterly updates of revenue estimates (eRev) . 
+b. Program and departmental responses to provisos in Act 88, SLH 2021, as 
+amended by Act 248, SLH 2022, and other appropriation acts requir ing the 
+development, performance, completion, or reporting of studies, reports, findings, evaluations, updates, notifications, and plans to the Legislature or appropriate authority shall follow requirements of the proviso. 
+c. Act 100, SLH 1999, requires every department to develop and submit a report 
+on the department’s goals and objectives, policies, action plan, and timetable to meet those goals, including the process to measure achievement and performance.  Section 7 of Act 100, SLH 1999, provides detailed reporting 
+requirements.  Three copies of the report should be submitted to the Governor pursuant to the Governor’s deadline for legislative reports. 
+33. Submission Requirements and Due Dates . 
+All submittals must be submitted via email in PDF format from your department’s designated email account to B&F at DBF.DOCS@hawaii.gov as follows.  All 
+submittals, except Requests for Allotment, require transmittal memoranda from the 
+respective department head: 
+a. The following shall be submitted to B&F no later than Friday, September 9, 
+2022: 
+• Request for Allotment ( Form A-19) 
+• Request for Transfer of Funds ( Form A-21), as applicable 
+• OEP  
+ 
+ 
+  
+  
+ 
+    
+ 
+ 
+   
+   
+ 
+      
+ 
+    
+ 
+ 
+ 
+   
+    
+   
+  
+ 
+   
+   
+     
+   
+       
+    
+  
+  
+ 
+  
+     
+ -37-
+• Special, revenue bond, or revolving fund financial plans, as applicable 
+b. The following shall be submitted to B&F no later than Friday, September 30, 2022: 
+• FY 23 Budgeted Recurring Routine Expenditures (Operational Service 
+Contracts) (Form BRR) 
+• Summary of FY 23 CB Allocat ion (Form CB) 
+• CIP Expenditure Plan ( Form CEP) 
+Attachments 
+Attachments : 1 (Appropriations for Specific Purposes) 
+2 (Establishment of New Appropriation Symbols for Extended Lapse 
+Dates) 
+3 (Appropriations for CIP in Operating Budget) 
+Forms: B-2 (Request to Establish and Fill (or Extend) Unauthorized or Exempt 
+Position ) 
+BRR (FY 23 Budgeted Recurring Routine Expenditures (Operational 
+Service Contracts)) 
+CB (Summary of FY 23 CB Allocation) 
+CEP (CIP Expenditure Plan) 
+PAB (G.O. Bond Fund Appropriations) 
+V (Quarterly Staffing Report) 
+Table R Operating              
+                                  
+            
+                 
+            
+ 
+            
+                 
+            Attachment 1 
+Appropriations for Specific Purposes from Act 88, SLH 2021, as amended by Act 248, SLH 2022 
+Leg 
+Proviso Worksheet 
+Section Seq No. Dept Prog ID Description MOF FY 23 $ 
+NA 3000-001 AGS AGS881 Bernice Pauahi Bishop Museum A 7,500,000 
+NA 2103-001 AGS AGS881 ‘Iolani Palace A 2,000,000 
+6.4 2103-001 BED BED160 Affordable Homeownership A 5,000,000 
+NA 3000-001 BUF BUF102 Repricing A 10,000,000 
+NA 103-001 DEF DEF118 HIEMA Hazard Mitigation State Match A 7,233,000 
+12.1 107-001 EDN EDN100 Teacher Bonus/Incentives A 32,500,000 
+12.2 3002-001 EDN EDN100 Teacher Repricing A 121,702,128 
+Charter Schools Repricing & Other Cost 
+16.2 3000-001 EDN EDN600 Items A 8,297,872 
+Charter Schools Hawaiian Language 
+16.3 3000-001 EDN EDN612 Immersion Teachers A 2,000,000 
+91.1 NA EDN N/A Facilities Repair and Maintenance A 256,000,000 
+NA 1000-001 HHL HHL602 Hawaiian Homestead Services A 10,000,000 
+NA 3000-001 HMS HMS903 TAONF Benefit Allotment A 3,925,980    
+ 
+ 
+  
+    
+      
+  
+  
+    
+  
+  
+    
+    
+       
+ Attachment 2 
+CURT T. OTAGURO DAVID Y. IGE COMPTROLLER GOVERNOR 
+AUDREY HIDANO 
+DEPUTY COMPTROLLER 
+STATE OF HAWAII 
+DEPARTMENT OF ACCOUNTING AND GENERAL SERVICES 
+P.O. BOX 119, HONOLULU, HAWAII 96810-0119 
+July 26, 2022 
+ACC 22.U035 
+MEMORANDUM 
+TO: Craig K. Hirai, Director 
+Department of Budget and Finance 
+FROM: Curt T. Otaguro, Comptroller 
+SUBJECT: Establishment of New Appropriation Symbols 
+In response to your July 22, 2022 memorandum, we have established the requested 
+extended lapse date sub-account appropriation symbols on the attached form. 
+If there are any questions, please call Jan Tanabe of our Accounting Division at 586-
+0637. c: Budget and Finance/BPPM Act 248/SLH 2022 
+Request for Sub-Accounts for Programs with Partial Funding with Extended Lapse Dates 
+Dept Pgm ID MOF Lapse Date Sub-Account Name Sub-Account 
+AGR AGR 141 A 6/30/2024 ARM-WAHIAWA IRRIGATION SYS SPILLWAY G-23-142-A 
+BED BED 160 A 6/30/2024 HHFDC -LOANS TO NONPROFIT FIN INST See Note* 
+HTH HTH 710 A 6/30/2024 STATE LABORATORIES MODERNIZATION G-23-106-H 
+EON EON 407 A 6/30/2024 VARIOUS REPAIRS & MAINTENANCE G-23-046-E 
+LNR LNR 801 A 6/30/2024 HONOKOHAU SBH WASTEWATER INFRASTRUCTURE G-23-080-C 
+*Not sure if account already set up with extended lapse date or not. If yes, please disregard. If not, then either 
+assign a new sub-account or amend the Appropriation Warrant's lapse date for the established account  
+     
+  
+  
+         
+  
+  
+ 
+     
+         Attachment 3 
+Appropriations for CIP in Operating Budget from Act 88, SLH 2021, as amended by Act 248, SLH 2022 
+Leg 
+Proviso Worksheet
+ Section Seq No. Dept Prog ID Description MOF FY 23 $ 
+Upgrade of Wahiawa Dam And 
+6.1 2101-001 AGR AGR141 Spillway/Purchase of Fee Simple Lands A 3,500,000 
+Bernice Pauahi Bishop Museum capital 
+NA 3000-001 AGS AGS881 improvements A 10,000,000 
+NA 2103-001 BED BED170 Menehune Ditch Improvements A 551,000 
+17.3  ($49.5M only) 2100-001 BED BED180 Stadium Related Expenses A 50,000,000 
+8.2 2100-001 HTH HTH710 State Laboratory A 14,000,000 
+Honokohau Small Boat Harbor 
+17.1 2104-001 LNR LNR801 Wastewater Infratructure A 4,000,000 
+NA 3000-001 LNR LNR801 Maalaea Harbor A 500,000  
+ 
+  
+        
+ 
+    
+     
+    
+ 
+  
+   
+ 
+  
+   
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+   
+ 
+    
+ 
+ 
+   
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+  
+     
+ 
+  
+  
+ Form B -2 (8/ 2022) 
+(Date) 
+TO: The Honorable David Y. Ige 
+Governor of Hawaii 
+THRU: Craig K. Hirai Director of Finance 
+FROM: (Department Head, Title) (Department) 
+SUBJECT: Request to Establish and Fill (or Extend) Unauthorized ( and/or Exempt) 
+Position 
+Approval is requested to establish and fill (or extend) the following unauthorized (and/or exempt) position: 
+1. Position Title: 
+2. Description of functions and responsibilities: 
+• Note if position is unique; i.e., only position in the organization that performs the particular function. 
+3. Program ID/title; Division/Branch/Section (as applicable); location: 
+4. Salary and means of financing (general, special, federal, etc.; for other than general fund, indicate specific fund source): 
+5. Nature of appointment: 
+a. Projected appointment date: 
+b. Civil service/exempt: 
+c. Duration position needs to be filled: 
+d. Part or full -time (40 hrs. per week) (If part -time, indicate number of hours to 
+work per week.): 
+e. If exempt, attach a copy of Department of Human Resources Development 
+or delegated approval:  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+            
+            
+   
+  
+ 
+   
+            
+            
+   
+  
+ 
+   
+            
+          
+ 
+ 
+  
+       
+    
+ 
+ 
+  
+ 
+ _____________________________ _______________ __________ 
+_________________________________ 
+______ _______________________ _______________ __________ 
+_________________________________ ______ _______________________ _______________ __________ 
+__________________________________ 
+__________________________________ Request to Establish and Fill (or Extend) Unauthorized ( and/or Exempt) Position 
+Department 
+Date Page 2 
+6. Justification for establishing and filling (or extending) the position: 
+• Identify the authority to establish the position. 
+• Provide specific, complete justification, including alternatives investigated; 
+specific adverse impacts of delay in hiring; specific adverse, irrepara ble 
+impact to services to the public, etc. 
+7. Attach organization chart reflecting where the requested position will be placed. 
+8. Department review of request: 
+a. Reviewed and approved by division or attached agency administrator: 
+Name Telephone Date 
+Signature b. Reviewed and approved by department administrative services officer: 
+Name Telephone Date 
+Signature c. Reviewed and approved by department head: 
+Signature Telephone Date 
+RECOMMEND: 
+APPROVAL DISAPPROVAL DEFER 
+DIRECTOR OF FINANCE 
+DATE   
+ 
+ 
+ 
+ 
+ 
+       
+    
+ 
+  
+ 
+  
+ 
+ 
+ 
+ __________________________________ 
+__________________________________ Request to Establish and Fill (or Extend) Unauthorized (and/or Exempt) Position 
+Department 
+Date Page 3 
+APPROVED DISAPPROVED DEFER 
+DAVID Y. IGE 
+Governor, State of Hawaii 
+DATE 
+Attachment  
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 Form BRR (8/2022) 
+FY 23 Budgeted Recurring Routine Expenditures (Operational Service Contracts) 
+Department of 
+from BJ tables 
+Estimated 
+Org BJ  Line Object Budgeted Contract/PO 
+Prgm ID Code MOF No. Code Amount Services to be provided Amount Difference 
+(Budgeted vs. 
+Estimated) 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Page 1 of 1 SUMMARY OF FY 23 COLLECTIVE BARGAINING ALLOCATION
+                            Department of _____________________ 
+Means of Financing: ____________________ 
+Act 267/22 Act 268/22 Act 269/22 Act 270/22 
+Apprn BU 1 BU 2 BU 3 BU 4 
+Prog ID Program Title Symbol Included Excluded Included Excluded Included Excluded Included Excluded 
+Total 0 0 0 0 0 0 0 0 
+Page 1 of 3 Means of Financing: ____________________ 
+Act 271/22 Act 272/22 Act 273/22 Act 274/22 
+Apprn BU 6 BU 7 BU 8 BU 9 
+Prog ID Program Title Symbol Included Excluded Included Excluded Included Excluded Included Excluded 
+Total 0 0 0 0 0 0 0 0 
+Page 2 of 3  Form CB (8/2022) 
+Means of Financing: ____________________ 
+Act 266/22 Act 275/22 Act 276/22 Act 277/22 
+Apprn BU 10 BU 11 BU 13 BU 14 
+Prog ID Program Title Symbol Included Excluded Included Excluded Included Excluded Included Excluded TOTAL 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Total 0 0 0 0 0 0 0 0 0 
+Page 3 of 3  
+    
+     
+  
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                        
+ 
+ FORM CEP (8/2022) 
+ DEPARTMENT:  ________________ 
+FY 23 CIP EXPENDITURE PLAN ($ thousands)
+ (CIP BUDGET)
+ Planned 
+Contact Person/Office/Phone No.
+ TotalAllotments  Actual
+ TotalPlanned Expenditures 
+ Priority  Expend  Grant E or   Prior*  FY 23  FY 23   Prior*  FY 23  FY 23  FY 24  FY 25  FY 26
+No. Act/Yr  Item No.  Project Title and Brief Project Description Agency (X) L  MOF  Apprn Allotments 1st Half 2nd Half Expenditures  1st Half 2nd Half  Comments 
+Subtotals, by MOF B - - - - - - - - - -
+C - - - - - - - - - -
+D - - - - - - - - - -
+E - - - - - - - - - -
+N - - - - - - - - - -
+P - - - - - - - - - -
+R - - - - - - - - - -
+S - - - - - - - - - -
+T - - - - - - - - - -
+W - - - - - - - - - -
+Grand Total - - - - - - - - - -
+E = Executive Project; L = Legislative Project 
+* Prior to July 1, 2022
+Page 1  
+    
+     
+  
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                        
+  FORM CEP (8/2022) 
+ DEPARTMENT:  ________________ 
+FY 23 CIP EXPENDITURE PLAN ($ thousands)
+ (OPERATING BUDGET) 
+ Planned 
+Contact Person/Office/Phone No.
+ TotalAllotments  Actual
+ TotalPlanned Expenditures
+ Priority  Expend  Grant E or   Prior*  FY 23  FY 23   Prior*  FY 23  FY 23  FY 24  FY 25  FY 26
+No. Act/Yr  Item No.  Project Title and Brief Project Description Agency (X) L  MOF  Apprn Allotments 1st Half 2nd Half Expenditures  1st Half 2nd Half  Comments 
+Subtotals, by MOF B - - - - - - - - - -
+C - - - - - - - - - -
+D - - - - - - - - - -
+E - - - - - - - - - -
+N - - - - - - - - - -
+P - - - - - - - - - -
+R - - - - - - - - - -
+S - - - - - - - - - -
+T - - - - - - - - - -
+W - - - - - - - - - -
+Grand Total - - - - - - - - - -
+E = Executive Project; L = Legislative Project 
+* Prior to July 1, 2022
+Page 2      
+      
+ 
+          
+               
+  
+  
+ 
+     
+        
+     I 
+I 
+I 
+I 
+I 
+I I I FORM PAB 
+Department of Budget Questionnaire - General Obligation Bond Fund Appropriations 
+and Finance (rev. 10/2020) 
+PART 1 Department and Project 
+1 Department 
+2 Project Name 3 Project CIP No. 
+4 Session Law (act no. and year) 5 Program Area Function 6 Item No. 
+7 Project Description and Estimated Useful Life 
+PART 2 Project Cost and Funding Sources 
+8 Does this request for funding require general obligation bond fund appropriations?  Yes No 
+   If "no" box is checked, no further information other than signature and date is required. 
+9 Has any appropriations been made for any portion of project prior to this request?  Yes No 
+10 Funding sources for costs of project made by this request 
+a Direct Federal payment for construction and related capital costs 
+b General obligation bond fund appropriations 
+c General fund appropriations 
+d Other State of Hawaii and county funds 
+e Section 501(c)(3) funds 
+f Private funds 
+g      Total capital costs made by this request 
+PART 3 Use of general obligation bond fund appropriations and use of project 
+11 Total amount made by this request for each purpose to which general obligation bond fund appropriations will be applied 
+a Total capital costs (construction, reconstruction, equipment) 
+Total noncapital State of Hawaii costs (e.g., judgement and legal and contract b settlements, but not operating & maintenance) 
+c Total grants to counties 
+d Total grants to Section 501(c)(3) corporations 
+e Total grants to private persons and organizations and Federal government 
+f Private funds 
+g Total loans to Section 501(c)(3) corporations 
+h Total loans to private persons and organizations and Federal government 
+i      Total use of general obligation bond fund appropriations 
+12 Total square footage and percentage of use of project for each purpose
+ to which general obligation bond fund appropriations will be applied Square Footage Percentage of Total 
+a Total common area 
+b Total area used by State of Hawaii and counties 
+c Total area used by Section 501(c)(3) corporations 
+Total area used by private persons and organizations and Federal government in d trade or business 
+e      Total area 
+PART 4 Payment of operating and debt service costs and management of project 
+13 Will any lease or contract with a concessionaire or vendor be entered into in respect of  Yes No
+ any portion of the project?  If yes, attach schedule and copy of each contract. 
+14 Will any lease, incentive payment contract or management contract be entered into in respect of  Yes No
+ any portion of the project?  If yes, attach schedule and copy of each contract. 
+15 Will any payment be made (directly or indirectly) by the Federal government or any private person or  Yes No
+ organization pursuant to contract or other arrangement in respect to any portion of the project?
+ If yes, attach schedule and copy of each contract. 
+16 Please list the Department staff member(s) assigned to cooperate with the Department of Budget and Finance in its Project
+ monitoring responsibilities, including (i) facilitating prior Department of Budget and Finance review and approval for any contracts
+ with third parties relating to the Project or any transfer or sale of the Project and (ii) assisting with an annual review of the use
+ of the Project.   (Attach a separate sheet providing name(s), phone number(s), and email address(es).) 
+Name of Signer Signature Date Telephone Number      
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+   
+   
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Instruction s for Form PAB 
+Who must file this Form PAB . Anyone requesting any appropriation 
+of general obligation bond funds must file this Form PAB. 
+Where to file. This Form PAB must be filed with the Budget, Program 
+Planning and Management Division of the Department of Budget and 
+Finance. 
+Purpose .  The purpose of this Form PAB is to elicit information that will 
+enable the State of Hawaii to allocate general obligation bond fund 
+appropriations in a manner that will comply with applicable 
+requirements of Federal income tax law and regulations. 
+Line 1 . Enter the name of the Department making the request for 
+general obligation bond fund appropriations. Line 2 . Enter the name of the project for which general obligation 
+bond fund appropriations are being requested. 
+Line 3 . Enter the CIP number for the project. 
+Line 4. Enter the act no. and year of Session Law act under which 
+appropriations have been made or are to be made for the project. 
+Line 5 . Enter the program area function (e.g., economic 
+development). Line 6 . Enter the item number of the project. 
+Line 7 . Enter the description of the project and its estimated useful life 
+(e.g., Waianae Rental Housing, 30 years ). 
+Line 8 . Check the ‘yes’ box if any portion of the project is to be funded 
+with general obligation bond fund appropriations.  Otherwise, check the 
+‘no’ box, if the ‘no’ box is checked, no other information on Form PAB, 
+other than the signature line, is required.  Please sign, date and return 
+this Form PAB. 
+Line 9 . Check the ‘yes’ box if any appropriation has been made for 
+any portion of the project prior to this request and attach the prior Form 
+PAB or schedule containing all relevant details including the date, 
+amount, and Session Law act and year. 
+Line 10.  With respect to the appropriations (regardless of the source 
+of such appropriations) made by this request for funding of any portion 
+of the project: 
+a. Enter the amount made or expected to be made by the Federal government including reimbursements, for construction and 
+related construction and acquisition costs in respect of the project. 
+b. Enter the amount funded or expected to be funded from general 
+obligation bond fund appropriations. 
+c. Enter the amount funded or expected to be funded from general fund appropriations. 
+d. Enter the amount funded or expected to be funded by other State 
+of Hawaii funds or county funds. 
+e. Enter the amount funded or expected to be funded by payments 
+from corporations which are classified as section 501(CX3) 
+corporations under the Internal Revenue Code. 
+f. Enter the amount funded or expected to be funded by private 
+persons and organizations. 
+g. Enter the total of the amounts in a, b, c, d, e, and f of Line 10. Attach a schedule containing all details, including amounts and name and address of each person contributing to the funding of the project. Funding as used in this Line 10 means funding for 
+capital and related acquisition items, including land, but does not 
+include funding of operational and maintenance expenses or debt service payments after the in-service date of the project. 
+Line 11.  With respect to the general obligation bond fund 
+appropriations made by this request for funding of any portion of the 
+project: 
+a. Enter the total amount made or expected to be made for construction and related construction and acquisition costs of the 
+project. b. Enter the total amount made or expected to be made to 
+pay other State of Hawaii costs ( e.g., a judgment claim, 
+a contract settlement payment). 
+c. Enter the total amount of grants made or expected to be made to counties in the State of Hawaii. 
+d. Enter the total amount of grants made or expected to be made to section 501(CX3) corporations. 
+e. Enter the total amount of grants made or expected to 
+be made to private persons and organizations and the 
+federal government. 
+f. Enter the total amount of loans made or expected to be 
+made to counties in the State of Hawaii. 
+g. Enter the total amount of loans made or expected to be 
+made to section 501(CX3) corporations. 
+h. Enter the total amount of loans made or expected to be 
+made to private persons and organizations and the 
+federal government. 
+i. Enter the total of the amounts in a, b, c, d, e, f, g and h 
+of Line 11. 
+Attach a schedule containing all details, including amounts 
+and name and address of recipients of bond fund 
+appropriations. 
+Line 12.  Enter, to the extent applicable (e.g., an office 
+building), the total square footage and percentage of total 
+square footage of the project used by various persons or organizations.  All use, including indirect and incidental use, 
+is to be included. 
+a. The total common area ( e.g., hallways, parking 
+structure) used by all persons and organizations. 
+b. The total area (excluding the common area) used 
+exclusively by the State of Hawaii and counties in Hawaii. 
+c. The total area (excluding the common area) used exclusively by section 501(CX3) corporations. 
+d. The total area (excluding the common area) used 
+exclusively by private persons and organizations 
+(including concessionaires and vendors) and the Federal government in their trade or business. 
+e. Enter the total of the amounts in a, b, c and d of 
+Line 12. 
+Attach a schedule containing all details, including a 
+breakdown by area used, and name and address of each 
+user. 
+Line 13.  Check the ‘yes’ box if any lease or contract with a 
+concessionaire or vendor is expected to be entered into in 
+respect of any portion of the project ( e.g., newsstand, store, 
+pharmacy, onsite laundry services, cafeteria or other food 
+services). Attach a separate schedule containing all relevant 
+details, including the date, the name and address of each 
+concessionaire or vendor, the terms and provisions of the 
+lease or contract, and a copy of the contract. 
+Line 14.  Check the ‘yes’ box if any lease, incentive payment 
+contract or management contract is to be entered into in 
+respect of any portion of the project.  Attach a separate schedule containing all relevant details, including the date, 
+the name and address of each party to such lease or 
+contract, the terms and provisions of the lease or contract, and a copy of the lease or contract. 
+Line 15.  Check the ‘yes’ box if any payment is expected to 
+be made (directly or indirectly) by any private person or 
+entity or the Federal government pursuant to contract or 
+other arrangement in respect of any portion of the project. 
+Attach a separate schedule containing all relevant details, including the date, the name and address of each party to 
+such contractor arrangement, the terms and provisions of 
+the contract or arrangement, and a copy of the contractor a description of the arrangement. 
+Line 16.  Identify on a separate sheet the contact 
+information for department staff member(s) assigned to 
+cooperate with the Department of Budget and Finance in its 
+project monitoring responsibilities. 
+(rev. 10/2020)                   FORM  V (8/2022) 
+QUARTERLY STAFFING REPORT 
+PART I - VACANCIES 
+Department ___________________________________ 
+_____ 
+_____ Annual Report 
+Quarterly Update for ________________ Contact Person: 
+Phone: 
+Program 
+ID Legal Authority Position 
+No. Position Title as 
+Budgeted Perm/ 
+Temp 
+(P/T) Civ Svc 
+or 
+Exempt 
+(C/E) Budgeted 
+FTE Budgeted 
+Salary MOF Date of 
+Vacancy 
+(mm/dd/yy) Date To Be 
+Established 
+(mm/dd/yy) Date To Be 
+Filled 
+(mm/dd/yy) Comments                                                                                  
+1 8/12/2022   FORM  V (8/2022) 
+QUARTERLY STAFFING REPORT
+ PART II - POSITIONS FILLED 
+Department ___________________________________ 
+_____ 
+_____ Annual Report 
+Quarterly Update for ________________ Contact Person: 
+Phone: 
+Program 
+ID Legal Authority Position                
+No. Position Title as 
+Budgeted Position Title as 
+Filled Perm/ 
+Temp 
+(P/T) Civ Svc 
+or 
+Exempt 
+(C/E) Budgeted 
+FTE Budgeted 
+Salary Actual 
+Salary MOF Date Filled 
+(mm/dd/yy) Comments                                                                                  
+2 8/12/2022   
+ I I                       CAPITAL PROJECT INFORMATION AND JUSTIFICATION SHEET FOR OPERATING 
+ EXPENDING AGENCY:
+ USER PROGRAM ID
+ DEPT    NUMBER      CAPITAL PROJECT
+      NUMBER 
+PROJECT TITLE: 
+PROJECT DESCRIPTION: 
+TOTAL ESTIMATED PROJECT COST (In Thousands of Dollars)
+                                           PRIOR APPROPRIATIONS (Including MOF)
+ COST ACT   YR    ITEM ACT   YR    ITEM ACT   YR    ITEM 
+   ELEMENT 
+LUMP SUM 
+BREAKOUT BY COST ELEMENT (INFORMATION ONLY NEEDED FOR LUMP SUM APPROPRIATION)
+   PLANS
+   LAND   DESIGN   CONSTRUCT
+   EQUIPMENT
+  TOTALS 0 0 0 ACT   YR
+0    ITEM ACT   YR
+0    ITEM ACT   YR
+0                                             APPROPRIATIONS (including MOF)
+   ITEM
+FY 2022 FY 2023
+0 0  FUTURE 
+  YEARS
+0   TOTAL
+PROJECT
+   COST 
+0 
+PROJECT INFORMATION AND JUSTIFICATION (use back if necessary): 
+a. Total Scope of Project. 
+b. Identification of Need and Evaluation of Existing Situation. 
+c. Alternatives Considered and Impact if Project is Deferred. 
+d. Discuss What Improvements Will Take Place When Project Completed (including benefits to be derived and/or deficiencies this project intends to correct). 
+Page 1 of 2 e. Impact Upon Future Operating Requirements (show initial and ongoing funding requirements by cost element, including position count, means of financing, fiscal year). 
+f. Additional Information: 
+Page 2 of 2
+
+--- Text from PDF (https://spo.hawaii.gov/wp-content/uploads/2016/12/2017-06-GSA-IT-Services.pdf) ---
+SARAHALLEN
+AOMINISTRATOfl
+DAVID V.‘GEMARASMITH
+AsscsrANr AoMjNLsTpArc
+STATEPROCUREMENT OFFICE
+P.O.Box119
+Honolulu, Hawaii96B100119
+Tel:(SOS)586-0554
+email:stataprocuremenloffice@hawau.gov
+http://spo.hawah.oov
+Twitter:@hawaiispo
+December 22,2016
+PROCUREMENT CIRCULAR NO.2017-06
+TO: OfficeoftheGovernor, ChiefofStaff
+OfficeoftheLieutenant Governor, ChiefofStaff
+Executive Department Heads
+HawaiiStatePublicLibrarySystem,StateLibrarian
+ChiefProcurement Officers(CPOs):
+Department ofEducation, Superintendent
+University ofHawaN,President
+OfficeofHawaiian Affairs,Chairperson oftheBoard
+HawaiiHealthSystems Corporation, President andChiefExecutive Officer
+Judiciary, Administrative Director oftheCourts
+Senate,President
+HouseofRepresentatives, Speaker
+Counties ofHawaN,Kauai,Maui,andCity&CountyofHonolulu
+Executive Branch,FinanceDirector
+Legislative Branch,Chairperson oftheCountyCouncil
+Board/Departments ofWaterSupply,Manager/Chief Engineer
+Honolulu Authority forRapidTransportation, Executive Director
+FROM: SarahAllen,AdministratorjfflIr.
+SUBJECT: GeneralServices Administration (GSA)Schedule 70Contracts
+forITServices Only
+TheAdministrator oftheStateProcurement Office(SPO)hasdetermined thatGSASchedule 70,
+GeneralPurpose Commercial Information Technology Equipment, Software, andServices, may
+beusedforITSERVICES ONLY.
+TheGeneralServices Administration (GSA)isafederalgovernment agencythatoffersaFederal
+SupplySchedule Contracts ortheGSASchedules Program totheFederal Procurement
+Workforce. TheGSASchedules Program wascreated tostreamline government purchasing
+ofcommercial products andservices andtoleverage thebuyingpowerofthefederalgovernmentSTATEOFHAWAIIProcurement Circular 2017-06 
+General Services Administration (GSA) Schedule 70 Contracts 
+for IT Services Only 
+Page 2 
+ 
+ 
+in the process. GSA Schedule contracts were  developed to assist federal employees in 
+purchasing products and services; they contain pre-negotiated prices, delivery terms, warranties, 
+and other terms and conditions which streamline the buying process. 
+GSA established the Cooperative Purchasing Program, which allows state and local governments 
+access to GSA Schedule 70 contracts containing IT  Special Item Numbers (SINs).  No other GSA 
+schedules, including Schedule 84, may be used, notwithstanding governor declared emergency 
+procurements. 
+The jurisdiction’s Chief Information Officer (CIO) or designee approval is required prior to using 
+GSA Schedule 70 contracts, and departments must adhere to the following policies.  Each jurisdiction shall provide the SPO Administrator the name(s) and contact information of the 
+jurisdiction’s CIO or designee if the jurisdiction chooses to participate in the GSA program. 
+A department must notify the CIO of its interest in purchasing off a GSA contract.  Such notification 
+shall include: 
+ an analysis of whether any current statewide contract could meet (or not meet) their 
+needs, and if such contracts do exist, why the department is not using such contract 
+ a description of the services sought 
+ anticipated period of performance 
+ estimated cost  
+ 
+ 
+When a Statewide Contract Exists:  
+Departments are not permitted to purchase from a GSA contract if there is another active SPO 
+statewide contract for that service.  If a department believes it can negotiate better value using 
+the GSA contract, it must include an analysis and justification in written notification to the attention 
+of the CIO.  The CIO may negotiate with existing statewide contractors to “meet or beat” the other contract terms, if possible.  If CIO determines that “best value” for a department can only be obtained through the GSA contract, it may recommend approval, in writing, on a case by case basis. 
+ 
+Examples that might qualify for this scenario include, but are not limited to: 
+ Where specific vendor service does not exist on an existing Statewide contract, 
+ Where specific vendor service exists on an existing Statewide contract, and on a GSA 
+Schedule 70 contract 
+ After discussion with the department and review of request, CIO shall make a determination in writing of the appropriate next steps, including but not limited to:  
+1) Determine if there is sufficient need for the service to justify the department 
+conducting a procurement in according with HRS 103D, Hawaii Procurement Code; and 
+  2) Recommend that the department use an existing Statewide contract. Procurement Circular 2017-06 
+General Services Administration (GSA) Schedule 70 Contracts 
+for IT Services Only 
+Page 3 
+ 
+ 
+   When a Statewide Contract Does Not Exist : 
+ 
+After discussion with the department and review of request, CIO shall make a written 
+determination of the appropriate next steps including but not limited to:  
+1) Determine if there is sufficient need for the service to justify the department 
+conducting a procurement in according with 103D, Hawaii Procurement Code or; 
+ 
+2) Recommend that the department conduct a procurement for the necessary 
+service using the GSA Schedule 70 contract.  
+ 
+ 
+GSA ADVANTAGE!®  
+ 
+GSA Advantage!  is GSA's e-commerce website, which lists GSA contract holder products and 
+services. State, Local and Federal Government customers can use GSA Advantage! to research 
+product information and make on-line purchases (if authorized). GSA Advantage! is also a 
+valuable market research tool. 
+ 
+Entities are encouraged, but not required, to use GSA’s Schedule Ordering Procedures to ensure competition and to receive the best value from GSA Schedule contractors.  Step 1: Register on GSA Advantage, as a state government customer, for access to GSA eBUY, 
+the online RFQ tool: https://www.gsaadvantage.gov/advantage/main/start_page.do  
+ 
+NOTE:  The use of GSA Advantage by State and Local  Governments is restricted to only those 
+domains (URLs) approved by GSA and approved by the jurisdiction’s CIO or designee.  Step 2: Follow the eBUY template, which will guide you through the issuing of an RFI or RFQ and 
+help you submit it to vendors. 
+ Step 3: Issue RFQ and award through eBUY.  Step 4:  The award must be posted on the Procurement and Awards Notices Site (or as amended) 
+or the jurisdiction’s appropriate awards posting site.  
+ Step 4:  After award, deal directly with the vendor and follow the jurisdiction’s procedures for 
+payment to the vendor.  REMINDER!  GSA Schedule 70 shall only be used for IT Services.  Agencies shall use 
+applicable procurement method or appropriate price/vendor list for hardware and 
+software. 
+  Procurement Circular 2017-06 
+General Services Administration (GSA) Schedule 70 Contracts 
+for IT Services Only 
+Page 4 
+ 
+ 
+ 
+OBTAINING PRICE QUOTES 
+ 
+If approved by the CIO to use GSA Schedule 70 contracts, the agency shall obtain price quotations as follows: 
+ 
+1. For purchases under $25,000: 
+a. Obtain a minimum of two (2) price quote from awarded GSA Schedule 70 
+contractors. 
+b. Award is based on best value. 
+ 
+2. For purchases $25,000 to less than $1,000,000: 
+a. Obtain a minimum of three (3) price quotes from awarded GSA Schedule 70 
+contractors.  
+b. Award is based on best value. 
+ 
+Personnel conducting or participating in utilizing GSA Schedule 70 contracts are responsible for 
+documenting all quotations.  If unable to obtain the minimum number of quotes, written justification is required and kept as a part of the contract file.   If award is not made to the lowest bidder, written justification must be provided and kept as a part of the contract file.  
+ 
+PAYMENTS  for contracts exceeding $100,000 shall be based on milestones and deliverables as 
+identified in the statement/scope of work, and not on labor hours alone.  TRAVEL PAYMENTS:   Profit on travel is not allowable. 
+ 
+TERM OF CONTRACT:  The term of contract shall not exceed the one (1) base-year plus four 
+(4) 12-month options to extend.  
+ PURCHASES/CONTRACT S EXCEEDING $1,000,000.  The Competitive Sealed Proposals 
+procurement process pursuant to HRS 103D sha ll be used, unless granted express approval by 
+both the CIO and SPO to utilize GSA Schedule 70 contracts. 
+ CONSIDERATION OF QUOTES .  Agencies shall consider all responsive and responsible quotes 
+received.  The award shall be made to the vendor whose offer represents the best value to the agency.  Best value means the most advantageous offer determined by evaluating and comparing 
+all relevant criteria in addition to price so that  the offer meeting the overall combination that best 
+services the agency is selected.  Price must be found fair and reasonable. These criteria may include, in addition to others, the total cost of ownership, performance, history of the vendor, quality of goods, services, delivery and proposed technical performance (as applicable).  
+AGENCY PROCUREMENT OFFICER RESPONSIBILITIES.  The agency’s procurement officer 
+must make a written determination that:  
+1. The use of the GSA schedule is cost effective and in the best interest of the State. 2. The price is equal to or less than the contractor’s current GSA price. Procurement Circular 2017-06 
+General Services Administration (GSA) Schedule 70 Contracts 
+for IT Services Only 
+Page 5 
+ 
+ 
+3. The price is fair and reasonable after conducting an analysis of price, quality, and other 
+relevant factors. 
+4. The Contractor is willing to offer GSA pricing and terms to the State. 5. The Contractor accepts required State contract terms and conditions. 
+ 
+APPROVALS.  Any and all approvals/requirements and internal controls for these expenditures 
+are the responsibility of the agency/jurisdictions, including but not limited to budget approvals, requests to spend, and applicable IT governance policy and procedures.  
+COMPLIANCE PURSUANT TO HRS §103D-310(c).   Use of GSA Schedule 70 is for the 
+solicitation process only. Pursuant to HRS section 103D-310(c) and HAR section 3-122-112, the procuring officer shall verify compliance (i.e. v endor is required to provide proof of compliance 
+and may use the Hawaii Compliance Express) for all contracts awarded, and award is required to be posted on the Awards Reporting System. Copies of the HCE certificates (or paper documents) 
+and awards posting are required to be documented in the procurement/contract file.  
+ ANNUAL REPORTS.  All participating CPO jurisdictions and the CIO for the Executive Branch 
+shall provide the Administrator of the SPO an annual report, no later than August 15 for the previous fiscal year, of all contracts/expenditures made using the contracts awarded under the GSA Schedule 70.  The report shall be made using the attached template. 
+ 
+TRAINING: Training on GSA eBuy will be announced in future correspondence. 
+  Your staff may contact Bonnie Kahakui at 587-4702 or e-mail bonnie.a.kahakui@hawaii.gov  for 
+any questions, or you may contact me at 587-4700. 
+   Attachment GSA Schedule 70 Annual Report
+FY:_________________
+Jurisdiction: ________________________
+Annual Report due 8/15 for the previous Fiscal Year Submitted by:   __________________________________________ Submission  Date:_________________________________Department/Division Title/Description Contractor Contract Amount Term of Contract
+
+--- Text from PDF (https://ets.hawaii.gov/wp-content/uploads/2019/03/GSAITSchedule70-r1-instructions.pdf) ---
+GSA IT Schedule 70 — Instructions for Executive Branch Departments/Agencies Only 
+(excluding DOE, UH and HHSC) 
+GSA eBuy Registration
+ 
+ETS Req u
+est & Approval Procedures
+ 
+1.Sen d request email to: ets.itg@hawaii.gov
+a.Subject: Request GSA eBu y login authorization
+b.Includ
+e in th e body:
+i.Use
+r contact in formation
+ii.Name
+iii. Department/Agency/Division
+iv. Title
+v.Phone
+vi.Email
+c.User’s su pervisor or ma nager co ntact in formation
+i.Name
+ii.Department/Agency/Division
+iii. Title
+iv. Phone
+v.Email
+d.ETS will respond to email acknowledgin g receipt
+of request information and will process request.
+2.After receiving ETS response, register o n GSA
+Advantag
+e in the category for “State and Local
+Government
+” members for access to GSA eBuy (the
+online RFQ tool):
+www.gsaadvantage.gov/advantage/main/start_page.do
+3.Validate your email address, then follow steps for State
+an
+d Local Government ordering activities.
+4.For the Supervisor/Approving Official e-m ail field,
+enter: ets.itg@hawaii.gov
+5.Select “Cooperative Purchasing Program.”
+6.After submitting registration information, th e system
+wil
+l process and send notification to ETS.
+7.ETS will review request and respond accordingly.
+8.You will receive email notification from GSA
+Advantage, granting user access to GSA eBuy.
+9.If a u ser no longer need s access to GSA eBuy, it is the
+department’s responsibility to notify ETS of the change.
+QUESTIONS? PLEASE CONTACT:
+ 
+Todd Omura , ETS IT Governance Officer
+ 
+(808) 586-1824 / todd.t.o mura@hawaii.gov
+Kaimana Bing h am, ETS Technical Analyst
+(808) 284-0423 / kaim ana.n.bingham@hawaii.govState Use of GSA IT Schedule 70
+ 
+Approval Procedures
+ 
+Pursuant to SPO Circular No. 2017 -06, State Chief 
+Information Officer or designee approval is required 
+prior to using GSA IT Schedule 70 contracts. 
+1.Once your GSA login is confirmed, you will be added
+to the GSA IT Schedule 70 SharePoint site
+a.To begin filling out your request click "new item"
+at the top of the SharePoint landing site and enter
+all of the requested information.
+b.Once the information is completed in the GSA
+request form, select "Submit' on the action drop
+down at the top of the form.
+c.Required attachments for requests over 100K
+include:
+a)Draft Request for Quote (RFQ)/
+Statement of Work (SOW)
+b)Reference number for approved
+ETS-205 (request to spend form)
+i)For procurements of $1 million
+or greater, express approval by
+both the CIP and SPO must be
+granted via SPO-050 form.
+d.ETS will review the request. CIO or designee will
+respond accordingly.
+Report ing Procedures 
+Following selection of vendor and awarding of order, 
+departm e
+nts/agencies shall provide ETS will the following 
+information : 
+1.Return to the GSA IT Schedule 70 SharePoint site
+a.Select your request and open it to the 'Fin al 
+Review' tab
+b.Enter the following information:
+i.Selected Vendor
+ii.Date of award
+iii. Awarded total cost
+iv. Actual performance start date
+v.Actu al perfo rmance end date
+vi.Optional year
+vii.Name of vendors th at submitted  bids 
+5/19/17
+
+--- Text from PDF (https://ets.hawaii.gov/wp-content/uploads/2019/07/ETS-001-TR-Form-20190701.pdf) ---
+TELECOM REQUESTFOR ETS USE ONLY  
+Phone Data HT Radio User 
+  TR #: 
+1. Date: 2. Req. Service Date: 3. User Agency #:
+To: ETS.NB.TRS@hawaii.gov 4. Requestor:
+Name:
+Title:  
+Phone:  Fax: DAGS / ETS / NB 
+Kalanimoku Building
+1151 Punchbowl Street, B20 
+Honolulu, HI  96813 E-Mail:
+5. From: 6. Local Contact Person : (If different from requestor)
+Department: Name:
+Division:  Phone:        Fax:
+Branch:  E-Mail:
+7. Billing: ☐Use Existing ☐Create New ☐Change 8. Location of Service:   (Service Address)
+Account #: Bldg., & Rm:
+Bill Name: Address:  
+Bill Address: City, St, Zip:  Nearest Working #:  
+City, St, Zip: Island:  
+9. Description:  (Attach Quotations, Floor Plans,  Brochures, etc.  Use additional sheets as required )
+☐HATS    ☐VoIP    ☐Cabling   ☐Radio   ☐Other
+10. Justification:
+11. Radio Only -  # of radios presently held: 12.Vendor:
+13. Appropriation Code:
+14. Estimated Costs: INSTALLATION $  OTHER $  TOTAL $  
+15. Departmental Approvals:
+        Department Authorization Signature  Title Phone  Date  
+        Department Telecom Coordinator Signature  T.C. E -Mail address Phone  Date  
+16.ETS Approvals:   (Approval subject to procurement in accordance with Hawaii Revised Stat utes)  
+Reviewed by:  Received by ETS/NB
+ Signature       Date
+Approved by:  
+ Date
+☐RETURNEDSignature – Network Branch Manager  
+☐DISAPPROVED
+ETS-001 (Revised 07/01/2019)Date   ETS Chief Information Officer (When needed for IT Governance  approval)    
+NOTES:
+
+--- Text from PDF (https://ets.hawaii.gov/wp-content/uploads/2019/07/ETS-001i-TR-Instructions-20190701.pdf) ---
+ETS-001i  (Rev 07/01/2019)  Page 1    
+ 
+This form is used by departments and agencies to obtain technical approval from ETS for purchases of 
+telecommunications equipment and services. Telecommunications equipment and services can be purchased using 
+appropriate State procurement procedures, inclu ding small purchases or applicable State Procurement Office (SPO) price 
+and vendor list contracts, such as: SPO Price List Contract No. 17 -16, SPO Vendor List Contract No. 12 -12, NASPO 
+ValuePoint Data Communications Products & Services, and NASPO ValuePoin t Public Safety Communication 
+Equipment.  Questions should be addressed to the agency’s Telecom Coordinator or ETS Network  Branch . 
+The Following Requires ETS Approval: 
+Telephones:  
+a) Adds (install dial tone, jacks & wiring), moves, changes (software, billi ng), disconnects  
+b) Telephone services and equipment, including Hawaii Advanced Telephone System (HATS) single & multi -line 
+phones, ISDN BRI, ISDN PRI phones, conference phones, headsets, TTY’s, cordless phones, Key Systems,  PBXs, 
+phone accessories and Voi ce over IP (VoIP)  services  
+c) Voicemail  
+d) CAT5e/6 cabling, jacks, patch panels/blocks, racks, cabinets,  etc. 
+e) Automatic answering devices, maintenance or lease  contracts  
+f) Blocking or unblocking long distance  dialing  
+g) Paging  Systems  
+ 
+Radios : 
+a) Handheld transceivers (walkie -talkie), portables, mobiles purchase/lease and maintenance  agreements  
+b) Base stations and repeaters purchase/lease and maintenance  agreements  
+c) Microwave radio components, purchase/lease and maintenance  contracts  
+d) Antenna structure components, purchase and maintenance  agreements  
+e) Relocation of fixed  transmitters  
+f) Trunked, conventional or simplex radio systems purchase/lease and maintenance  agreements  
+g) Frequency coordination and FCC licensing  services  
+ 
+Video:  
+a)   Tele conferencing equipment, cable TV  
+ 
+Data:  
+a) Telecom equipment including routers, switches, firewalls, CSU/DSU, multiplexers, line drivers, couplers,  etc. 
+b) Fiber, Cat5e/6, termination panels/blocks, racks, cabinets,  etc. 
+c) Internet services through Intern et Service Providers  (ISP)  
+d) Purchases from applicable SPO price list or vendor list contracts for Broadband Ethernet services, ISDN PRI,  DSL, 
+frame relay,  etc. 
+ 
+ 
+The Following Does Not Require ETS Approval:  
+ 
+Telephones:  
+a) Cellular  phones  
+b) Pagers  
+ 
+Recorders : 
+a)   Audio (voice, music), Video (VHS, DVD)  
+ 
+Radios : 
+a) AM/FM receivers, shortwave sets,  scanners  
+b) Hi-Fi equipment, GPS,  EPIRB  
+ 
+Video:  
+a) Receiver, recorder, camera, closed circuit,  amplifier  
+ 
+Data:  
+a) Facsimile  (Fax)  
+b) Patch Cor ds/Patch Cables (When ordering from Hawaiian Telcom issue a Purchase Order (PO) instead of a  TR) ISSUE TELECOM REQUEST FOR THE ITEMS LISTED BELOW 
+(Form ETS -001) ETS-001i  (Rev 07/01/2019)  Page 2    
+ 
+Submit ETS -001 Form in typewritten format with original or State approved e -sign signatures. 
+NOTE:  Altered ETS -001 Forms submitted to ETS will be returned without action to Requestor.  
+1. DATE:  The date that the req uest is submitted.  Format =  mm/dd/yyyy.  
+2. REQUESTED SERVICE DATE: Date service is requested to start (no assurances can be given that this 
+date can be accommodated).  Format =  mm/dd/yyyy.  
+3. USER AGENCY #:  Number the user agency or department assigns for its internal  tracking.  
+4. REQUESTOR: Name, title, phone, fax and e -mail address of the person responsible for the  request.  
+5. FROM: Department, Division, Branch of the agency submitting the  request  
+6. LOCAL CONTACT PERSON: (Only if the person is different from the Requestor in Item #4, otherwise 
+leave blank). Name, phone number, fax and e -mail address of the person at the service location. This is an 
+individual that an installer or service provider woul d contact to gain access to the service  location.  
+7. BILLING: (This section MUST be completed for requests to be  approved.)  
+a. Using the check -boxes, indicate if the services on this request  will: 
+i. Use Existing (Service will be billed to an existing  acco unt) 
+ii. Create New (A new billing account should be created for this  service)  
+iii. Change (The billing information should be corrected/updated as  indicated)  
+b. Account #: If vendor is Hawaiian Telcom, indicate the Hawaiian Telcom 15 -digit account number 
+to which this service should be  billed.  
+c. Bill Name: The billing name listed on the account (or) the NEW/ UPDATED name that should be 
+used on the bill. (The bill name should include a refer ence to the DEPARTMENT, DIVISION, 
+BRANCH & LOCATION where the service is located; especially if bills are mailed to locations 
+OTHER than the service location.)  (Example: HSG/LNR/BOATING – HEEIA)  
+d. Bill Address: The street address (including room or suite  number) or PO Box to which the billing 
+statement should be sent. It’s helpful to use street addresses and room numbers to avoid delays 
+that general Department PO Box addresses may  cause.  
+e. City, St, Zip:  The City, State and Zip+4 Code of the billing  address.  
+8. LOCATION OF SERVICE: The location where the service is to be installed. Include the street address, 
+building name (or designation), room/unit/suite/cube number, city, state, zip code and select the 
+appropriate island. Include the nearest workin g telephone number in the box  provided.  
+9. DESCRIPTION: Check off the applicable boxes for this request: HATS, VoIP, Cabling, Radio and/or Other. 
+Describe the work to be done.  Attach additional sheets, floor plans, quotations and brochures as necessary 
+to describe your  request.  
+10. JUSTIFICATION: A narrative providing justification for the  request.  
+11. RADIO ONLY - # of radios presently held : Indicate the number of existing radios held by the  agency.  
+12. VENDOR :  Vendor name fulfilling this  request.  
+13. APPROPRIATION CODE: The appropriation symbol(s) (Coding string) that is/are associated with the 
+request. (If additional space is needed, include in the DESCRIPTION or on an additional  page.)  
+14. ESTIMATED COSTS: The estimated installation, other, and total costs associated with this request. Attach 
+Quotations, Proposals, Diagrams or Brochures to substantiate these amounts (attach additional sheets as 
+may be required.) Estimates should be within 10% of the actual c osts, otherwise Hawaiian Telcom will 
+require the TR to be  amended.  
+15. DEPARTMENTAL  APPROVALS:  
+a. Department Authorization Signature: All Telecom Requests require an approving signature from 
+a Division Head (or official designee). Signature, Title, Phone N umber & Date signed are required. 
+Only original or State approved e -signed signatures will be  accepted.  
+b. Department Telecom Coordinator Signature: All Telecom Requests require an approving 
+signature from the Department’ s Telecom Coordinator. Signature, E -mail Address, Phone Number 
+& Date signed are required. Only original or State approved e -signed signatures will be accepted. 
+This signature needs to be on file with ETS – Network Branch , otherwise your request will be 
+returned.  TELECOM REQUEST (TR) INSTRUCTIONS 
+(Form ETS -001)

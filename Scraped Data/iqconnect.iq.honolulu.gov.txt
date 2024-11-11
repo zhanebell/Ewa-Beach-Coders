@@ -1,0 +1,6 @@
+Source URL: https://iqconnect.iq.honolulu.gov
+
+TEXT CONTENT:
+IQ Connect This site and all IQ Connect sites are used to allow government customers of Intranet Quorum to post publicly accessible content for constituent use. This content typically includes newsletters, images, documents, surveys, web forms and links to third-party content that is topically relevant to the government user's constituency or services. This service is provided by Leidos Digital Solutions, Inc. Any and all data provided through links on this site are provided to the government customer who posted the content. Data is not used or maintained by LDSI, except as passthrough mechanism for the government data owner. Privacy policies, System of Record Notices, and other policy documents that describe how collected data is used vary by government entity and are the responsibility of the governmental organization that published the content or link.
+
+EXTRACTED CONTENT FROM PDFs:

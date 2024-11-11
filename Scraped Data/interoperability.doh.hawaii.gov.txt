@@ -1,0 +1,6 @@
+Source URL: https://interoperability.doh.hawaii.gov
+
+TEXT CONTENT:
+Login Required - Hawaii State Department of Health Promoting Inter-Operability Hawaii State Department of Health Promoting Inter-Operability Healthy People Healthy Communities Healthy Islands Log in with your email account Email: Password Show Password LOGIN Forgot your password? Don't have an account? Choose an account type that best matches your organization. Individual Provider An individual Provider is defined as a single clinician, identified by their individual National Provider Identifier (NPI) tied to a single Taxpayer Identification Number (TIN). Register as Single Provider Medical Group A group is defined as a single TIN with 2 or more clinicians (at least one clinician within the group must be MIPS eligible) as identified by their NPI, who have reassigned their Medicare billing rights to a single TIN Register as Medical Group Hospital A Hospital is defined as a single TIN for an organization with multifunctioning departments billing under one NPI. Register as Hospital Copyright © 2024, State of Hawaii. All rights reserved.
+
+EXTRACTED CONTENT FROM PDFs:
