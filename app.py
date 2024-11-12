@@ -116,3 +116,10 @@ def manage_conversation_history(conversation_history, new_message, max_history=1
         conversation_history.pop(1)
 
 app = App(app_ui, server)
+
+# app.py (Add at the end of the file)
+
+if __name__ == "__main__":
+    import shiny
+    shiny.App(app_ui, server).run(host="0.0.0.0", port=int(os.environ.get("PORT", 8000)))
+
