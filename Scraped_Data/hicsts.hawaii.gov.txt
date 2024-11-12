@@ -1,0 +1,6 @@
+Source URL: https://hicsts.hawaii.gov
+
+TEXT CONTENT:
+Hawaii Medical Marijuana Monitoring System Welcome to the Hawaii Medical Marijuana Monitoring System QA Login HIDOH Login The Hawaii State Department of Health has established rules that all marijuana producers, processors and retailers are required to follow. All licensees are required to report activities related to the production, transportation and sale of marijuana on a daily basis as mandated by The Hawaii State Department of Health. In order to access this site, you should be using an HTML5 compatible browser such as Google Chrome, Mozilla Firefox, Safari, Opera or Internet Explorer 10+. Free download links may be found to the right if you are not currently running a supported browser. Only licensed facilities may access this interface. Any questions regarding licensing, rules, etc. should be directed to the HIDOH. Their website can be found here: http://health.hawaii.gov/medicalmarijuana/ This website is the property of BiotrackTHC under license to the Hawaii Department of Health. Please be aware that you are now about to enter a secure area. For security purposes, all activities are logged. Licensee Login HTML5 compatible browsers:
+
+EXTRACTED CONTENT FROM PDFs:

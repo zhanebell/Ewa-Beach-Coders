@@ -1,0 +1,876 @@
+Source URL: https://benefits.hawaii.gov
+
+TEXT CONTENT:
+MyBenefits Skip to Content Skip to Navigation Skip to Footer Hawaii.gov Text size: Smaller | Reset | Larger Government Directory State of Hawaii MyBenefits Search this site Search Home News Med-QUEST Determinations Am I Eligible? Apply On-Line for Benefits Access MyBenefits Nondiscrimination policy News Special Enrollment Periods Posted on April 28, 2016 Consumers’ Last Chance to Enroll for 2016 Healthcare Coverage Quickly Approaches Posted on January 26, 2016 Enroll for Medical Coverage by Dec. 15 to Avoid a Break in Coverage Posted on November 17, 2015 2015 Annual Plan Change Deadline Extended to October 30, 2015 Posted on October 23, 2015 Read More Entries from News Information How to Access a Medical Assistance Application Special Enrollment Periods Required Information to Complete a Medical Assistance Application Receiving Benefits Appeals Programs Overview of Medical Assistance Hawaii Health Care Premium Assistance Program Need Help? The online KOLEA portal supports many browsers and configurations. For the best application experience use one of the below browsers. To download a browser to your computer system, click on its name. Google Chrome 28 and later version Mozilla Firefox 22 and later version Internet Explorer 8, 9 or 10 Apple Safari 6 and later version KOLEA Portal User Guide Med-QUEST Division Contact Information Kōkua In-person Help Frequently Asked Questions (FAQs) About Us Site Map Policies Terms of Use Accessibility Privacy Policy Notice of Privacy Practices Related Links Register to Vote Contact Us 1 (877) 628-5076 TTY/TDD users call 1-855-585-8604 Powered by eHawaii.gov Copyright © 2024, State of Hawaii. All rights reserved.
+
+EXTRACTED CONTENT FROM PDFs:
+
+--- Text from PDF (https://mybenefits.hawaii.gov/wp-content/uploads/2017/12/LEP-and-Nondiscrimination-Notices.pdf) ---
+Rev. 01/27/15 Do you need help in another language?  We will get you a free interpreter.  Call 808-586-4993  to tell us which 
+language you speak.  English  
+您需要其它語言嗎？如有需要 , 請致電 808-586-4993, 我們會提供免費翻譯服務  Cantonese  
+En mi niit alilis lon pwal eu kapas? Sipwe angei emon chon chiaku ngonuk ese kamo. Kokori 808-586-4993  
+omw kopwe ureni kich meni kapas ka ani.  Chuukese  
+Avez -vous besoin d'aide dans  une autre langue? Nous pouvons vous fournir gratuitement des services d'un 
+interprète. Appelez le 808-586-4993  pour nous indiquer quelle langue vous parlez.  French  
+Brauchen Sie Hilfe in einer andereren Sprache?  Wir koennen Ihnen gern einen kostenlosen Dolmetscher 
+besorgen. Bitte rufen Sie uns an unter 808-586-4993  und sagen Sie uns Bescheid, welche Sprache Sie 
+sprechen.   German  
+Makemake `oe i kokua i pili kekahi `o lelo o na `aina `e? Makemake la maua i ki`i `oe mea unuhi manuahi. E 
+kelepona 808-586-4993  `oe ia la kaua a e ha`ina `oe ia la maua mea `olelo o na `aina `e.  Hawaiian  
+Masapulyo kadi ti tulong iti sabali a pagsas ao? Ikkandakayo iti libre nga paraipatarus. Awaganyo ti 
+808-586-4993  tapno ibagayo kadakami no ania ti pagsasao nga ar -aramatenyo.Ilokano  
+貴方は、他の言語に、助けを必要としていますか  ? 私たちは、貴方のために、無料で  通訳を用意で  
+きます。電話番号の、 808-586-4993に、電話して、私たちに貴方の話されている言語を申し出てください。  Japanese  
+다른언어로  도움이  필요하십니까 ? 저희가  무료로  통역을  제공합니다 . 808-586-4993 로 전화해서  
+사용하는  언어를  알려주십시요  Korean  
+您需要其它 语言吗？如有需要 ,请致电 808-586-4993, 我们会提供 免费翻译服务  Mandarin  
+Kwoj aikuij ke jiban kin juon bar kajin? Kim naj lewaj juon am dri ukok eo ejjelok wonen. Kirtok 
+808-586-4993  im kwalok non kim kajin ta eo kwo melele im kenono kake.Marshallese  
+E te mana'o mia se fesosoani i se isi gagana? Matou te fesosoani e ave atu fua se faaliliu upu mo oe. Vili mai i 
+le numera lea 808-586-4993  pea e mana'o mia se fesosoani mo se faaliliu upu.  Samoan  
+¿Necesita a yuda en otro idioma? Nosotros le ayudaremos a conseguir un intérprete gratuito. Llame al 
+808-586-4993  y diganos que idioma habla.Spanish  
+Kailangan ba ninyo ng tulong sa ibang lengguwahe? Ikukuha namin  kayo ng libreng taga salin. Tumawag sa 
+808-586-4993  para sabihin kung anong lengguwahe ang nais ninyong gamitin.Tagalog  
+'Oku ke fiema'u tokoni 'iha lea makehe? Te mau malava 'o 'oatu ha fakatonulea ta'etotongi. Telefoni ki he 
+808-586-4993  'o fakaha mai pe koe ha 'ae lea fakafonua 'oku ke ngaue'aki.Tongan  
+Bạn có c ần giúp đ ỡ bằng ngôn ng ữ khác không ? Chúng tôi se yêu c ầu một ngư ời thông d ịch viên mi ễn phí 
+cho b ạn. Gọi 808-586-4993  nói cho chúng tôi bi ết bạn dùng ngôn ng ữ nào?  Vietnamese  
+Việt  Nam  
+Gakinahanglan ka ba ug tabang sa imong  pinulongan? Amo kang mahatagan ug libre nga maghuhubad. 
+Tawag sa 808-586-4993  aron magpahibalo kung unsa ang imong sinulti -han Visayan  
+(Cebuano)
+
+--- Text from PDF (https://mybenefits.hawaii.gov/wp-content/uploads/2015/10/Portal-User-Guide.pdf) ---
+Department of Human Services   
+Med-QUEST Division 
+Kauhale On-Line  
+Eligibility Assistance  (KOLEA) Project  
+MyBenefits.Hawaii.Gov 
+ 
+Online User Guide 
+Submitted: Version 2.1 
+Submitted Date: October 19, 2015 
+ kpmg.com 
+ 
+ 
+i 
+KOLEA FFM Integration Portal User Guide 
+Revision History 
+  
+Version Date Description of Updates Author 
+1.0 12/23/2014 Final Document Release 2 Matthew Grifone 
+2.0 09/30/2015 First Draft – FFM Module 1 Michael Senior 
+2.1 10/19/2015 QA Review Nicole Chiominto 
+ 
+   
+ii 
+KOLEA FFM Integration Portal User Guide 
+Table of Contents  
+1. Introduction 1  
+1.1 Document Overview 1  
+2. Application Pre-Assessment 2  
+3. Application 5  
+3.1 User Registration 5  
+3.2 Apply 8  
+3.3 Save and Exit 28  
+4. Account Management 30  
+4.1 My Applications 30  
+4.2 My Eligibility 31  
+4.3 My Verifications 32  
+4.4 My Documents 34  
+4.4.1 Notices 34  
+4.4.2 Upload Verification Document 36  
+4.4.3 Upload Form 41  
+4.5 Change of Circumstance 44  
+4.5.1 Predefined Change of  Circumstance 44  
+4.5.2 Other Change of Circumstance 47  
+4.6 Paperless Preference 48  
+4.7 Appeals 50  
+5. Contact Us 52  
+  
+1 
+KOLEA FFM Integration Portal User Guide 
+1. Introduction 
+1.1 Document Overview 
+This document is intended to provide an overview of the Portal for Individuals and Families (the 
+“Portal”). The Portal is divided into three main sections which are outlined below: 
+ The Application Pre-Assessment section details  the Screening tool, which allows you to 
+enter data anonymously to see if you are likely to qualify for assistance including 
+Advance Premium Tax Credits or Medicaid.  
+ The Application section describes the process for creating a user account, and starting, 
+saving and submitting an application. It includes a walkthrough of the application entry process for a family of three.  
+ The Account Management section includes walkthroughs of all functionality available to 
+applicants with an existing user account, including viewing application and eligibility 
+information, verification items, uploaded documents, reporting change of circumstance, 
+and appeals. 
+ For any questions or concerns, refer to the Contact Us  section. 
+ 
+   
+2 
+KOLEA FFM Integration Portal User Guide 
+2. Application Pre-Assessment  
+1. By answering a few questions in the Application Pre-Assessment , you can determine 
+if you are eligible to receive assistance to help pay for health coverage. This feature is 
+anonymous and neither a user account or application is required. No information input 
+into the Application Pre-Assessment  is used for determination, as all eligibility 
+determinations require the submittal of an application. The following section provides an 
+example of the Application Pre-Assessment  feature. Click on the Pre-Assessment  
+button under Am I Eligible?   
+ 
+ 
+       
+  
+ 
+3 
+KOLEA FFM Integration Portal User Guide 
+2. Click on Next  to continue. 
+ 
+3. Answer all questions and click Next  to continue.   
+ 
+ 
+ 
+4 
+KOLEA FFM Integration Portal User Guide 
+4. The Portal will conduct a pre-assessment for eligibility for assistance. If you want to re-
+do the pre-assessment, click the Back  button. If you want to file an application click the 
+Close  button and click Apply Now . If you want to purchase health insurance without 
+assistance click on the hyperlink under Don’t Need Assistance . 
+ 
+5 
+KOLEA FFM Integration Portal User Guide 
+3. Application 
+This process describes the process to create, save and submit an application. 
+Note:  If you do not have an email address and want to  apply for assistance, you can choose to 
+submit a paper application. Paper applications can be picked up at any Department of Human 
+Services  office. Once filled out, applications can be faxed or dropped off at any DHS office. 
+3.1 User Registration 
+A User Account is required in order to create an application. This process describes the steps to 
+create a new account within the online system. 
+1. Navigate to the homepage and select Apply Now . 
+ 
+ 
+    
+ 
+  
+ 
+6 
+KOLEA FFM Integration Portal User Guide 
+2. Select Create a New Account . 
+ 
+3. Select Individual  in User Type  and complete the required information indicated with an 
+asterick (*). Click the Register  button. 
+ 
+ 
+ 
+  
+ 
+7 
+KOLEA FFM Integration Portal User Guide 
+4. An account has now been created. Select Login Now  to create an application.  
+ 
+  
+ 
+8 
+KOLEA FFM Integration Portal User Guide 
+3.2 Apply 
+1. Enter the username and password created in User Registration . 
+  
+ 
+ 
+  
+ 
+9 
+KOLEA FFM Integration Portal User Guide 
+2. You will be required to complete the security  process the first time you log in. This 
+screen explains the security images and security questions that are available.  
+ 
+ 
+3. The image shown here will be the secure image that will be visible during login. You may 
+select another image if you like. 
+ 
+ 
+10 
+KOLEA FFM Integration Portal User Guide 
+4. You will be asked to pick and answer three security questions for future security use.  
+Please remember the answers to these questi ons. If you forget your password you will 
+be asked to answer one of these questions in order to reset your password. 
+ 
+ 
+5. The Portal uses a federal service to validate your identity. Answer the questions in the 
+required fields. 
+ 
+ 
+11 
+KOLEA FFM Integration Portal User Guide 
+6. The federal service will return three challenge questions to confirm your identity. Answer 
+the required questions and click Next . 
+ 
+ 
+Note : If you are unable to answer the questions correctly in three attempts, you will be 
+presented with a contact number and a reference number. If you want to continue the 
+process, call the number presented and provide the reference number. This is a 
+separate process through a Federal service. The Department of Human Services  will 
+not be able to help you. Instead of completing this process, you can pick up a paper 
+application from any DHS office. Once filled out, paper applications can be faxed or 
+dropped off at any DHS office.  
+  
+ 
+12 
+KOLEA FFM Integration Portal User Guide 
+7. Once the security image and questions are selected and answered, and the remote 
+identify proofing is complete, the Portal will search for an existing application. If you 
+already have an existing case, the Portal will give you the option to link your account. 
+Select Link Account  to do so.  
+ 
+ 
+8. Your account is now linked to your exist ing case. To view what to do next, refer to 
+Account Management .  
+ 
+ 
+13 
+KOLEA FFM Integration Portal User Guide 
+9. If you choose not to link your account or do not have an existing account, navigate to the 
+My Applications  tab and click New Application .  
+ 
+ 
+  
+ 
+14 
+KOLEA FFM Integration Portal User Guide 
+10. If you successfully completed the remote identity proofing process, the Portal will 
+prepopulate your information in the application. Confirm the information and make 
+changes if necessary. If there is any information missing, enter the information in the 
+required fields. Required fields are annotated with an asterisk (*).  You will not be able to 
+continue on until all required fields are complete. 
+ 
+Note :  If you did not complete the remote identity proofing process you will NOT  be able 
+to submit an application on-line. Complete the identity proofing process or file a paper 
+application. 
+   
+ 
+15 
+KOLEA FFM Integration Portal User Guide 
+11. The Portal matches the address with the U.S. Postal Service and returns a standardized 
+address. You have the option of picking either  the provided address or the standardized 
+address. Confirm the correct address and click Next . 
+ 
+  
+ 
+16 
+KOLEA FFM Integration Portal User Guide 
+12. Enter the required information in the fields for the Primary Applicant Details . This is the 
+person who will receive all eligibility notices. 
+ 
+ 
+17 
+KOLEA FFM Integration Portal User Guide 
+13. If you have more people in your household, use the Add Person  button in the 
+Household Details  section.  
+ 
+ 
+  
+ 
+18 
+KOLEA FFM Integration Portal User Guide 
+14. Once all household members have been entered, the Household Details  page will 
+provide the option to edit or remove a member. To edit a member, click the blue button. 
+To remove a member, click the red button. To add a member, click the Add Person  
+button. The Primary Applicant is editable, but not removable.  
+ 
+ 
+  
+ 
+19 
+KOLEA FFM Integration Portal User Guide 
+15. The next screen prompts you to validate t he relationships previously built in the 
+Household Details  section. Validate the relationships and click Next . If the relationships 
+are incorrect, use the check boxes provided to correct the relationships.  
+ 
+  
+ 
+20 
+KOLEA FFM Integration Portal User Guide 
+16. If a household member has existing health coverage, select Yes and enter the required 
+information. If no one in the household has existing health coverage, select No and click 
+Next .  
+ 
+  
+ 
+21 
+KOLEA FFM Integration Portal User Guide 
+17. If a household member has health coverage from an employer, select Yes and enter the 
+required information. If that person has health coverage from another employer, click the 
+Add Employer  button. You will then select which household member is the employee 
+receiving health insurance. If no one in the household has health insurance from an 
+employer, select No and click Next .  
+ 
+ 
+   
+ 
+      
+ 
+22 
+KOLEA FFM Integration Portal User Guide 
+18. If a household member is American Indian or Alaskan Native, select Yes and complete 
+the required fields. If no one in the household is American Indian or Alaskan Native, 
+select No and click Next . 
+ 
+ 
+        
+ 
+23 
+KOLEA FFM Integration Portal User Guide 
+19. If you would like to include an Authorized Representative, select Yes and complete the 
+required fields. If you would not like to include an Authorized Representative, select No 
+and click Next.
+ 
+ 
+  
+ 
+24 
+KOLEA FFM Integration Portal User Guide 
+20. The Portal matches the Authorized Representative’s address with the U.S. Postal 
+Service and returns a standardized address. You have the option of picking either the 
+provided address or the standardized address.  Confirm the correct address and click 
+Next . 
+ 
+ 
+  
+ 
+25 
+KOLEA FFM Integration Portal User Guide 
+21. Read the Terms and Conditions , answer the eligibility renewal and parent living 
+outside the home questions, and electronically sign the application. You must agree to 
+the Terms and Conditions  in order to submit the application.  
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+KOLEA FFM Integration Portal User Guide 
+22. You can review all information entered in the application in the Application 
+Confirmation  screen. To review the information, click on the appropriate section under 
+Application Confirmation . The section will expand for you to view the information you 
+entered previously in the application.  To edit the information, click on the Edit button. 
+After confirmation of the information, click Finish  to submit the application. 
+ 
+ 
+   
+ 
+       
+ 
+27 
+KOLEA FFM Integration Portal User Guide 
+23. The application has been successfully submitt ed and you are now able to view your 
+account.  
+ 
+  
+ 
+28 
+KOLEA FFM Integration Portal User Guide 
+3.3 Save and Exit 
+1. At any point in the application, you have the option to save and exit the application and 
+return later to finish the application. To save and exit the application, click Save & Exit . 
+The Portal will only save information provided up to the previous screen before clicking 
+the Next  button. To avoid losing data on your current screen, click Next  before clicking 
+Save & Exit .  
+ 
+ 
+2. To retrieve the application, find the saved application in the My Application  tab and 
+click Continue .  
+ 
+ 
+ 
+29 
+KOLEA FFM Integration Portal User Guide 
+3. You will return to the place in the application where it was last saved.   
+ 
+ 
+30 
+KOLEA FFM Integration Portal User Guide 
+4. Account Management 
+You are able to manage your account using the following tabs: 
+ My Applications 
+ My Eligibility 
+ My Verifications 
+ My Documents 
+ Change of Circumstance 
+ Paperless Preference 
+ Appeals 
+4.1 My Applications 
+The My Applications  tab allows you to view key information about your application: 
+ Application ID 
+ Application Type 
+ Application Status 
+ Date Submitted 
+The My Applications  tab also allows you to cancel your application before it is processed by 
+clicking Cancel . You can also retrieve and finish saved applications here.  
+ 
+  
+ 
+31 
+KOLEA FFM Integration Portal User Guide 
+4.2 My Eligibility 
+The My Eligibility  tab allows you to view the details of eligibility and the Health Insurance Plans 
+for each member of the household.  
+1. To access the eligibility description, select the My Eligibility  tab on the left.  
+ 
+2. To view the description, click the button on the left of the household member.  
+ 
+ 
+ 
+32 
+KOLEA FFM Integration Portal User Guide 
+4.3 My Verifications 
+The My Verifications  tab allows you to view verification items for all members in the household. 
+Verification items, such as US Citizenship and Social Security Number documentation, are 
+important to help verify the information pr ovided in your application and determine your eligibility 
+for healthcare.Items that have been verified eit her electronically, manually or are missing or 
+conflicting will appear the day after processing. For new applications, verification items will 
+appear only after the application has been submitted and processed.  
+1. To access the verification items, select the My Verifications  tab on the left side of the 
+screen. This page shows the verification items for each household member including the due date and status of each verification item. To upload outstanding verification items, 
+click Upload  next to the appropriate verification item. After clicking Upload , the Portal 
+will shift to the My Documents  tab. Refer to Upload Verification Documents  for 
+uploading verification documents.  
+ 
+  
+ 
+33 
+KOLEA FFM Integration Portal User Guide 
+2. You may view uploaded verification items in the My Documents  tab. To view the 
+uploaded documents, select Other Documents  in the dropdown. You are able to see 
+the documents that have been uploaded, but are not able to open the document.  
+ 
+34 
+KOLEA FFM Integration Portal User Guide 
+4.4 My Documents 
+The My Documents  tab allows you to view notices and upload documents such as verification 
+items and forms. This process describes t he steps for viewing notices and uploading forms and 
+verification documents.  
+Note:  Verification items are documents that help  verify the information provided in your 
+application. Forms are documents supplied by the D epartment of Human Services for you to 
+provide additional information or make additional requests and applications.  
+4.4.1 Notices 
+Notices  are sent to communicate eligibility related information to you once you apply for 
+healthcare. Notices are created for purposes that include requests for additional information, 
+communication of eligibility, and other informational purposes. Examples include the N01 – 
+Request for Additional Information notice, which asks you to provide additional information to 
+support your application, and the N03 – Eligibility Determination  notice, which informs you of 
+your healthcare eligibility. 
+ 1. You are able to view notices in the My Documents  tab. To view a notice, click on the 
+My Documents  tab on the left side of the screen. Select Notices  as the document type 
+in the dropdown. To open the notice, select View  next the appropriate notice.  
+ 
+ 
+ 
+ 
+35 
+KOLEA FFM Integration Portal User Guide 
+2. From here, you can view the notice and have the option to save or print the document.  
+ 
+ 
+ 
+         
+ 
+  
+ 
+36 
+KOLEA FFM Integration Portal User Guide 
+4.4.2 Upload Verification Document 
+1. You are able to upload verification documents and forms. Prior to uploading documents, 
+be sure they are in one of the acceptable file types. Click on the Upload  button on the 
+My Documents  tab.  
+ 
+  
+ 
+37 
+KOLEA FFM Integration Portal User Guide 
+2. Select the appropriate file type. Select the type of verification document that will be 
+uploaded. Select the household member that the verification document applies. If the 
+document applies to more than one household member, select Yes and specify the 
+additional information.  
+Note:  Valid file types for documents include .tiff, .tif, .jpeg , .jpg & .pdf. 
+ 
+ 
+  
+ 
+38 
+KOLEA FFM Integration Portal User Guide 
+3. To upload the document, select the Browse  button and find the document on the 
+computer.  
+ 
+  
+ 
+39 
+KOLEA FFM Integration Portal User Guide 
+4. To complete the upload, read the Rules for Uploading Documents , click the 
+confirmation of terms and conditions, and click Upload . If you make a mistake and want 
+to re-do or cancel the upload, click the Cancel  button. 
+ 
+ 
+  
+ 
+40 
+KOLEA FFM Integration Portal User Guide 
+5. The Verification Document  has now been successfully submitted.  
+ 
+  
+ 
+41 
+KOLEA FFM Integration Portal User Guide 
+4.4.3 Upload Form 
+Forms are documents supplied by the Department of Human Services for you to submit 
+applications and provide additional information with respect to your submitted application. You 
+can download a DHS Form using the link “ DHS Forms ” at the bottom of the screen. Once filled 
+out with relevant information, the electronic form can be uploaded using the following steps.  
+ 
+1. To upload a form, select the My Documents  tab and click Upload . Click DHS Forms  on 
+the bottom of the page to find the forms for you to complete. Before uploading the form, please confirm that the form is complete and is saved in an acceptable file format.  
+Note:  Valid file types for documents include .tiff, .tif, .jpeg , .jpg & .pdf. 
+ 
+ 
+  
+ 
+42 
+KOLEA FFM Integration Portal User Guide 
+2. Select the document type in the dropdown, then select the type of document to be 
+uploaded.  
+ 
+3. Follow the steps in Upload Verification Document  to complete the upload.  
+  
+ 
+43 
+KOLEA FFM Integration Portal User Guide 
+4. You are able to view uploaded forms and verification items in the My Documents  tab. 
+To view the uploaded documents, select Other Documents  in the dropdown. You are 
+able to see which documents have been uploaded, but you are not able to open the 
+document. 
+ 
+ 
+  
+ 
+44 
+KOLEA FFM Integration Portal User Guide 
+4.5 Change of Circumstance 
+You may use the Change of Circumstance  tab to report one of seven types of change of 
+circumstance. Additionally, there are eight other op tions to choose from within Other. Select the 
+change of circumstance option and complete the required information. 
+Note :  Only the Primary Applicant/Beneficiary is able to make changes and provide updates for 
+all members in the case.  
+4.5.1 Predefined Change of Circumstance 
+You have the ability to submit one of six ty pes a of predefined change of circumstance: 
+ Add A Household Member  
+ Change of Address (Mailing or Residential)  
+ Change of Income  
+ Pregnancy  
+ Change Contact Information  
+ End My Benefits  
+ 
+1. This example will describe reporting a change of address. Select Change of Address 
+(Mailing or Residential)  and click Make Changes .  
+ 
+ 
+ 
+45 
+KOLEA FFM Integration Portal User Guide 
+2. Select the appropriate Household Member  for the change of circumstance and click 
+Edit.  
+ 
+3. Enter the necessary information and click Next .  
+ 
+ 
+ 
+ 
+46 
+KOLEA FFM Integration Portal User Guide 
+4. There is no confirmation of a successful submission. After submission, the Portal will 
+redirect back to the Change of Circumstance  tab. 
+ 
+  
+ 
+47 
+KOLEA FFM Integration Portal User Guide 
+4.5.2 Other Change of Circumstance 
+You have the option to submit a change of circumstance that is not included in the predefined 
+list. The Other  options include reporting: 
+ Absent Parent 
+ Authorized Rep 
+ Death 
+ Disability 
+ Expenses 
+ Incarceration 
+ Remove a Household Member 
+ Other 
+ 
+1. You may pick one of these options and enter a explanation of the change of 
+circumstance in the description box. If the Change of Circumstance  is not listed, select 
+Other  and enter a description of the change. The eligibility worker assigned to the case 
+will process the change of circumstance. 
+ 
+  
+ 
+48 
+KOLEA FFM Integration Portal User Guide 
+4.6 Paperless Preference 
+You have the option to enroll your account in a Paperless Preference . By choosing this option, 
+you will receive your documents and certain notices electronically, and you will no longer 
+receive paper documents in the mail. Select t he Paperless Preference option and follow the 
+available links. 
+ 
+1. To change your enrollment preference or update your email address, click the here  link.  
+ 
+ 
+  
+ 
+       
+ 
+ 
+49 
+KOLEA FFM Integration Portal User Guide 
+2.  Select Yes and fill out the required fields. Click Submit . 
+ 
+ 
+3. View the confirmation and click My Applications  to return to view your applications. 
+ 
+ 
+ 
+50 
+KOLEA FFM Integration Portal User Guide 
+4.7 Appeals 
+You may use the Appeals  tab to request an appeal if you think an eligibility determination has 
+been applied incorrectly.  
+1. To request an appeal, click on the Appeals  tab on the left side of the screen. 
+ 
+2. Enter your contact information and a description of why you think your appeal should be 
+accepted.  
+ 
+ 
+51 
+KOLEA FFM Integration Portal User Guide 
+ 
+ 
+3. Review your information and click Save . If you have to make any changes, click Cancel  
+and make the necessary changes.  
+ 
+4. After you click Save , the Portal will re-direct you to the My Applications  tab. You will not 
+receive confirmation of a successful submission. Your request for an appeal will be sent 
+to an eligibility worker to be processed. The eligibility worker will submit your appeal to 
+the Administrative Appeals Office (AAO) w here a decision on your appeal will be made. 
+The AAO will contact you once a decision has been made on your appeal.  
+ 
+ 
+52 
+KOLEA FFM Integration Portal User Guide 
+5. Contact Us  
+1. To contact us with questions about your eligibility, click on the Contact Us  hyperlink at 
+the bottom of the page. You can find the address and phone number for the office in 
+your area here. You can submit paper applications at these locations.
+
+--- Text from PDF (https://mybenefits.hawaii.gov/wp-content/uploads/2016/11/Org-Contacts-for-Website.pdf) ---
+OAHU  
+KALIHI-PĀLAMA HEALTH CENTER  
+915 North King Street |Honolulu, HI 96817 | (808) 848 1438  
+ 
+KŌKUA KALIHI VALLEY COMPREHENSIVE FAMILY SERVICES (KKV)  
+2239 North School Street | Honolulu, HI 96819 | (808) 791 9400  
+ 
+KOʻOLAULOA COMMUNITY HEALTH & WELLNESS CENTER (HAUʻULA) 
+54-316 Kamehameha Highway | Hauʻula, HI 96717 | (808) 293 9216  
+ 
+KOʻOLAULOA COMMUNITY HEALTH & WELLNESS CENTER (KAHUKU ) 
+56-119 Pualalea Street | Kahuku, HI 96731 | (808) 293 9231  
+ 
+LEGAL AID SOCIETY OF HAWAI‘I 
+924 Bethel Street | Honolulu, HI 96813 | (808) 536 4302 option #2  
+ 
+WAIʻANAE COAST COMPREHENSIVE HEALTH CENTER  
+86-260 Farrington Highway | Waiʻanae, HI 96792 | (808) 697 3405  
+ 
+WAIKIKI HEALTH CENTER  
+277 Ohua Avenue | Honolulu, HI 96815 | (808) 922 4787  
+ 
+WAIMĀNALO HEALTH CENTER  
+41-1347 Kalaniana‘ole Highway | Waimānalo, HI 96795 | (808) 954 7113  
+ 
+ 
+MAUI COU NTY 
+MALAMA I KE OLA 
+1881 Nani Street | Wailuku, HI 96793 | (808) 872 4002  
+ 
+HANA HEALTH  
+4590 Hāna Highway | Hāna, HI 96713 | (808) 248 8294  
+ 
+LANA‘I COMMUNITY HEALTH CENTER  
+478 Lauhala Place | Lāna‘i City, HI 96763 | (808) 565 6919  
+ 
+MOLOKAI COMMUNITY HEALTH  CENTER  
+28 Kamoi Street, Suite 600 | Kaunakakai, HI 96748 | (808) 553 5038   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KAUAI   
+HO’OLA LAHUI HAWAII , OUTREACH & ELIGIBILITY  
+4491 Rice Street  | Lihue, HI 96766  | (808) 240 0160  
+ 
+ 
+HAWAII ISLAND  
+BAY CLINIC - HILO CLINIC 
+1178 Kino‘ole St . - Bldg B | Hilo, HI 96720 | (808) 969 1427  
+ 
+HAMAKUA HEALTH CENTER  
+45-549 Plumeria Street | Honokaa, HI 96727 | (808) 775 7204  
+ 
+HAWAII ISLAND WORKFORCE & ECONOMIC DEVELOPMENT OHANA  
+D58 Kinoole Street, Suite 101 | Hilo, HI 96720 | (808) 959 6200  
+ 
+WEST HAWAI‘I COMMUNITY HEALTH CENTER  
+75-5751 Kuakini Highway, Ste 203 | Kailua -Kona, HI 96740 | (808) 326 3882  
+ 
+ COMMUNITY PARTNERS  Contact  
+for in -person assistance with health insurance applications for Medicaid or HealthCare.gov
+
+--- Text from PDF (https://mybenefits.hawaii.gov/wp-content/uploads/2013/08/NPP-Privacy-Notice-2013.pdf) ---
+NOTICE of PRIVACY PRACTICES                       
+ Effective: 09/23/2013   
+ 
+THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND 
+DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.  PLEASE REVIEW IT CAREFULLY.             
+    
+The Hawaii Department of Human Services (DHS), Med- QUEST Division (MQD) is committed to 
+protecting confidential information , including Personal, financial and medical data,  relating to 
+your participation in the Hawaii Medicaid program. DHS  is required by the Health Insurance 
+Portability and Accountability Act  (HIPAA) to maintain the privacy of your information, provide 
+this notice to you, and must abide by the terms of this notice. If there are changes to these 
+practices, a new notice will be mailed to you within sixty (60) days.  
+ 
+YOUR RIGHTS TO PRIVACY  
+ 
+Your medical information will not be shared and/or disclosed without your permission  except 
+as described in this notice or required by law. You may authorize other disclosures by completing (form DHS 1123) , and  authorize another person to represent you with any and all 
+matters relating to  the medical assistance program (form DHS 1121). You may also retract (in 
+writing) th e authorizations  at any time . You may ask MQD staff for a copy of this notice at any 
+time  and a n electronic copy of this notice is also available on MQD’s web site at 
+www.med -
+quest.us  . Any requests you may have of Med -QUEST must  be submitted in writing. All required 
+DHS forms are available at MQD office s and the MQD website.  
+ 
+MQD has procedures to assist you with your rights to your medical information. You have the 
+right to: 
+ 
+• Ask MQD to limit  the use and/or disclosure of your medical information. However, Med -
+QUEST is not required by law to agree to your request. (form DHS 8028)  
+ 
+• Ask MQD to Contact you by email or fax, at a specific mailing address or phone number.  
+ 
+• Look at or have a copy of any part of the designated record set maintained by MQD. You may be charged a processing and postage fee for this request. (form DHS  1123  )  
+  
+• Change or add information to your designated record set  (form DHS 8024) . However, MQD 
+may not change its original  document.  
+ 
+• Provide a list of disclosures of your medical information made by MQD . This will not include 
+disclosures for purposes of treatment, payment, health care operations; or disclosures made to you or with yo ur permission. (form DHS 8027)  
+ 
+• Designate an authorized representative to assist with my application for medical assistance with the Department  (form DHS 1121)  
+ 
+• Receive a notification of any Privacy and/or Security breach of confidential information maintained by DHS.
+ 
+  
+ 
+DHS 8030 (Rev. 09/13)   
+CONFIDENTIALITY PRACTICES AND USES   
+ 
+The Med- QUEST Division, may access, use and or share medical information:  
+ 
+• Treatment - to appropriately determine approvals or denials of your medical treatment. For 
+example, MQD health care professionals who may review your treatment plan by your 
+health care provider for medical necessity.  
+ 
+• Payment  - to determine your eligibility in the Medicaid program and make payment to your 
+health care provider. For example, your health care provider may send claims for payment to the Medicaid fiscal agent for medical services provided to you, if appropriate.  
+ 
+• Health Care Operations  - to evaluate the performance of a health plan or a health care 
+provider. For example, MQD contracts with consultants who rev iew the records of hospitals 
+and other organizations to determine the quality of care you received.  
+ 
+• Informational Purposes  - to give you helpful information such as health plan choices, 
+program benefit updates, free medical exams and consumer protection i nformation.   
+ 
+DISCLOSURES NOT REQUIRING YOUR PERMISSION  
+ MQD can make the following disclosures only if it is directly related to running of the  medic al 
+assistance  programs, a court orders MQD to disclose the information, or other law s that re- 
+quires MQD to disclose the information.  
+  
+• Other Government Agencies and/or Organizations Providing Benefits, Services or Disaster Relief - to disclose information to  other government agencies and/or organizations for you 
+to receive those benefits and/or services offered.  
+ 
+• Public Health - to disclose medical information to agencies for public health activities for 
+disease control and prevention, problems with medical p roducts or medications, and 
+victims of abuse, neglect or domestic violence.  
+ 
+• Health Oversight Activities  - to disclose information to approved government agencies 
+responsible for the Medicaid program, the U. S. Dept.  of Health and Human Services, and 
+the Office of Civil Rights.   
+ 
+• Judicial and Administrative Hearings  - to disclose specific medical information in court and 
+administrative  proceedings.  
+ 
+• Law Enforcement purposes  - to disclose specific medical information for law en -forcement 
+purposes.  
+ 
+• Coroners, Medical Examiners, and Funeral Directors  - to disclose specific medical 
+information to authorized persons who need it to administer their work.  
+ 
+• Organ Donation and Disease Registries  - to disclose specific medical information to 
+authorized organizations involved with organ donation and transplantation, communicable disease registries, and cancer registries.  
+ 
+ 
+  
+ 
+DHS 8030 (Rev. 09/13)   
+ 
+• Research Purposes -  to disclose specific medical information to authorize d personnel to 
+work on research projects. However, unless the research is permitted by law. Y ou have the 
+right to opt out of the research.  
+ 
+ 
+• To Avert Serious Threat to Health, Safety or Emergency Situation - to disclose specific 
+medical information to prevent a serious threat to the health and safety of an individual or 
+the public.  
+ 
+• Specialized Government Functions  - to disclose medical information for national security, 
+intelligence and/or protective services for the President. MQD may also disclose health information to the appropriate military authorities if you are or have been a member of the U. S. armed forces.  
+ 
+• Correctional Institutions  - to disclose medical information to correctional facility or law  
+enforcement officials to maintain the health, safety and security of the corrections system.  
+ 
+• Workers’ Compensation  - to disclose medical information to workers’ compensation 
+programs that provide benefits for work -related injuries or illness without regard to fault.  
+     
+No one will get back at you for filing a complaint  
+  
+If you f eel that your privacy rights  have been violated.   You may file a complaint with:  
+ 
+HIPAA Compliance manager  
+PO Box 700190           
+Kapolei, HI 96709 -0190   
+ 
+You may also file a complaint w ith:     
+ 
+DHS – Office of Civil rights  
+P. O. Box 700190             
+200 Independence Avenue, S. W. Room 509F HHH Bldg.  
+Washington, DC 20201  
+ 
+    
+THIS NOTICE IS AVAILABLE IN BIGGER PRINT UPON REQUEST

@@ -1,0 +1,437 @@
+Source URL: https://floodplan.hawaii.gov
+
+TEXT CONTENT:
+Home Page Toggle navigation Home Map Tools Document Library Regulatory Guidance Awareness Partners/Fund Contact MAP TOOLS DOCUMENT LIBRARY REGULATORY GUIDANCE AWARENESS PARTNERS / FUND CONTACT Log In Hawaii Department of Land and Natural Resources STATEWIDE GENERAL FLOOD CONTROL PLAN Aloha and Welcome! REPORT A FLOOD EVENT (HAWAII ONLY) LOCATE HAWAII PROPERTY FLOOD INFORMATION LEARN ABOUT WATERSHEDS AND FLOOD REPORTS Hawaii Revised Statutes Charter 179 Flood Control and Flood Water Conservation Authorizes the Statewide General Flood Control Plan (SGFCP) Website to serve as a guide for linking partnering agencies and community groups, as well as providing data and tools required to strategize flood improvement needs and goals. SGFCP Goals Strengthen the partnerships between government agencies, strategic partners, and the public in relation to flood-related natural disasters, in order to reduce risks to the people of Hawaii and damage to its manmade and natural resources. Provide partners with the ability to view and analyze flood prone areas and flood mitigation needs. SGFCP Website Tools and Resources GIS Map Portal with pertinent Flood and regulation data Resource Library of flood reports, studies, and documents Links to Federal, State, County and other strategic partner websites Flood-related funding resources Federal, State, and Local ordinance and regulations Resources and tools for disaster preparedness, response and relief services User’s Manual The SGFCP Website is developed and maintained by the State of Hawaii Department of Land and Natural Resources(HI-DLNR), Engineering Division. HI-DLNR is also responsible for supporting and maintaining Hawaii’s participation in the National Flood Insurance Program (NFIP). Click HERE for the Hawaii NFIP website. × Disclaimer This web portal was created for general planning purposes only. The information, data and analysis contained herein are based on sources believed to be reliable but no representation, expressed or implied, is made as to its accuracy, completeness or correctness. Accept × NWS FORECAST Forecast Region Big Island Interior Big Island North and East Big Island Summit Central Oahu Haleakala Summit Kahoolawe Kauai Leeward Kauai Mountains Kauai Windward Kohala Kona Lanai Makai Lanai Mauka Leeward Haleakala Maui Central Valley Maui Leeward West Maui Windward West Molokai Leeward Molokai Windward Niihau Oahu Koolau Oahu North Shore Oahu South Shore Olomana South Big Island Waianae Coast Waianae Mountains Windward Haleakala Close × NWS ALERT Social Media Feed @HawaiiDLNR Hawaii DLNR @HawaiiFloodPlan Tweets by HawaiiFloodPlan
+
+EXTRACTED CONTENT FROM PDFs:
+
+--- Text from PDF (https://dlnreng.hawaii.gov/nfip/wp-content/uploads/sites/11/2013/03/hrs179.pdf) ---
+Hawaii Revised Statutes Vol. 3, Chapter 179 
+FLOOD CONTROL AND FLOOD WATER CONSERVATION  
+ 
+Source:  http://www.capitol.hawaii.gov/hrscurren t/Vol03_Ch0121-0200D/HRS0179/HRS_0179-.htm  
+ 
+Section 
+    179-1 Declaration of purpose 
+    179-2 Definitions 
+    179-3 Statewide flood control agency and program 
+    179-4 Powers, duties, and jurisdiction of the board 
+ 
+§179-1  Declaration of purpose.   It is declared: 
+     (1)  That floods caused by heavy rainstorms and abnormal tidal action 
+are detrimental to the health, safety, and general welfare of 
+the people of the State, resulting in jeopardy to and the loss 
+of life and property, disruption of commerce, and interruption 
+of transportation and communications; that the reduction of 
+flood damage is therefore of primary importance to the people of the State; and the conservation and beneficial use of flood 
+water is an essential adjunct to rainfall drainage and flood 
+control. 
+     (2)  It is the purpose of this chapter to provide for the 
+coordination by the State of all federal and state flood control 
+projects undertaken in Hawaii and for such technical or 
+financial assistance to its political subdivisions as may be desirable or necessary to assure maximum benefits to the people 
+of the State from the expenditure of state funds for flood 
+control purposes. 
+     (3)  Nothing in this chapter shall prevent any political subdivision 
+through its proper officials from requesting federal aid on its 
+own initiative and at its own expense without having to secure 
+state approval. [L 1961, c 34, §1; am L 1963, c 148, pt of §1; 
+Supp, §87C-1; HRS §179-1] 
+  
+Cross References 
+  
+  Participation in federal flood insurance program, see chapter 126.  For county provisions, see §46-11.   
+ 
+§179-2  Definitions.   The following terms, whenever used and referred to 
+in this chapter, shall have the following respective meanings, unless a 
+different meaning clearly appears in the context: 
+     "Abnormal tidal action" includes high seas or surf, hurricane floods, 
+and tsunami or seismic waves.      "Board" means the board of land and natural resources. 
+     "Department" means the department of land and natural resources.      "Drainage" means the collection and conveyance of surface or 
+subsurface water, storm runoff, or any other water to a disposal area, or 
+into a watercourse or standing body of water to reduce damage to lands 
+which are not necessarily adjacent to the watercourse or standing body of 
+water, or to reclaim lands for beneficial use. 
+     "Drainage facilities" means any manmade construction undertaken for 
+drainage purposes and shall include conduits, ditches, canals, dikes, 
+embankments, dams, reservoirs, and other appropriate facilities.      "Drainage measures" includes drainage facilities, land treatment, 
+statutory and building code requirements relating to drainage, and any 
+other measures intended to accomplish drainage purposes. 
+     "Flood" means the temporary inundation of usable lands caused by the 
+overflow of an adjacent natural watercourse or standing body of water. 
+     "Flood control", "flood water control", and "flood prevention", mean 
+the minimizing of flood damage, by appropriate protective, preventive, and 
+corrective measures. 
+     "Flood control measures" includes flood control works, land treatment, master planning and zoning to establish encroachment zones 
+along watercourses and adjacent to standing bodies of water, training of 
+flood fighting units, flood disaster plans and operations, and any other 
+measures relating to flood control, flood water conservation and flood 
+damage. 
+     "Flood control plan", "general flood control plan", and "plan" mean 
+the report entitled General Flood Control Plan for Hawaii (Volume II of Flood Control and Flood Water Conservation in Hawaii), published by the 
+board in January, 1963. 
+     "Flood control program" when referring to a specific watershed or 
+subwatershed, means all existing or planned flood control measures 
+relating to such area; when referring to the statewide flood control 
+program means the general flood control plan and all activities of the 
+board and department pursuant to this chapter. 
+     "Flood control project", "federal flood control project", and "state 
+flood control project" mean, respectively:  (1) specific flood control works which comprise all or a portion of the works needed to complete a 
+specific flood control program; (2) a flood control project authorized and 
+implemented pursuant to the Federal Flood Control Act of 1936 or the 
+Watershed Protection and Flood Prevention Act of 1958, as amended or 
+supplemented, and (3) a flood control project sponsored and financed by 
+the State and authorized and implemented pursuant to section 179-4(3). 
+     "Flood control works", "works of improvement", "works", or "flood control facilities" mean any manmade construction undertaken to confine 
+storm runoff within a natural watercourse, conserve such runoff, or lessen 
+the energy and effect of abnormal tidal action, and shall include 
+conduits, ditches, canals, levees, dikes, embankments, dams, reservoirs, 
+breakwaters, groins, seawalls, and other appropriate facilities.      "Flood water conservation" means the confinement, storage, and 
+beneficial utilization of storm runoff by the construction, operation, 
+maintenance, and supervision of drainage and flood control facilities. 
+     "Political subdivision" means any of the several counties under 
+existence in the State by virtue of the laws of Hawaii or any legally 
+organized district or political incorporation thereof. 
+     "Standing body of water" means a fresh water pond, lake, or 
+reservoir, or the Pacific Ocean along an extended shoreline or a tidal inlet such as a bay, harbor, pond, or estuary. 
+     "United States" means the United States of America, including the 
+agencies, instrumentalities, officers, agents, or employees thereof. 
+     "Watercourse" or "natural watercourse" means any river, stream, 
+gulch, gully, valley floor, or any other naturally formed channel having a 
+bed and sides or banks in which water flows either perennially or 
+intermittently.  "Natural watercourse" shall also include a drainage ditch 
+in existence after seven years from installation but shall not include a 
+ravine, swale, or similar depression within which water flows only during rainfall. [L 1961, c 34, §2; am L 1963, c 148, pt of §1; Supp, §87C-2; HRS 
+§179-2] 
+  
+Revision Note 
+  
+  Definitions rearranged.   
+ 
+§179-3  Statewide flood control agency and program.   (a)  The board of 
+land and natural resources, whose functions include under the existing 
+laws of Hawaii, the management and administration of water resources of 
+the State, is hereby designated as the state agency responsible for the accomplishment of the purposes of this chapter. 
+     (b)  All flood control and flood water conservation and related 
+activities, and any attendant powers and duties, heretofore assigned to 
+other state departments or agencies, but not including flood disaster 
+operations, shall be transferred to the board upon the enactment of this 
+law. 
+     (c)  It is declared that the general flood control plan is to be regarded as a general guide for the orderly and coordinated implementation 
+of the statewide flood control program and the specific existing and 
+planned flood control programs comprising the plan to be financed by state 
+funds.  This declaration is not to be construed so as to constitute 
+approval of the specific flood control programs included in the plan.  Nor 
+shall this declaration be construed so as to prohibit the development of 
+lands bordering watercourses or standing bodies of water.  The board may, 
+from time to time, modify the plan to the extent that it finds such to be 
+necessary or desirable. [L 1961, c 34, §3; am L 1963, c 148, pt of §1; Supp, §87C-3; HRS §179-3] 
+ §179-4  Powers, duties, and jurisdiction of the board.   In addition to 
+those powers and responsibilities of the board of land and natural 
+resources established by existing law, the board is authorized to 
+implement the declared purposes of this chapter with regard to flood 
+control and flood water conservation in the following manner: 
+     (1)  Coordinate the programs and activities of all agencies of the 
+State, in conformance with the objectives of the statewide flood 
+control program. 
+     (2)  Compile, evaluate, interpret, and disseminate information for 
+technical use and for the general information and education of 
+the people of the State. 
+     (3)  Render technical assistance to the political subdivisions and 
+other agencies of the State only upon request of the affected 
+agencies in matters of master planning, zoning, qualifying for, 
+and constructing federal and state flood control projects, the 
+training of flood fighting units, and related flood control 
+activities. 
+     (4)  With regard to federal flood control projects: 
+         (A)  Review plans submitted by federal agencies for state 
+approval and make appropriate recommendations to the 
+governor; 
+         (B)  Formulate and recommend to the legislature a general policy 
+for state participation with the political subdivisions in 
+the assurances of local cooperation required by federal flood control acts; 
+         (C)  Review requests from political subdivisions for financial 
+assistance in meeting local participation requirements and 
+make appropriate recommendations to the legislature; and 
+         (D)  Execute and administer agreements with political 
+subdivisions to implement state assurances of participation 
+in federal flood control projects. 
+     (5)  For meritorious proposed projects which do not meet feasibility 
+standards for federal flood control projects: 
+         (A)  Formulate state feasibility criteria and project funding 
+procedures; 
+         (B)  Study, evaluate, and determine the feasibility of proposed 
+projects in accordance with established criteria and make 
+recommendations to the legislature; 
+         (C)  Execute and administer agreements with political 
+subdivisions to assure compliance with the conditions of state projects; and 
+         (D)  Design, prepare plans and specifications, obtain bids, let 
+contracts, and supervise the construction of state flood 
+control works. 
+     (6)  With regard to projects initiated and financed entirely by 
+political subdivisions, render coordination and aid only if 
+requested by the respective agencies.      (7)  With regard to state ownership of drainageways, coordinate the 
+resolution of drainageway maintenance problems with the 
+appropriate state agency or agencies. 
+     (8)  With regard to multiple jurisdiction of drainageways, the board 
+shall coordinate the resolution of drainageway maintenance 
+problems with all affected political subdivisions. 
+     (9)  With regard to certain streambeds, streambanks, and drainageways 
+whose ownership is not claimed nor determined, the board shall coordinate the resolution of streambed, streambank, and 
+drainageway maintenance problems with the appropriate state 
+agency or agencies. 
+    (10)  The board may promulgate rules to implement this chapter. [L 
+1961, c 34, §4; am L 1963, c 148, pt of §1; Supp, §87C-4; HRS 
+§179-4; am L 1986, c 121, §3] 
+  
+Cross References 
+  
+  County maintenance of streams and drainageways, see §46-11.5.
+
+--- Text from PDF (https://floodplan.hawaii.gov/Library/SGFCP_User_Manual_Public_web.pdf) ---
+HAWAII DEPARTMENT OF LAND AND NATURAL RESOURCES
+STATEWIDE GENERAL FLOOD 
+CONTROL PLAN WEBSITE
+PUBLIC USER'S MANUALHawaii
+Flood.orgREPORT A FLOOD EVENTTABLE OF CONTENTS
+01 Introduction  1
+02 Purpose  1
+03 Login and Registration  2
+04 Home  3
+05 Map Tools  4
+06 Document Library  11
+07 Regulatory Guidance  12
+08 Awareness  12
+09 Partners/Fund  13
+10 Contact  13PUBLIC USER'S MANUAL
+1Public User's Manual
+2. PURPOSE
+This User's Manual is a technical communication document to assist 
+in the navigation of the SGFCP Website and its content. This manual provides background information on the purpose and goals of the website, disclaimers associated with the website's data and content, and instructions on how the website should be accessed, utilized, and maintained. This manual also includes instructions on the use of the many tools designed for, and found, on the website. The SGFCP Website is funded through a State of Hawaii initiative in direct support of HRS 179.  This legislation's primary goal is to enable the coordination and management of flood waters to conserve water resources and prevent and/or mitigate the impact of flood events.  The SGFCP website was developed to directly support this goal. The intent and purpose of this website is to provide support for flood-related events and activities.  
+The SGFCP Website contains data and information from a wide variety of 
+federal, state, and local resources and is meant to serve as a repository of flood-related information for the State of Hawaii. The SGFCP website provides an important platform for sharing flood-related information between the HI-DLNR, its inter-agency and non-governmental stakeholders and the general public.  It is important to note that much of the data (including GIS map data) and many of the reports in the document library are provided from sources other than the HI-DLNR.  The HI-DLNR (or SGFCP website) does not have "control" over this information, nor do they have the ability to make adjustments or correcting errors in documents or GIS map data layers.  The HI-DLNR will review documents and map-based flood report locations prior to releasing the any of the content to the public-facing website.  Inquiries about documents or data used on the SGFCP website should be directed to the authoring agency or data source.  This information can be found in the document library or the Metadata section on the SGFCP Website contact page.
+The disclaimer statement below (also found on the website) highlights this 
+important note about information shared and used on the SGFCP Website:
+This web portal was created for general planning purposes only. The information, data and analysis contained herein are based on sources believed to be reliable but no representation, expressed or implied, is made as to its accuracy, completeness or correctness.1. INTRODUCTION
+The Statewide General Flood Control Plan (SGFCP) Web Geographic Information System (WebGIS) Portal is developed and maintained by the State of Hawaii, Department of Land and Natural Resources (HI-DLNR), Engineering Division. The HI-DLNR, Engineering Division provides engineering services and technical assistance to other departmental divisions and State agencies to implement capital improvement for repair and maintenance projects, and administer programs for water and land development, mineral resources development, and natural disasters prevention. This User's Manual provides instructions on using this website.
+As authorized by the Hawaii Revised Statutes Chapter 179 Flood Control 
+and Flood Water Conservation, the SGFCP Website serves as a guide for linking partnering agencies and community groups and provides them with the data and tools required to strategize flood improvement needs and goals.
+The SGFCP Website includes numerous tools and resources:
+ A GIS map portal with pertinent flood and regulatory data
+ A resource library of flood related reports, studies and documents
+ A listing of federal, state, county, and other strategic partnerships 
+websites and links to flood-related funding resources
+ Links to federal, state, and local ordinances and regulations
+ Links to resources and tools for disaster preparedness, response and relief services
+The SGFCP Website provides partners with the ability to view and analyze flood-prone areas or flood mitigation needs in their area(s) of concern. The SGFCP website's primary goal is to strengthen partnerships between government agencies, strategic partners, and the general public in relation to flood-related natural disasters, in order to reduce risks to the people of Hawaii and damage to the State's man-made and natural resources.
+The HI-DLNR is also responsible for supporting and maintaining Hawaii's 
+participation in the National Flood Insurance Program (NFIP). Learn more about the NFIP in Hawaii by visiting the HI-DLNR NFIP website at:  
+       
+http://dlnreng.hawaii.gov/nfip/
+Funding for the creation for this latest website portal was provided by the 
+Hawaii State Legislature under provisions of Act 134, Session Laws of 
+Hawaii (SLH) 2013. 2. PURPOSEPUBLIC USER'S MANUAL
+22.  Fill in the form. If you only require Public access, leave the "Request 
+Elevated Access" response as "None." Upon registration, all Users will be granted immediate entry into the website with Public User access privileges. Users requesting elevated "Power" or "Administrative" access will receive an email notification upon being approved/denied these privileges by the HI-DLNR staff.
+3. Create and confirm your password.
+4. Click the "Register" button when done. You will be directed to the 
+website home page.
+5. To login after creating an account, enter your User Name and 
+Password on the Login page. If desired, check "Remember Me" on the Login page to retain your User Name and Password when visiting the website on the same computer or device in the future.
+6. Forgot your password? Simply click on the "Forgot Password?" 
+link at the bottom of the Login page and follow the prompts. You will receive a temporary password at the email address entered during the registration process. Return to the Login page, enter your User Name and the temporary password, and click "Login." You will be directed to a page to set up a new password.There are three "User" levels that are accommodated on this website:
+ Public Users: Public Users have access to most of the website's operations and can view all publicly available GIS data layers in the SGFCP WebGIS Portal (i.e., the Map Tools page). These Users have the ability to view and download existing public documents from the Document Library, but are not able to upload new documents. All Users registering with the site will initially receive Public User privileges. Registrants can apply for Power User or Administrative User status as part of the registration process. Applications are reviewed and status privileges are approved by the HI-DLNR staff.
+ Power Users: Power Users have the same rights as Public Users with additional access to certain GIS layers in the SGFCP WebGIS Portal and the ability to upload documents to the Document Library. These Users includes federal, state, and local agency representatives, decision-makers, or others as designated by the HI-DLNR.
+ Administrative (Admin) Users: The HI-DLNR personnel are designated as Admin Users and have full access to the SGFCP Website features. This includes editing document upload entries, approving access privileges, adding/editing flood event locations on the Flood Reporting and Response Map, and reviewing and publicly posting report documents uploaded Power Users.
+To access the website, all Users must first create an account for        HI-DLNR monitoring purposes. 
+Accounts are free and Public User access to the website is provided 
+immediately upon setup.
+1. To create an account, click on the "Register" link on the Login page:
+3. LOGIN AND REGISTRATIONPUBLIC USER'S MANUAL
+3Links to the SGFCP's various social media outlets (Twitter, Facebook, and 
+Instagram) are located on the right side of the screen.
+The left sidebar menu of the home page provides links to the main pages of 
+the website. These links appear on all pages of the website.
+A red bar with scrolling text at the top of the home page provides real-time National Weather Service (NWS) alerts and forecasts for the State of Hawaii.
+To Log Out or Edit your profile, click the drop-down menu in the top right 
+corner:
+4. HOMEPUBLIC USER'S MANUAL
+4The Map Tools provide website users with several 
+ways to access spatial (map) information related to flood hazards and other information via a web-based mapping environment.  The Map Tools can be accessed  from the SGFCP website home page by selecting one of the action buttons (REPORT, LOCATE, LEARN), or by clicking on the Map Tools icon on the left sidebar.  The SGFCP website (and 
+Map Tools) supports map area coverage of the primary Hawaiian Islands (Niihau to Hawaii Island) and does not include remote outer islands or mainland U.S. locations.
+The Map Tools support three primary functional uses on the SGFCP website:
+ REPORT A FLOOD EVENT (HAWAII ONLY) - provides Users with a tool to navigate to location and add a point location for an on-going or recent flood-related event.
+ LOCATE HAWAII PROPERTY FLOOD INFORMATION - provides a tool for searching for specific locations or property (Hawaii only) and provides a listing of flood-related information related to that property (e.g., FEMA flood zone and tsunami hazard zone information ).
+ LEARN ABOUT WATERSHEDS AND FLOOD REPORTS - provides a tool for selecting areas on the map and determining basic watershed and hydrological information, USGS stream gage data, and available flood reports (from the SGFCP Document Library) for the selected location.
+5. MAP TOOLS  
+Navigating the Map Tools Webpage
+Page Navigation Tools
+The Map Tools page consists of a map view window and several 
+docked panels, toolbars, and navigation and display control features. By default, the map view window opens at the maximum extent of data (main Hawaiian Islands) and displays the SGFCP Base Map (color-shaded elevations) and current NOAA weather satellite feed data. Zoom in and out of the map by using the +/- buttons in the upper-right corner of the map view window, or by using your computer mouse wheel/scroll function with the cursor on the map. The "Home" button located just below the +/- buttons will return your map back to the default view. On the left and right sides of the map view window, the arrow tabs allow for the opening and closing of the Map Tool Panel and Map Legend Panel. These may be individually collapsed to provide more space for viewing the map and information. A Quick Links Toolbar at the top of the page provides access to other pages of the SGFCP website, such as the home page and Document Library.
+PUBLIC USER'S MANUAL
+5Map Tools Panel
+The Map Tools Panel is located on the right side of the Map Tools 
+Webpage. It can be opened and closed using the arrow tab in the map view window.  The top of the panel includes three controls: Two controls that toggle between the Tools Panel and the "Choose Your Map Layers" panel, and a "Reset" control.  The third control is used to reset the map view and data layers back to the default extent shown when the Map Tools webpage is first accessed.Map Tools Webpage
+5. MAP TOOLS  
+Map Tools Panel
+Map navigation tools are provided in the upper right corner of the map view window.  These allow for zooming in and out, or returning home to the full map extent.  An identification tool is also provided allowing the user to query certain map features, such as current weather alert information. Note that these tools may be hidden from view when the Map Legend Panel is opened. Click on the arrow tab to close the legend panel and access the navigation tools.
+The Map Tools Panel includes the three SGFCP Map Tools (REPORT, 
+LOCATE, LEARN), as well as a Settings menu.  The Settings menu allows you to select from a variety of base maps including the SGFCP default (colored-shaded elevations), imagery, street maps, and others. Only one base map can be selected at a time, but you may toggle between base maps used in the map view window at any time.  The Settings menu also contains a Set Base Map Transparency that will adjust the opacity of the base map selected. This can be helpful when reviewing numerous data layers simultaneously. The three SGFCP Map Tools are discussed in greater detail below.
+PUBLIC USER'S MANUAL
+6Map Layers Panel 
+The Map Layers Panel lists available 
+data layers that can be turned on and off in the map view window.  Data layers can be turned on and off by checking and unchecking the box to the left of each data layer name.  Data layers are organized by source (e.g., NFHL is the National Flood Hazard Layer provided by FEMA) or type (e.g., water resources, terrestrial, parcels and zoning).  Some type 
+groups include multiple available data layers that can be accessed by clicking on the "+" sign to the left of the type group name. A transparency slider bar is provided at the group level to adjust the opacity of the layers in the group.  This can be useful when working with multiple overlapping layers or with an imagery base map.
+In the Map Layers Panel, scrolling 
+over the data layer name will pop-up 
+a reference legend for that data layer, showing how it is displayed in the map view window.  Additionally, as map layers are turned on and off, the Map Legend Panel (docked on the right side of the page) will update to show all layers currently turned on.
+NOTE:  In order to improve the website map display performance, available data layers have been set to display only at certain extents.  Certain data layers will only displayed when zoomed in to a small display area (e.g., parcel lines).  If a data layer was turned on but does not appear on the map view window, try zooming in to a smaller area. It should also appear in the Map Legend Panel. As previously discussed, the selected Base Map (under the Settings menu) will always draw at all scales. However, only one Base Map can be selected at a time.
+Map Legend Panel
+The Map Legend Panel is accessed using the arrow tab on the right side of the map view window. It can be toggled on/off by clicking on the arrow tab.  This panel shows the legend for all data layers currently visible in the map view window. If a data layer is constrained to only draw at certain extents, it will not show on map or be listed in the Map Legend Panel (see note above).  
+Use the scroll bar on the right side of 
+the panel allows you to scroll down to see all selected map layers on the map. The Map Legend Panel does not contain a legend for any Base Map Layers (from the Settings Menu), 
+5. MAP TOOLS  
+including the SGFCP Base Map. The legend for the SGFCP Base Map (color-shaded elevations) is shown below for reference.PUBLIC USER'S MANUAL
+75.1 REPORT A FLOOD EVENT TOOL (HAWAII ONLY)
+The REPORT Tool allows Users to add a point location on the map for 
+an on-going or recent observed flood-related event.  This may be used to indicate impacts to public or private property caused by floods, or to indicate locations that pose a flood risk, such as a culvert under repair or a road wash-out.
+This tool is only available for locations in Hawaii (extent of the Map Area) 
+and does NOT constitute a formal filing of a flood impact for disaster assistance or mitigation. To initiate the disaster assistance process, Users wishing to formally file a flood event should contact the Federal Emergency Management Agency (FEMA) and use their Disaster Report App at:
+https://www.fema.gov/disaster-reporter  Flood event locations and information entered using the REPORT tool will 
+be reviewed by website administrators for quality control purposes. Public Users can use the tool to indicate the location and type of flood event and attach photos to the point location. Information gathered through this process can be used by HI-DLNR staff to track and report on a number of flood conditions and flood related activities, including:
+ Identification of reoccurring flood-prone areas
+ Identification of reoccurring flood-prone areas
+ Flood damage to public or private property
+ Flood damage to roads, culverts, drainages, or dams
+ Flood event risks such as road washouts, rock falls, or downed power lines
+The HI-DLNR Engineering Division (SGFCP Website Administrators) has additional tools in the REPORT tool that will allow them to add locations for flood mitigation activities. This allows the HI-DLNR to keep the public informed on HI-DLNR construction projects or other ongoing or scheduled activities. During active emergency flood events (e.g., hurricanes, tsunamis, flash floods), the REPORT tool can be used by the Website Administrators to share information with other federal and state agencies and the public by helping to identify locations of flood-impacted areas to support decision-making during flood events. To that end, it should be noted that the SGFCP website is a "flood support" tool, not an emergency management tool. During any flood or natural disaster event, the Federal Emergency Management Agency (FEMA) and the Hawaii Emergency Management Agency (HIEMA) should be the official source for all disaster and emergency response information. Website links to both agencies are on the SGFCP Partners/Funds page.
+To Report a Flood Event:
+1. Go to Report A Flood Event in the Map Tools Panel.
+2. Type an address in the search bar, or zoom into an area on the map.
+3. Click on the icon shown under the "Report Flood Event" and then select 
+a point on the map.
+4. A "Reported Event" window appears:
+a. Select the Event Type description that applies best.
+b. Enter the Start and End Dates of the flood. If unknown, leave 
+blank.
+c. Check "Have you contacted FEMA?" if you have contacted FEMA 
+about the event.
+d. Add notes in the Comments box (e.g., description of location, type 
+of damage).
+e. If desired, include an attachment (e.g., photo) with the report; the 
+maximum file size for attachments is 2 GB.
+f. To save and submit the report, click Save. To remove the point, 
+click Close. (Note: A reported event cannot be edited after it is saved/submitted.)5. MAP TOOLS  PUBLIC USER'S MANUAL
+8The LOCATE tool allows Users to obtain flood-related information on a 
+property of interest. This tools allows the User to look up a location by address 
+(indicated by the red marker icon) or by clicking on a point on the map (blue marker icon). The tool queries the underlying flood data and returns the query results in the dialogue box. This information can then be printed electronically in an auto-generated PDF report that includes the query results and screen-capture of the map view window. (Note: You must have Adobe Reader installed for the report generation feature. It can be downloaded for free at:  https://get.adobe.com/reader/ ).  This informational tool can be used by a 
+property owner to better understand their flood risks or by floodplain managers 
+or planners to gather information and conduct preliminary evaluations on an area of interest.
+To Locate a Property:
+1. Type an address in the search bar or click a point on the map. A blue 
+marker should appear at your location of interest to confirm your entry. To 
+move the blue marker, click anywhere on the screen.
+2. Watershed information for that location will appear in the sidebar on the 
+left, under "Query Results."
+3. For more details, click on any of the available links next to certain fields 
+under the query results (e.g., Major Watershed, Aquifer). 
+4. To find a list of flood-related public reports associated with the 
+designated location's watershed, click on the link shown in the "Major Watershed" field, and then click on the "Show Attributes" link in the pop-up window that appears.
+5. To print details shown for the watershed, select the "Print" button that 
+appears at the bottom of the sidebar. (Note: Ensure that pop-up blockers on your web browser are turned off for this function.)
+6. To clear the results and perform a new search, select "Clear Results."
+The following data are viewable in the PROPERTY FLOOD INFORMATION 
+EXTENT:  
+ Other Hazard layers
+ TMK Parcels and Zoning
+ NFHL
+ Water Resource Lines and Areas
+ NTD Roads
+ Soil layers
+ USGS Gage Sites
+ SGFCP BASE MAP (unless a different BASE MAP was selected)
+REPORTS generated can include the following information:
+ TMK
+ Watershed, sub-watershed, aquifer
+ Flood zones, tsunami evacuation zones, Coastal Zone Management-Special Management Areas
+ Soil number, name, drainage, erosion risk, etc.5. MAP TOOLS
+5.2 LOCATE HAWAII PROPERTY FLOOD INFORMATION TOOLPUBLIC USER'S MANUAL
+9The LEARN Tool allows Users to learn more about the very unique 
+Hawaiian Islands Watersheds and other hydrological systems.  Unlike U.S. mainland states, Hawaii's isolation in the western Pacific Ocean means that it is solely reliant on its own aquifers and watersheds for its freshwater resources. Like a drop of oil in a pool of salt water, each island has a freshwater lens that resides in the spaces between the island surface above and the salt water attempting its way in on all sides. This aquifer lens is maintained by the collection of rainfall on the mauka (upland) Hawaiian mountains and volcanoes and in rivers and streams flowing makai (seaward). Watersheds are a delineation of the topographical surface that feeds the river and streams as they make their way downward to the sea. Major watersheds may be further subdivided to (sub) watersheds or small units (such as drainages), but all watersheds typically feed the same outflow river and stream system. This system of aquifers, watersheds, rivers and streams are a critical resource for the residents of Hawaii. The LEARN Tool provides an interactive map environment for learning about and understanding the relationships between these hydrological systems and potential impacts from both inland and coastal flood events.
+The LEARN Tool starts at the full extent of the SGFCP map area showing 
+the SGFCP Website (color shaded elevation) Base Map (recommended to start).  Because each Hawaiian Island is a self-contained hydrological system, start by selecting an island from the "Navigate To" drop-down menu. This will take you to that island's map extent and turn on the Aquifer (lavender lines) and Major Watersheds (blue-white dashed line) for the selected island.  Additionally, the USGS stream monitoring gages are included.  By scrolling over the stream gage locations, a dialogue box will appear where you can access current stream monitoring data and reports as well as historical records for that stream gage.
+You can continue to drill down to the watershed and stream levels, where more detailed hydrological and other information will appear on the map. You may consider changing the Base Map when viewing at a small-scale area for easier viewing.  As shown below, the parcel lines and detailed hydrological systems have automatically turned on in the map and have been added to the Map Legend.  You may also access the Map Layer panel to turn on/off other available data layers.
+In addition to this drill down navigation feature, you can also jump directly to a specific watershed or stream by selecting it from the drop-down list.  As was previously mentioned, some data layers are limited to draw only at certain scales.  You can activate them (make visible) by using the zoom-in button in the map view window or the computer mouse wheel/scroll function while the cursor is on the map.
+At any time or map scale, you can click on the map and perform a query.  
+The query will select the underlying (sub) watershed and display the Query Results in the Map Tools Panel. The selected watershed will be highlighted in red on the map.5. MAP TOOLS
+5.3 LEARN ABOUT WATERSHEDS AND FLOOD REPORTS TOOLPUBLIC USER'S MANUAL
+10
+The Query Results return a listing of the pertinent aquifers, watersheds, 
+and associated streams for the selected (sub) watershed. Click on a results name (e.g., Major Watershed = South Kona), then click on "Show Attributes" for a pop-up box with additional information and any available flood reports and documents (located in the SGFCP Document Library) for the selected area. You can also print the results of the query using the "Print" option at the bottom of the Attributes pop-up box. Click on "Clear Results" to de select the selected items and reset the query dialogue.
+Another alternative for running the query is by selecting an option in the "Query Map By" drop-down list. One option is to select by a 1000 ft. buffer area. This could be useful for areas that straddle two or more watersheds or for working at a smaller scale. Once again, click on the query results to bring up the Attributes pop-up box that contains information and links to available reports and documents.  
+Note: The LEARN tool is intended to query only the identified flood layers, and reports are linked at the (sub) watershed level.  While you can add and remove other data from the Data Layers panel, the LEARN Tool is not designed to perform queries on other data shown in the map view window.
+Quick Steps:
+1. Use the drop-down menus to select a view/extent in the desired area: 
+Island, Watershed, and/or Stream. 
+2. Use the "Query Map By" function to set a buffer distance for the search.  
+3. Click the area/location/feature of interest on the map to initiate the 
+query. The Query Results will appear in the sidebar. 
+4. For more details, click on any of the available links provided next to 
+certain fields under the Query Results (e.g., Major Watershed, Aquifer). To find a list of flood-related public reports associated with the designated location's watershed, click anywhere on the map or on the link shown in the "Major Watershed" field, then click on the "Show Attributes" link shown in the pop-up window that appears.
+5. Click the "Print" button at the bottom of the sidebar to print the results. 6. Click on "Clear Results" in the sidebar to clear the results and perform 
+a new search.
+ 5. MAP TOOLS
+5.3 LEARN ABOUT WATERSHEDS AND FLOOD REPORTS TOOL  - continuedPUBLIC USER'S MANUAL
+116. DOCUMENT LIBRARY
+All Users can view and download documents from the SGFCP Flood Report and Document Library. This collection of flood-related 
+documents has been uploaded by HI-DLNR staff or other partnering government agencies or stakeholders. The HI-DLNR is not responsible for the accuracy or currentness of the reports contained within the library. Please contact the authoring agency for any comments or questions related to the available documents.    
+Download documents by following these steps: 
+1. Use the drop-down list in the top left corner of the table to select how many entries you wish to see per page (max is 100).
+2. Type your search into the "Search" box in the upper right corner of the 
+table, AND/OR use the filters as described in Step 3.
+3. Use the drop-down list in the header of the table to filter one or more 
+fields. Suggestion:  Using more filters will provide more refined results.  For greater efficacy, complete both Steps 2 and 3. 
+4. Your search results will appear in the table. To view a document, click 
+the "download" icon.
+5. To export your search results into a .csv or .xls file, use the buttons 
+above the Search box.
+ 
+Uploading documents is limited to Power and Admin Users only. Such 
+Users will have access to an additional "Upload" button near the "Export to CSV" and "Export to XLS" buttons. If you are a Power or Admin User, click on this icon and follow the prompts (be sure to fill in all required fields). Only PDF format files (.pdf) can be uploaded to the library. All documents will be reviewed by the HI-DLNR prior to public release on the SGFCP Website. Note that if you are submitting a new document, it will not be available for download until the HI-DLNR has reviewed and approved it. A document may also be temporarily removed from the site if/when undergoing revisions, or if it will be superseded by another document. Editing, publishing, and deleting documents are limited to Administrative Users only (Appendix A).
+PUBLIC USER'S MANUAL
+127.  REGULATORY GUIDANCE  
+The links maintained on this page provide guidance, 
+regulatory and contact information for various aspects of flood control and drainage management, and other flood-related planning.  Links are provided for federal, state, and county agencies. To go to and navigate through this webpage:
+1. Click on the Regulatory Guidance icon.
+2. Use the "Jump To" drop-down list in the upper left corner of the table to 
+navigate quickly to a specific agency type (i.e., Federal, State, County).
+3. The type of guidance provided by each agency is classified as 
+Regulation, Permit, or Funding.
+4. Click on an agency's name to go to its associated website (it will open 
+as a new tab or window in your web browser). Alternatively, click on the type of guidance to go to a particular document, form, or record.
+8. AWARENESS
+According to the National Weather Service, flooding kills almost twice as many people each year as tornadoes and hurricanes combined. In Hawaii, flash flooding associated with localized storm events poses a significant danger on all islands. The information at the external links on this page is designed to teach you how to identify, prepare for, and stay safe during 
+a flood event.  Knowing what to do before, during, and after a flood can increase your chances of survival. Links are provided for public awareness, emergency awareness, and disaster reporting. Some links allow you to report flood events via social media. To go to and navigate through this webpage:
+1. Click on the Awareness icon. 
+2. Click on each graphic icon or text title to access the links. 
+PUBLIC USER'S MANUAL
+1310. CONTACT
+The Contact page provides information on how to 
+contact the HI-DLNR with flood or website-related questions. It also provides metadata on the data provided on the SGFCP Website, as well as a link to the User's Manual.
+1. Click on the Contact icon. 
+2. Click on the various titles or email addresses to     
+access information and documents.
+3. You may also submit a comment using the "SGFCP Comment Tool." Fill in the form fields. Once completed, click the "Send Message" button to submit.
+9. PARTNERS/FUND
+The partners and funding webpage provides links to partnering agencies and groups with information on flood-related resources, teaming opportunities, and community engagement related to flooding and floodplain management. Links are also provided for information regarding flood event resources and recovery, grants for flood management planning, and funds for innovative educational programs. Information 
+can also be found on flood prevention, recovery, and resilience research. Links to federal, state, county, non-profit, university, and other public or private agencies' websites are provided. To go to and navigate through this webpage:
+1. Click on the Funding icon. 
+2. Use the "Jump To" drop-down list in the upper left corner of the table to 
+navigate quickly to a specific agency type. 
+3. Click on an agency's name to go to its associated website (it will open 
+as a new tab or window in your web browser). Alternatively, click on the funding icon within a funding category to go to a particular document, form, or record.
+Hawaii
+Flood.org
+WEBSITE AND USER'S MANUAL PREPARED BY
+ON BEHALF OF  THE STATE OF HAWAII
+DEPARTMENT OF LAND AND NATURAL RESOURCESENGINEERING DIVISION

@@ -1,0 +1,6 @@
+Source URL: https://senatehelp.capitol.hawaii.gov
+
+TEXT CONTENT:
+Authentication - GLPI Login to your account Login Password Forgot Password? Login source GLPI internal database Senate LDAP Remember me Sign in GLPI Copyright (C) 2015-2024 Teclib' and contributors
+
+EXTRACTED CONTENT FROM PDFs:

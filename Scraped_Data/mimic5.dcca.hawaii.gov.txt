@@ -1,0 +1,6 @@
+Source URL: https://mimic5.dcca.hawaii.gov
+
+TEXT CONTENT:
+VMware Horizon You can connect to your desktop and applications by using the VMware Horizon Client or through the browser. The VMware Horizon Client offers better performance and features. Install VMware Horizon Client Launch Native Client Chrome Native Client Chrome Native Client Arc++ Client Check here to skip this screen and always use Native Client. VMware Horizon HTML Access Check here to skip this screen and always use HTML Access. VMware Horizon HTML Access Check here to skip this screen and always use HTML Access. Click Here to Download VMware Horizon Client To see the full list of VMware Horizon Clients, click here. For help with VMware Horizon, click here.
+
+EXTRACTED CONTENT FROM PDFs:

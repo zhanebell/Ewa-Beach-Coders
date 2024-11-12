@@ -1,0 +1,6 @@
+Source URL: https://air.doh.hawaii.gov
+
+TEXT CONTENT:
+Interactive Maps Systemtitle Oregon DEQ - Air Quality Monitoring Data Login Current Air Quality SO2 Advisory Quick Look Tables Reports Hourly Monitoring Data Stations Report Eight Hourly Reports Highest PM2.5 24-hr PM2.5 Summary Highest AQI Highest Ozone Pollutant Rose Annual Exceedance Automatic Data Custom Graphs Advanced Reports Menu Health Resources About Us QueryTask with geometry, results as an InfoWindow onHover Air Quality Index Pollutant Meteorology AQI Levels Good Moderate Unhealthy For Sensitive Groups Unhealthy Very Unhealthy Hazardous Disclaimer and Terms of Use Hawaii State Department of Health · 1250 Punchbowl Street · Honolulu, HI 96813 The data on this web page are preliminary and await review and validation by qualified staff. The data may be revised after review. Every effort is made to assert the validity and integrity of the data, but data can be affected by equipment malfunctions, technical difficulties, and other unforeseen circumstances.
+
+EXTRACTED CONTENT FROM PDFs:

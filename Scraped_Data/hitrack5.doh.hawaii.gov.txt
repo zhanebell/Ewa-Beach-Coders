@@ -1,0 +1,6 @@
+Source URL: https://hitrack5.doh.hawaii.gov
+
+TEXT CONTENT:
+HiTrack 5 Login Username Password About and Legal Information HiTrack HiTrack was developed by Supervision Karl White, Ph. D. Team Leader James Fritzler Software Engineers Daniel Ladner For Support Phone (435) 797-3584 E-Mail ncham.helpdesk@usu.edu HiTrack was developed by Utah State University (USU) to assist in the management of data and patient information in early hearing detection and intervention (EHDI) programs. Use of this program without the express permission of USU is expressly prohibited. Information about obtaining the software can be obtained by calling (435) 797-3584. Technical support can be obtained by calling (435) 797-3584. Acknowledgments David Byington, Louella Christensen, M.S.Ed., Stephen Clyde, Ph. D., Sam Coulson, Don DiChristoforo, Jacob Elmer, Debbie Eskelson, Susan G. Friedman, Ph. D., Subash Gutala, James Hess, Jason Ladner, Hafin Painter, W. Fred Rigby, Dharmesh Shah, Lenore Shisler, Gail Tanner, Au.D., Gunnar Thurman, Randi Winston, Au.D., CCC-A A Two-Factor Authentication Code has been sent to your registered email address. Code #{title} #{text}
+
+EXTRACTED CONTENT FROM PDFs:
