@@ -1,9 +1,11 @@
+# api/embedding.py
+
 import os
 import json
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from utils import log_info, log_error
+from utils import strip_markdown, log_info, log_error
 
 class EmbeddingStore:
     def __init__(self):

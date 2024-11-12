@@ -2,10 +2,6 @@
 
 import os
 import sys
-
-# Adjust the path to include the root directory
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Request
 from pydantic import BaseModel
@@ -13,6 +9,9 @@ from mangum import Mangum
 from embedding import EmbeddingStore
 from utils import strip_markdown, log_info, log_error
 from groq import Groq
+
+# Adjust the path to include the api directory
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # Load environment variables
 load_dotenv()
@@ -26,6 +25,7 @@ embedding_store = EmbeddingStore()
 
 # Constants
 MAX_TOKENS_PER_REQUEST = 4096
+CURRENT_CONTEXT_FILE = "current_relevant_context.txt"
 
 # Initialize FastAPI app
 app = FastAPI()
@@ -47,6 +47,7 @@ def initialize_conversation(conversation_history):
         )
     }
     conversation_history.append(system_message)
+    log_info("Initialized conversation with system message.")
 
 def get_relevant_context(user_query, top_k=3, max_chunk_size=500):
     results = embedding_store.search(user_query, top_k)
@@ -54,7 +55,7 @@ def get_relevant_context(user_query, top_k=3, max_chunk_size=500):
     total_length = 0
 
     for source, similarity in results:
-        file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "ScrapedData", source)
+        file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ScrapedData", source)
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
