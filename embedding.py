@@ -6,9 +6,10 @@ from sentence_transformers import SentenceTransformer
 from utils import log_info, log_error
 
 class EmbeddingStore:
-    def __init__(self, index_path="vector_store.index", metadata_path="metadata.json"):
-        self.index_path = index_path
-        self.metadata_path = metadata_path
+    def __init__(self):
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        self.index_path = os.path.join(base_dir, "vector_store.index")
+        self.metadata_path = os.path.join(base_dir, "metadata.json")
         self.model = SentenceTransformer('all-MiniLM-L6-v2')
         self.dimension = self.model.get_sentence_embedding_dimension()
         self.index = None

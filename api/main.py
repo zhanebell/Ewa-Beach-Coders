@@ -1,7 +1,15 @@
+# api/main.py
+
 import os
+import sys
+
+# Adjust the path to include the root directory
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Request
 from pydantic import BaseModel
+from mangum import Mangum
 from embedding import EmbeddingStore
 from utils import strip_markdown, log_info, log_error
 from groq import Groq
@@ -18,7 +26,6 @@ embedding_store = EmbeddingStore()
 
 # Constants
 MAX_TOKENS_PER_REQUEST = 4096
-CURRENT_CONTEXT_FILE = "current_relevant_context.txt"
 
 # Initialize FastAPI app
 app = FastAPI()
@@ -40,7 +47,6 @@ def initialize_conversation(conversation_history):
         )
     }
     conversation_history.append(system_message)
-    log_info("Initialized conversation with system message.")
 
 def get_relevant_context(user_query, top_k=3, max_chunk_size=500):
     results = embedding_store.search(user_query, top_k)
@@ -48,7 +54,7 @@ def get_relevant_context(user_query, top_k=3, max_chunk_size=500):
     total_length = 0
 
     for source, similarity in results:
-        file_path = os.path.join("ScrapedData", source)
+        file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "ScrapedData", source)
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
@@ -71,18 +77,10 @@ def get_relevant_context(user_query, top_k=3, max_chunk_size=500):
 
                     context += chunk_with_citation
                     total_length += chunk_length
-
-    with open(CURRENT_CONTEXT_FILE, 'w', encoding='utf-8') as ctx_file:
-        ctx_file.write(context)
-    log_info(f"Updated {CURRENT_CONTEXT_FILE} with the latest context.")
-
     return context
 
 def summarize_text(text, max_length=500):
-    if len(text) <= max_length:
-        return text
-    else:
-        return text[:max_length] + "..."
+    return text[:max_length] + "..." if len(text) > max_length else text
 
 def manage_conversation_history(conversation_history, new_message, max_history=10):
     conversation_history.append(new_message)
@@ -132,3 +130,6 @@ async def chat_endpoint(message: Message, request: Request):
     except Exception as ex:
         log_error(f"An error occurred: {ex}")
         raise HTTPException(status_code=500, detail="An error occurred while processing your request.")
+
+# Handler for Vercel
+handler = Mangum(app)

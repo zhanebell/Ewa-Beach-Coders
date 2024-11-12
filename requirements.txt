@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+mangum
 requests
 python-dotenv
 faiss-cpu
